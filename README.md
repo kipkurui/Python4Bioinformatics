@@ -1,9 +1,9 @@
 <small><small><i>
-Introduction to Python for Bioinformatics - available from [provide link later](test.com).
+Introduction to Python for Bioinformatics - available at https://github.com/kipkurui/Python4Bioinformatics.
 
-This is an adaptation of the Introdcution to Python for Maths by [Andreas Ernst](http://users.monash.edu.au/~andreas) , available from  https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git. The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
+This is an adaptation of the Introduction to Python for Maths by [Andreas Ernst](http://users.monash.edu.au/~andreas) , available from  https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git. The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
 
-These notes have been amended and updated for the EANBiT Introduction to Python for Bioinfomatics by Caleb Kibet and Audrey.  
+These notes have been amended and updated for the EANBiT Introduction to Python for Bioinfomatics by Caleb Kibet and Audrey Mbogho.  
 </small></small></i>
 
 # Python-Lectures
@@ -74,16 +74,21 @@ We will use ```jupyter lab``` in this course.
 
 ## How to learn from this resource?
 
-Download all the  notebooks from [https://gitlab.erc.monash.edu.au/andrease/Python4Maths]. For the EANBiT course, we have initialized you Jupyter lab session with all the required resources. 
+Download all the  notebooks from [https://github.com/kipkurui/Python4Bioinformatics]. For the EANBiT course, we have initialized you Jupyter lab session with all the required resources. (Confirm this has been set up before the course)
 
 In case they are not provided, you can simply clone the GitHub repository to you jupyter lab session using the following command:
 
-    clone 
+    clone https://github.com/kipkurui/Python4Bioinformatics.git
     
 Cell > All Output > Clear
 
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
+## How to Contribute
+
+To contribute, fork the repository, make some updates and send me a pull request. 
+
+Alternatively, you can open an issue. 
 
 ## License
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
