@@ -29,12 +29,13 @@ This course is broken up into a number of notebooks (chapters).
 * [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
 * [06](Intro-to-Python/06.ipynb) Functions
 We may only go this far in the lecturers, but we can keep the rest for update latter on. 
-
 * [07](Intro-to-Python/07.ipynb) Classes and basic object oriented programming
 * [08](Intro-to-Python/08.ipynb) Scipy: libraries for arrays (matrices) and plotting
 * [09](Intro-to-Python/09.ipynb) Mixed Integer Linear Programming using the mymip library
 * [10](Intro-to-Python/10.ipynb) Networks and graphs under python - a very brief introduction
 * [11](Intro-to-Python/11.ipynb) Using the numba library for fast numerical computing.
+
+### I will add an advance Python for Bioinformatics, for the curious participants
     
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
