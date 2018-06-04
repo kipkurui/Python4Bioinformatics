@@ -36,6 +36,7 @@ We may only go this far in the lecturers, but we can keep the rest for update la
 * [11](Intro-to-Python/11.ipynb) Using the numba library for fast numerical computing.
 
 ### I will add an advance Python for Bioinformatics, for the curious participants
+This will include Bioinformatics-specific packages. 
     
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
