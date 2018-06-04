@@ -16,16 +16,6 @@ Python, similar to other languages like matlab or R, is interpreted hence runs s
 
 These lectures are using jupyter notebooks which mix Python code with documentation. The python notebooks can be run on a webserver or stand-alone on a computer.
 
-To give an indication of what Python code looks like, here is a simple bit of code that defines a set $N=\{1,3,4,5,7\}$ and calculates the sum of the squared elements of this set: $$\sum_{i\in N} i^2=100$$
-
-## Choose a Bioinformatics-centric example
-```python
-N={1,3,4,5,7}
-print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
-```
-
-    The sum of ∑_i∈N i*i = 100
-
 
 ## Contents
 
