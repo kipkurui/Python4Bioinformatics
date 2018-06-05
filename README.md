@@ -1,9 +1,13 @@
-<small><small><i>
+# Python For Bioinformatics
+
 Introduction to Python for Bioinformatics - available at https://github.com/kipkurui/Python4Bioinformatics.
 
+<small><small><i>
+
+## Attribution
 This is an adaptation of the Introduction to Python for Maths by [Andreas Ernst](http://users.monash.edu.au/~andreas), available from https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git. The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
 
-These notes have been amended and updated for the EANBiT Introduction to Python for Bioinformatics by Caleb Kibet and Audrey Mbogho. 
+These notes have been greatly amended and updated for the EANBiT Introduction to Python for Bioinformatics by [Caleb Kibet](https://twitter.com/calkibet) and Audrey Mbogho. 
 </small></small></i>
 
 # Quick Introduction to Jupyter Notebooks
@@ -47,8 +51,7 @@ A Jupyter notebook is made up of a number of cells. Each cell can contain Python
 To learn more about Jupyter notebooks, check [the official introduction](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [some useful Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). 
 
 
-# Python-Lectures
-
+# Python for Bioinformatics
 
 ## Introduction
 
@@ -87,7 +90,7 @@ This is a tutorial style introduction to Python. For a quick reminder/summary of
 ## Installation
 
 ### Login into the web server
-The easiest way to run this and other notebooks for the EANBiT course participants is to log into the Jupyter server at [https://sci-web17-v01.ocio.monash.edu.au/hub]. The steps for running notebooks are:
+The easiest way to run this and other notebooks for the EANBiT course participants is to log into the Jupyter server. The steps for running notebooks are:
 * Log in using the username and password assigned to you. The first time you log in an empty account will automatically be set up for you.
 * Press the start button (if prompted by the system)
 * Use the menu of the jupyter system to upload a .ipynb python notebook file or to start a new notebook.
