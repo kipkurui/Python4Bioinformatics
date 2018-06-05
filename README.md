@@ -6,7 +6,49 @@ This is an adaptation of the Introduction to Python for Maths by [Andreas Ernst]
 These notes have been amended and updated for the EANBiT Introduction to Python for Bioinfomatics by Caleb Kibet and Audrey Mbogho.  
 </small></small></i>
 
+# Quick Introduction to Jupyter Notebooks
+
+Throughout this course, we will be using Jupyter Notebooks. Although the HPC you will be using has Jupyter setup, these notes are provided in case you want to set it up in your Computer. 
+
+## Introduction
+The Jupyter Notebook is an interactive computing environment that enables users to author notebooks, which contain a complete and self-contained record of a computation. These notebooks can be shared more efficiently. The notebooks may contain:
+* Live code
+* Interactive widgets
+* Plots
+* Narrative text
+* Equations
+* Images
+* Video
+
+It good to note that "Jupyter" is a loose acronym meaning Julia, Python, and R; the initial languages supported by Jupyter. 
+
+The notebook can allow a computational researcher to create a reproducible documentation of their research. As Bioinformatics is datacentric, use of Jupyter Notebooks increases research transparency, hence promoting open science. 
+
+## First Steps
+
+### Installation
+From the command line, you can easily install jupyter using pip. 
+
+`pip3 install jupyter`
+
+or by using anaconda
+
+`conda install jupyter`
+
+Then you can easily launch it using:
+
+`jupyter notebook`
+
+A Jupyter notebook is made up of a number of cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` to execute without moving to the next line. 
+
+
+### Further help
+
+To learn more about Jupyter notebooks, check [the official introduction](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [some useful Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). 
+
+
 # Python-Lectures
+
 
 ## Introduction
 
