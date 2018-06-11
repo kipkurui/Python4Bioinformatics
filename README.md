@@ -73,6 +73,9 @@ This course is broken up into a number of notebooks (chapters).
 * [04](Intro-to-Python/04.ipynb) Data structures (continued): dictionaries
 * [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
 * [06](Intro-to-Python/06.ipynb) Functions
+* [07](Intro-to-Python/07.ipynb) Scripting with python
+* [08](Intro-to-Python/08.ipynb) Data Mungling with Pandas
+* [09](Intro-to-Python/09.ipynb) Introduction to NumPy
 We may only go this far in the lecturers, but we can keep the rest for update latter on. 
 
 ### I will add an advanced Python for Bioinformatics, for the curious participants
