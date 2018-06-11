@@ -74,11 +74,6 @@ This course is broken up into a number of notebooks (chapters).
 * [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
 * [06](Intro-to-Python/06.ipynb) Functions
 We may only go this far in the lecturers, but we can keep the rest for update latter on. 
-* [07](Intro-to-Python/07.ipynb) Classes and basic object oriented programming
-* [08](Intro-to-Python/08.ipynb) Scipy: libraries for arrays (matrices) and plotting
-* [09](Intro-to-Python/09.ipynb) Mixed Integer Linear Programming using the mymip library
-* [10](Intro-to-Python/10.ipynb) Networks and graphs under python - a very brief introduction
-* [11](Intro-to-Python/11.ipynb) Using the numba library for fast numerical computing.
 
 ### I will add an advanced Python for Bioinformatics, for the curious participants
 This will include Bioinformatics-specific packages. 
