@@ -12,7 +12,7 @@ These notes have been greatly amended and updated for the EANBiT Introduction to
 
 # Quick Introduction to Jupyter Notebooks
 
-Throughout this course, we will be using Jupyter Notebooks. Although the HPC you will be using has Jupyter setup, these notes are provided in case you want to set it up in your Computer. 
+Throughout this course, we will be using Jupyter Notebooks. Although the HPC you will be using has Jupyter setup, these notes are provided for you want to set it up in your Computer. 
 
 ## Introduction
 The Jupyter Notebook is an interactive computing environment that enables users to author notebooks, which contain a complete and self-contained record of a computation. These notebooks can be shared more efficiently. The notebooks may contain:
@@ -45,7 +45,19 @@ Then you can easily launch it using:
 
 A Jupyter notebook is made up of a number of cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` to execute without moving to the next line. 
 
-
+## Reproduce my Python Environment
+These instruction will enable you to create a clone of my working environment. First, 
+1. [Download Anaconda](https://www.anaconda.com/download/) for your specific OS to your home directory
+    - Linux: `wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh`
+    - Mac: `curl https://repo.anaconda.com/archive/Anaconda3-5.2.0-MacOSX-x86_64.sh`
+2. Run:
+    - `bash Anaconda3-5.2.0-Linux-x86_64.sh`
+    - `bash Anaconda3-5.2.0-MacOSX-x86_64.sh`
+3. Follow all the prompts: if unsure, accept defaults
+4. Close and re-open your terminal
+5. If installation is successful, you should see a list of installed packages with
+    - `conda list`
+    
 ### Further help
 
 To learn more about Jupyter notebooks, check [the official introduction](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [some useful Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). 
