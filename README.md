@@ -31,22 +31,7 @@ The notebook can allow a computational researcher to create a reproducible docum
 ## First Steps
 
 ### Installation
-From the command line, you can easily install jupyter using pip. 
 
-`pip3 install jupyter`
-
-or by using anaconda
-
-`conda install jupyter`
-
-Then you can easily launch it using:
-
-`jupyter notebook`
-
-A Jupyter notebook is made up of a number of cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` to execute without moving to the next line. 
-
-## Reproduce my Python Environment
-These instruction will enable you to create a clone of my working environment. First, 
 1. [Download Anaconda](https://www.anaconda.com/download/) for your specific OS to your home directory
     - Linux: `wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh`
     - Mac: `curl https://repo.anaconda.com/archive/Anaconda3-5.2.0-MacOSX-x86_64.sh`
@@ -57,6 +42,32 @@ These instruction will enable you to create a clone of my working environment. F
 4. Close and re-open your terminal
 5. If installation is successful, you should see a list of installed packages with
     - `conda list`
+
+For reproducible analysis, you can [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html) with all the Python packages you used.
+
+    `conda create --name my-env python jupyter`
+    
+To activate the conda environment:
+    `source activate myenv`
+
+Having set-up conda environment, you can install any package you need using pip. 
+
+`pip3 install jupyter`
+
+or by using conda
+
+`conda install jupyter`
+`conda install -c conda-forge jupyterlab`
+
+Then you can easily launch it using:
+
+`jupyter notebook` or `jupyter lab`
+
+NB: We will use jupyter lab in the training. 
+
+
+A Jupyter notebook is made up of a number of cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` to execute without moving to the next line. 
+
     
 ### Further help
 
