@@ -105,6 +105,7 @@ This course is broken up into a number of notebooks (lectures).
 * [08](Intro-to-Python/08.ipynb) Data Mungling with Pandas
 * [09](Intro-to-Python/09.ipynb) Introduction to NumPy
 
+
 ### Advanced notebooks
 I will add an advanced Python for Bioinformatics notebook, for the curious participants. This will introduce the use of Bioinformatics-specific python packages.
 
