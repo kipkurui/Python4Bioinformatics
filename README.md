@@ -70,6 +70,13 @@ NB: We will use a jupyter lab for training.
 
 A Jupyter notebook is made up of many cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` (run without moving to the next line). 
 
+### Login into the web server
+
+The easiest way to run this and other notebooks for the EANBiT course participants is to log into the Jupyter server (Unfortunately, this is not currently working). The steps for running notebooks are:
+* Log in using the username and password assigned to you. The first time you log in an empty account will automatically be set up for you.
+* Press the start button (if prompted by the system)
+* Use the menu of the jupyter system to upload a .ipynb python notebook file or to start a new notebook.
+
 ### Further help
 
 To learn more about Jupyter notebooks, check [the official introduction](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [some useful Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). 
@@ -93,6 +100,7 @@ This course is broken up into a number of notebooks (lectures).
 ### Session 1
 * [00](Intro-to-Python/00.ipynb) This introduction with additional information below on how to get started in running python
 * [01](Intro-to-Python/01.ipynb) Basic data types and operations (numbers, strings) 
+
 ### Session 2
 * [02](Intro-to-Python/02.ipynb) String manipulation 
 * [03](Intro-to-Python/03.ipynb) Data structures: Lists and Tuples
@@ -107,18 +115,6 @@ This course is broken up into a number of notebooks (lectures).
 
 This is a tutorial style introduction to Python. For a quick reminder/summary of Python syntax, the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/.
 
-
-## Installation
-
-### Login into the web server
-The easiest way to run this and other notebooks for the EANBiT course participants is to log into the Jupyter server (Unfortunately, this is not currently working). The steps for running notebooks are:
-* Log in using the username and password assigned to you. The first time you log in an empty account will automatically be set up for you.
-* Press the start button (if prompted by the system)
-* Use the menu of the jupyter system to upload a .ipynb python notebook file or to start a new notebook.
-
-### Installing 
-
-Python runs on Windows, Linux, Mac and other environments. There are many python distributions available. However, the recommended way to install python under Microsoft Windows or Linux is to use the Anaconda distribution available at [https://www.continuum.io/downloads]. Make sure to get the Python *3.5* version, not 2.7. This distribution comes with the [SciPy](https://www.scipy.org/) collection of scientific python tools as well as the iron python notebook.
 
 ## How to learn from this resource?
 
