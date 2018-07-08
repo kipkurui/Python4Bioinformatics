@@ -118,7 +118,7 @@ This is a tutorial style introduction to Python. For a quick reminder/summary of
 
 ## How to learn from this resource?
 
-Download all the notebooks from [Python4Bioinformatics] (https://github.com/kipkurui/Python4Bioinformatics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
+Download all the notebooks from [Python4Bioinformatics(https://github.com/kipkurui/Python4Bioinformatics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
 
     git clone https://github.com/kipkurui/Python4Bioinformatics.git
 
