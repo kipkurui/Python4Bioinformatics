@@ -33,7 +33,7 @@ The notebook can allow a computational researcher to create reproducible documen
 ### Installation
 
 1. [Download Miniconda](https://www.anaconda.com/download/) for your specific OS to your home directory
-    - Linux: `https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh.`
+    - Linux: `wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh.`
     - Mac: `curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh`
 2. Run:
     - `bash Miniconda3-latest-Linux-x86_64.sh`
