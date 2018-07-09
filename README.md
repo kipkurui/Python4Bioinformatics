@@ -52,9 +52,8 @@ For reproducible analysis, you can [create a conda environment](https://conda.io
 To activate the conda environment:
     `source activate bioinf`
 
-Having set-up conda environment, you can install any package you need using pip. 
+Having set-up conda environment, you can install `jupyter lab` using pip. 
 
-`conda install jupyter`
 `conda install -c conda-forge jupyterlab`
 
 or by using pip
@@ -63,10 +62,24 @@ or by using pip
 
 Then you can quickly launch it using:
 
-`jupyter notebook` or `jupyter lab`
+`jupyter lab`
 
 NB: We will use a jupyter lab for training. 
 
+## How to learn from this resource?
+
+Download all the notebooks from [Python4Bioinformatics(https://github.com/kipkurui/Python4Bioinformatics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
+
+    git clone https://github.com/kipkurui/Python4Bioinformatics.git
+
+or
+
+    wget https://github.com/kipkurui/Python4Bioinformatics/archive/master.zip
+    
+    unzip master.zip
+    
+    rm master.zip
+    
 
 A Jupyter notebook is made up of many cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` (run without moving to the next line). 
 
@@ -116,19 +129,7 @@ This course is broken up into a number of notebooks (lectures).
 This is a tutorial style introduction to Python. For a quick reminder/summary of Python syntax, the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/.
 
 
-## How to learn from this resource?
 
-Download all the notebooks from [Python4Bioinformatics(https://github.com/kipkurui/Python4Bioinformatics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
-
-    git clone https://github.com/kipkurui/Python4Bioinformatics.git
-
-or
-
-    wget https://github.com/kipkurui/Python4Bioinformatics/archive/master.zip
-    
-    unzip master.zip
-    
-    rm master.zip
     
 
 ## How to Contribute
