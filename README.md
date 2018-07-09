@@ -60,12 +60,6 @@ or by using pip
 
 `pip3 install jupyter`
 
-Then you can quickly launch it using:
-
-`jupyter lab`
-
-NB: We will use a jupyter lab for training. 
-
 ## How to learn from this resource?
 
 Download all the notebooks from [Python4Bioinformatics(https://github.com/kipkurui/Python4Bioinformatics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
@@ -80,7 +74,13 @@ or
     
     rm master.zip
     
+    cd Python4Bioinformatics-master
+    
+Then you can quickly launch jupyter lab using:
 
+`jupyter lab`
+
+NB: We will use a jupyter lab for training. 
 A Jupyter notebook is made up of many cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` (run without moving to the next line). 
 
 ### Login into the web server
