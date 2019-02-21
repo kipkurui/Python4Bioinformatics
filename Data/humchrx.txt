@@ -1,0 +1,929 @@
+----------------------------------------------------------------------------
+        UniProt - Swiss-Prot Protein Knowledgebase
+        SIB Swiss Institute of Bioinformatics; Geneva, Switzerland
+        European Bioinformatics Institute (EBI); Hinxton, United Kingdom
+        Protein Information Resource (PIR); Washington DC, USA
+----------------------------------------------------------------------------
+
+Description: Human chromosome X: entries, gene names and
+             cross-references to MIM
+Name:        humchrx.txt
+Release:     2019_02 of 13-Feb-2019
+
+----------------------------------------------------------------------------
+
+This documents lists all the human protein sequence entries whose genes
+are known to be encoded on chromosome X in this release of UniProtKB/Swiss-Prot.
+
+Number of UniProtKB/Swiss-Prot entries encoded on chromosome X: 848
+
+Reference for the chromosome sequence:
+Nature 434:325-337(2005).
+PubMed=15772651; DOI=10.1038/nature03440;
+
+For more information on chromosome X see:
+
+Sanger  : http://www.sanger.ac.uk/about/history/hgp/chrx.html
+Ensembl : http://www.ensembl.org/Homo_sapiens/mapview?chr=X
+NCBI    : https://www.ncbi.nlm.nih.gov/mapview/maps.cgi?taxid=9606&chr=X
+OMIM    : https://www.ncbi.nlm.nih.gov/Omim/getmap.cgi?chromosome=X
+DOE     : http://www.ornl.gov/sci/techresources/Human_Genome/launchpad/chromX.shtml
+
+
+_______    _______________ ______________________ ______ ______________________
+Gene       Chromosomal     Swiss-Prot             MIM    Description
+name       position        AC     Entry name      code
+_______    _______________ ______________________ ______ ______________________
+ABCB7      Xq13            O75027     ABCB7_HUMAN 300135 ATP-binding cassette sub-family B member 7, mitochondrial precursor (ATP-binding cassette transporter 7) (ABC transporter 7 protein) [ABC7]
+ABCD1      Xq28            P33897     ABCD1_HUMAN 300371 ATP-binding cassette sub-family D member 1 (Adrenoleukodystrophy protein) (ALDP) [ALD]
+ACE2       Xp22            Q9BYF1     ACE2_HUMAN  300335 Angiotensin-converting enzyme 2 precursor (EC 3.4.17.23) (ACE-related carboxypeptidase) (Angiotensin-converting enzyme homolog) (ACEH) (Metalloprotease MPROT15) [Contains: Processed angiotensin-converting enzyme 2] [UNQ868/PRO1885]
+ACOT9      Xp22.11         Q9Y305     ACOT9_HUMAN 300862 Acyl-coenzyme A thioesterase 9, mitochondrial precursor (EC 3.1.2.-) (Acyl-CoA thioesterase 9) (Acyl-CoA thioester hydrolase 9) [CGI-16]
+ACSL4      Xq22.3-q23      O60488     ACSL4_HUMAN 300157 Long-chain-fatty-acid--CoA ligase 4 (EC 6.2.1.3) (Long-chain acyl-CoA synthetase 4) (LACS 4) [ACS4] [FACL4] [LACS4]
+ACTRT1     Xq25            Q8TDG2     ACTT1_HUMAN 300487 Actin-related protein T1 (ARP-T1) [ARPT1] [HSD27]
+ADGRG2     Xp22.11-p22.32  Q8IZP9     AGRG2_HUMAN 300572 Adhesion G-protein coupled receptor G2 precursor (G-protein coupled receptor 64) (Human epididymis-specific protein 6) (He6) [GPR64] [HE6] [TM7LN2]
+ADGRG4     Xq26.3          Q8IZF6     AGRG4_HUMAN        Adhesion G-protein coupled receptor G4 precursor (G-protein coupled receptor 112) [GPR112]
+AFF2       Xq28            P51816     AFF2_HUMAN  300806 AF4/FMR2 family member 2 (Fragile X E mental retardation syndrome protein) (Fragile X mental retardation 2 protein) (FMR2P) (Protein FMR-2) (Protein Ox19) [FMR2] [OX19]
+AGTR2      Xq22-q23        P50052     AGTR2_HUMAN 300034 Type-2 angiotensin II receptor (Angiotensin II type-2 receptor) (AT2)
+AIFM1      Xq25-q26        O95831     AIFM1_HUMAN 300169 Apoptosis-inducing factor 1, mitochondrial precursor (EC 1.1.1.-) (Programmed cell death protein 8) [AIF] [PDCD8]
+AKAP14     Xq24            Q86UN6     AKA28_HUMAN 300462 A-kinase anchor protein 14 (AKAP-14) (A-kinase anchor protein 28 kDa) (AKAP 28) (Protein kinase A-anchoring protein 14) (PRKA14) [AKAP28]
+AKAP17A    Xp22.32         Q02040     AK17A_HUMAN 465000 A-kinase anchor protein 17A (AKAP-17A) (721P) (B-lymphocyte antigen) (Protein XE7) (Protein kinase A-anchoring protein 17A) (PRKA17A) (Splicing factor, arginine/serine-rich 17A) [CXYorf3] [DXYS155E] [SFRS17A] [XE7]
+AKAP4      Xp11.2          Q5JQC9     AKAP4_HUMAN 300185 A-kinase anchor protein 4 precursor (AKAP-4) (A-kinase anchor protein 82 kDa) (AKAP 82) (hAKAP82) (Major sperm fibrous sheath protein) (HI) (Protein kinase A-anchoring protein 4) (PRKA4) [AKAP82]
+ALAS2      Xp11.21         P22557     HEM0_HUMAN  301300 5-aminolevulinate synthase, erythroid-specific, mitochondrial precursor (EC 2.3.1.37) (ALAS-E) (5-aminolevulinic acid synthase 2) (Delta-ALA synthase 2) (Delta-aminolevulinate synthase 2) [ALASE] [ASB]
+ALG13      Xq23            Q9NP73     ALG13_HUMAN 300776 Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13 (EC 2.4.1.141) (EC 3.4.19.12) (Asparagine-linked glycosylation 13 homolog) (Glycosyltransferase 28 domain-containing protein 1) (UDP-N-acetylglucosamine transferase subunit ALG13 homolog) [CXorf45] [GLT28D1] [MDS031]
+AMELX      Xp22.1-p22.31   Q99217     AMELX_HUMAN 300391 Amelogenin, X isoform precursor [AMG] [AMGX]
+AMER1      Xq11.1          Q5JTC6     AMER1_HUMAN 300647 APC membrane recruitment protein 1 (Amer1) (Protein FAM123B) (Wilms tumor gene on the X chromosome protein) [FAM123B] [WTX]
+AMMECR1    Xq22.3          Q9Y4X0     AMMR1_HUMAN 300195 AMME syndrome candidate gene 1 protein
+AMOT       Xq23            Q4VCS5     AMOT_HUMAN  300410 Angiomotin [KIAA1071]
+ANOS1      Xp22.32         P23352     KALM_HUMAN  300836 Anosmin-1 precursor (Adhesion molecule-like X-linked) (Kallmann syndrome protein) [ADMLX] [KAL] [KAL1] [KALIG1]
+AP1S2      Xp21.3          P56377     AP1S2_HUMAN 300629 AP-1 complex subunit sigma-2 (Adaptor protein complex AP-1 subunit sigma-1B) (Adaptor-related protein complex 1 subunit sigma-1B) (Clathrin assembly protein complex 1 sigma-1B small chain) (Golgi adaptor HA1/AP1 adaptin sigma-1B subunit) (Sigma 1B subunit of AP-1 clathrin) (Sigma-adaptin 1B) (Sigma1B-adaptin) [DC22]
+APEX2      Xp11.23         Q9UBZ4     APEX2_HUMAN 300773 DNA-(apurinic or apyrimidinic site) lyase 2 (EC 3.1.-.-) (EC 4.2.99.18) (AP endonuclease XTH2) (APEX nuclease 2) (APEX nuclease-like 2) (Apurinic-apyrimidinic endonuclease 2) (AP endonuclease 2) [APE2] [APEXL2] [XTH2]
+APLN       Xq25-q26.1      Q9ULZ1     APEL_HUMAN  300297 Apelin precursor (APJ endogenous ligand) [Contains: Apelin-36; Apelin-31; Apelin-28; Apelin-13] [APEL]
+APOO       Xp22.11         Q9BUR5     MIC26_HUMAN 300753 MICOS complex subunit MIC26 precursor (Apolipoprotein O) (MICOS complex subunit MIC23) (Protein FAM121B) [FAM121B] [MIC23] [MIC26] [My025] [UNQ1866/PRO4302]
+APOOL      Xq21.1          Q6UXV4     MIC27_HUMAN 300955 MICOS complex subunit MIC27 precursor (Apolipoprotein O-like) (Protein FAM121A) [CXorf33] [FAM121A] [MIC27] [UNQ8193/PRO23204]
+AR         Xq11-q12        P10275     ANDR_HUMAN  313700 Androgen receptor (Dihydrotestosterone receptor) (Nuclear receptor subfamily 3 group C member 4) [DHTR] [NR3C4]
+ARAF       Xp11.2-p11.4    P10398     ARAF_HUMAN  311010 Serine/threonine-protein kinase A-Raf (EC 2.7.11.1) (Proto-oncogene A-Raf) (Proto-oncogene A-Raf-1) (Proto-oncogene Pks) [ARAF1] [PKS] [PKS2]
+ARHGAP36   Xq26.1          Q6ZRI8     RHG36_HUMAN 300937 Rho GTPase-activating protein 36 precursor
+ARHGAP4    Xq28            P98171     RHG04_HUMAN 300023 Rho GTPase-activating protein 4 (Rho-GAP hematopoietic protein C1) (Rho-type GTPase-activating protein 4) (p115) [KIAA0131] [RGC1] [RHOGAP4]
+ARHGAP6    Xp22.3          O43182     RHG06_HUMAN 300118 Rho GTPase-activating protein 6 (Rho-type GTPase-activating protein 6) (Rho-type GTPase-activating protein RhoGAPX-1) [RHOGAP6]
+ARHGEF6    Xq26            Q15052     ARHG6_HUMAN 300267 Rho guanine nucleotide exchange factor 6 (Alpha-Pix) (COOL-2) (PAK-interacting exchange factor alpha) (Rac/Cdc42 guanine nucleotide exchange factor 6) [COOL2] [KIAA0006] [PIXA]
+ARHGEF9    Xq11.1          O43307     ARHG9_HUMAN 300429 Rho guanine nucleotide exchange factor 9 (Collybistin) (PEM-2 homolog) (Rac/Cdc42 guanine nucleotide exchange factor 9) [ARHDH9] [KIAA0424]
+ARL13A     Xq22.1          Q5H913     AR13A_HUMAN        ADP-ribosylation factor-like protein 13A
+ARMCX1     Xq22.1          Q9P291     ARMX1_HUMAN 300362 Armadillo repeat-containing X-linked protein 1 (ARM protein lost in epithelial cancers on chromosome X 1) (Protein ALEX1) [ALEX1] [AD032]
+ARMCX2     Xq22.1          Q7L311     ARMX2_HUMAN 300363 Armadillo repeat-containing X-linked protein 2 (ARM protein lost in epithelial cancers on chromosome X 2) (Protein ALEX2) [ALEX2] [KIAA0512]
+ARMCX3     Xq22.1          Q9UH62     ARMX3_HUMAN 300364 Armadillo repeat-containing X-linked protein 3 (ARM protein lost in epithelial cancers on chromosome X 3) (Protein ALEX3) [ALEX3] [BM-017] [UNQ2517/PRO6007]
+ARMCX4     Xq22.1          Q5H9R4     ARMX4_HUMAN        Armadillo repeat-containing X-linked protein 4
+ARMCX5     Xq22.1          Q6P1M9     ARMX5_HUMAN        Armadillo repeat-containing X-linked protein 5
+ARMCX6     Xq22.1          Q7L4S7     ARMX6_HUMAN        Protein ARMCX6
+ARR3       Xcen-q21        P36575     ARRC_HUMAN  301770 Arrestin-C (Cone arrestin) (C-arrestin) (cArr) (Retinal cone arrestin-3) (X-arrestin) [ARRX] [CAR]
+ARSD       Xp22.3          P51689     ARSD_HUMAN  300002 Arylsulfatase D precursor (EC 3.1.6.-) (ASD)
+ARSE       Xp22.3          P51690     ARSE_HUMAN  300180 Arylsulfatase E precursor (EC 3.1.6.-) (ASE)
+ARSF       Xp22.3          P54793     ARSF_HUMAN  300003 Arylsulfatase F precursor (EC 3.1.6.-) (ASF)
+ARSH       Xp22.33         Q5FYA8     ARSH_HUMAN  300586 Arylsulfatase H (EC 3.1.6.-) (ASH)
+ARX        Xp22.12         Q96QS3     ARX_HUMAN   300382 Homeobox protein ARX (Aristaless-related homeobox)
+ASB11      Xp22.31         Q8WXH4     ASB11_HUMAN 300626 Ankyrin repeat and SOCS box protein 11 (ASB-11)
+ASB12      Xq11.2          Q8WXK4     ASB12_HUMAN 300891 Ankyrin repeat and SOCS box protein 12 (ASB-12)
+ASB9       Xp21.3          Q96DX5     ASB9_HUMAN  300890 Ankyrin repeat and SOCS box protein 9 (ASB-9)
+ASMT       Xp22.3          P46597     ASMT_HUMAN  402500 Acetylserotonin O-methyltransferase (EC 2.1.1.4) (Hydroxyindole O-methyltransferase) (HIOMT)
+ASMTL      Xp22.3          O95671     ASML_HUMAN  400011 Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein [Includes: dTTP/UTP pyrophosphatase (EC 3.6.1.9) (dTTPase/UTPase) (Nucleoside triphosphate pyrophosphatase) (Nucleotide pyrophosphatase) (Nucleotide PPase); N-acetylserotonin O-methyltransferase-like protein (EC 2.1.1.-) (ASMTL)]
+ATG4A      Xq22.1-q22.3    Q8WYN0     ATG4A_HUMAN 300663 Cysteine protease ATG4A (EC 3.4.22.-) (AUT-like 2 cysteine endopeptidase) (Autophagin-2) (Autophagy-related cysteine endopeptidase 2) (Autophagy-related protein 4 homolog A) (hAPG4A) [APG4A] [AUTL2]
+ATP11C     Xq27.1          Q8NB49     AT11C_HUMAN 300516 Phospholipid-transporting ATPase IG (EC 7.6.2.1) (ATPase IQ) (ATPase class VI type 11C) (P4-ATPase flippase complex alpha subunit ATP11C) [ATPIG] [ATPIQ]
+ATP1B4     Xq24            Q9UN42     AT1B4_HUMAN        Protein ATP1B4 (X,K-ATPase subunit beta-m) (X/potassium-transporting ATPase subunit beta-m)
+ATP2B3     Xq28            Q16720     AT2B3_HUMAN 300014 Plasma membrane calcium-transporting ATPase 3 (EC 7.2.2.10) (PMCA3) (Plasma membrane calcium ATPase isoform 3) (Plasma membrane calcium pump isoform 3)
+ATP6AP1    Xq28            Q15904     VAS1_HUMAN  300197 V-type proton ATPase subunit S1 precursor (V-ATPase subunit S1) (Protein XAP-3) (V-ATPase Ac45 subunit) (V-ATPase S1 accessory protein) (Vacuolar proton pump subunit S1) [ATP6IP1] [ATP6S1] [VATPS1] [XAP3]
+ATP6AP2    Xp11.4          O75787     RENR_HUMAN  300556 Renin receptor precursor (ATPase H(+)-transporting lysosomal accessory protein 2) (ATPase H(+)-transporting lysosomal-interacting protein 2) (ER-localized type I transmembrane adaptor) (Embryonic liver differentiation factor 10) (N14F) (Renin/prorenin receptor) (Vacuolar ATP synthase membrane sector-associated protein M8-9) (ATP6M8-9) (V-ATPase M8.9 subunit) [ATP6IP2] [CAPER] [ELDF10] [HT028] [MSTP009] [PSEC0072]
+ATP7A      Xq13.2-q13.3    Q04656     ATP7A_HUMAN 300011 Copper-transporting ATPase 1 (EC 7.2.2.8) (Copper pump 1) (Menkes disease-associated protein) [MC1] [MNK]
+ATRX       Xq13.1-q21.1    P46100     ATRX_HUMAN  300032 Transcriptional regulator ATRX (EC 3.6.4.12) (ATP-dependent helicase ATRX) (X-linked helicase II) (X-linked nuclear protein) (XNP) (Znf-HX) [RAD54L] [XH2]
+ATXN3L     Xp22.2          Q9H3M9     ATX3L_HUMAN 300920 Ataxin-3-like protein (EC 3.4.19.12) (Machado-Joseph disease protein 1-like) [ATX3L] [MJDL]
+AVPR2      Xq28            P30518     V2R_HUMAN   300538 Vasopressin V2 receptor (V2R) (AVPR V2) (Antidiuretic hormone receptor) (Renal-type arginine vasopressin receptor) [ADHR] [DIR] [DIR3] [V2R]
+AWAT1      Xq13.1          Q58HT5     AWAT1_HUMAN 300924 Acyl-CoA wax alcohol acyltransferase 1 (EC 2.3.1.75) (Diacylglycerol O-acyltransferase 2-like protein 3) (Diacylglycerol acyltransferase 2) (Long-chain-alcohol O-fatty-acyltransferase 1) [DGA2] [DGAT2L3]
+AWAT2      Xq13.1          Q6E213     AWAT2_HUMAN 300925 Acyl-CoA wax alcohol acyltransferase 2 (EC 2.3.1.75) (Acyl-CoA retinol O-fatty-acyltransferase) (EC 2.3.1.76) (ARAT) (Retinol O-fatty-acyltransferase) (Diacylglycerol O-acyltransferase 2-like protein 4) (Diacylglycerol O-acyltransferase candidate 4) (hDC4) (Long-chain-alcohol O-fatty-acyltransferase 2) (Multifunctional O-acyltransferase) (Wax synthase) (hWS) [DC4] [DGAT2L4] [MFAT] [WS]
+BCAP31     Xq28            P51572     BAP31_HUMAN 300398 B-cell receptor-associated protein 31 (BCR-associated protein 31) (Bap31) (6C6-AG tumor-associated antigen) (Protein CDM) (p28) [BAP31] [DXS1357E]
+BCLAF3     Xp22.12         A2AJT9     BCLA3_HUMAN        BCLAF1 and THRAP3 family member 3 [CXorf23]
+BCOR       Xp11.4          Q6W2J9     BCOR_HUMAN  300485 BCL-6 corepressor (BCoR) [KIAA1575]
+BCORL1     Xq25            Q5H9F3     BCORL_HUMAN 300688 BCL-6 corepressor-like protein 1 (BCoR-L1) (BCoR-like protein 1)
+BEND2      Xp22.13         Q8NDZ0     BEND2_HUMAN        BEN domain-containing protein 2 [CXorf20]
+BEX1       Xq21-q23        Q9HBH7     BEX1_HUMAN  300690 Protein BEX1 (Brain-expressed X-linked protein 1)
+BEX2       Xq22            Q9BXY8     BEX2_HUMAN  300691 Protein BEX2 (Brain-expressed X-linked protein 2) (hBex2)
+BEX3       Xq22.2          Q00994     BEX3_HUMAN  300361 Protein BEX3 (Brain-expressed X-linked protein 3) (Nerve growth factor receptor-associated protein 1) (Ovarian granulosa cell 13.0 kDa protein HGR74) (p75NTR-associated cell death executor) [DXS6984E] [NADE] [NGFRAP1]
+BEX4       Xq22.1-q22.3    Q9NWD9     BEX4_HUMAN  300692 Protein BEX4 (BEX1-like protein 1) (Brain-expressed X-linked protein 4) (Nerve growth factor receptor-associated protein 3) [BEXL1] [NADE3]
+BEX5       Xq22.1          Q5H9J7     BEX5_HUMAN  300693 Protein BEX5 (Brain-expressed X-linked protein 5) (NGFRAP1-like protein 1) (Nerve growth factor receptor-associated protein 2) [NADE2] [NGFRAP1L1]
+BGN        Xq28            P21810     PGS1_HUMAN  301870 Biglycan precursor (Bone/cartilage proteoglycan I) (PG-S1) [SLRR1A]
+BHLHB9     Xq23            Q6PI77     BHLH9_HUMAN 300921 Protein BHLHb9 (bHLHb9) (Transcription regulator of 60 kDa) (p60TRP) [KIAA1701]
+BMP15      Xp11.2          O95972     BMP15_HUMAN 300247 Bone morphogenetic protein 15 precursor (BMP-15) (Growth/differentiation factor 9B) (GDF-9B) [GDF9B]
+BMP2KL     Xq13.2          Q5H9B9     BM2KL_HUMAN        Putative BMP-2-inducible kinase-like protein
+BMX        Xp22.2          P51813     BMX_HUMAN   300101 Cytoplasmic tyrosine-protein kinase BMX (EC 2.7.10.2) (Bone marrow tyrosine kinase gene in chromosome X protein) (Epithelial and endothelial tyrosine kinase) (ETK) (NTK38)
+BRCC3      Xq28            P46736     BRCC3_HUMAN 300617 Lys-63-specific deubiquitinase BRCC36 (EC 3.4.19.-) (BRCA1-A complex subunit BRCC36) (BRCA1/BRCA2-containing complex subunit 3) (BRCA1/BRCA2-containing complex subunit 36) (BRISC complex subunit BRCC36) [BRCC36] [C6.1A] [CXorf53]
+BRS3       Xq26-q28        P32247     BRS3_HUMAN  300107 Bombesin receptor subtype-3 (BRS-3)
+BRWD3      Xq21.1          Q6RI45     BRWD3_HUMAN 300553 Bromodomain and WD repeat-containing protein 3
+BTK        Xq21.3-q22      Q06187     BTK_HUMAN   300300 Tyrosine-protein kinase BTK (EC 2.7.10.2) (Agammaglobulinemia tyrosine kinase) (ATK) (B-cell progenitor kinase) (BPK) (Bruton tyrosine kinase) [AGMX1] [ATK] [BPK]
+C1GALT1C1  Xq24            Q96EU7     C1GLC_HUMAN 300611 C1GALT1-specific chaperone 1 (C38H2-like protein 1) (C38H2-L1) (Core 1 beta1,3-galactosyltransferase 2) (C1Gal-T2) (C1GalT2) (Core 1 beta3-Gal-T2) (Core 1 beta3-galactosyltransferase-specific molecular chaperone) [COSMC] [HSPC067] [MSTP143] [UNQ273/PRO310]
+CA5B       Xp22.1          Q9Y2D0     CAH5B_HUMAN 300230 Carbonic anhydrase 5B, mitochondrial precursor (EC 4.2.1.1) (Carbonate dehydratase VB) (Carbonic anhydrase VB) (CA-VB)
+CA5BP1     Xp22.2          Q8WTZ4     CA5BL_HUMAN        Putative inactive carbonic anhydrase 5B-like protein (CA-VB-like protein) [CA5B] [CA5BL]
+CACNA1F    Xp11.23         O60840     CAC1F_HUMAN 300110 Voltage-dependent L-type calcium channel subunit alpha-1F (Voltage-gated calcium channel subunit alpha Cav1.4) [CACNAF1]
+CAPN6      Xq23            Q9Y6Q1     CAN6_HUMAN  300146 Calpain-6 (Calpain-like protease X-linked) (Calpamodulin) (CalpM) [CALPM] [CANPX]
+CASK       Xp11.4          O14936     CSKP_HUMAN  300172 Peripheral plasma membrane protein CASK (EC 2.7.11.1) (hCASK) (Calcium/calmodulin-dependent serine protein kinase) (Protein lin-2 homolog) [LIN2]
+CBLL2      Xp22.11         Q8N7E2     CBLL2_HUMAN        E3 ubiquitin-protein ligase CBLL2 (EC 2.3.2.27) (Cbl proto-oncogene-like protein 2) (RING-type E3 ubiquitin transferase ZNF645) (Zinc finger protein 645) (c-Cbl-like protein 2) [ZNF645]
+CCDC120    Xp11.23         Q96HB5     CC120_HUMAN 300947 Coiled-coil domain-containing protein 120 [JM11]
+CCDC160    Xq26.2          A6NGH7     CC160_HUMAN        Coiled-coil domain-containing protein 160
+CCDC22     Xp11.23         O60826     CCD22_HUMAN 300859 Coiled-coil domain-containing protein 22 [CXorf37] [JM1]
+CCNB3      Xp11            Q8WWL7     CCNB3_HUMAN 300456 G2/mitotic-specific cyclin-B3 [CYCB3]
+CCNQ       Xq28            Q8N1B3     CCNQ_HUMAN  300708 Cyclin-Q (CDK10-activating cyclin) (Cyclin-M) (Cyclin-related protein FAM58A) [FAM58A]
+CD40LG     Xq26            P29965     CD40L_HUMAN 300386 CD40 ligand (CD40-L) (T-cell antigen Gp39) (TNF-related activation protein) (TRAP) (Tumor necrosis factor ligand superfamily member 5) (CD154 antigen) [Contains: CD40 ligand, membrane form; CD40 ligand, soluble form] [CD40L] [TNFSF5] [TRAP]
+CD99       Xp22.32         P14209     CD99_HUMAN  450000 CD99 antigen precursor (12E7) (E2 antigen) (Protein MIC2) (T-cell surface glycoprotein E2) [MIC2] [MIC2X] [MIC2Y]
+CD99L2     Xq28            Q8TCZ2     C99L2_HUMAN 300846 CD99 antigen-like protein 2 precursor (MIC2-like protein 1) [MIC2L1] [UNQ1964/PRO4486]
+CDK16      Xp11.23-p11.3   Q00536     CDK16_HUMAN 311550 Cyclin-dependent kinase 16 (EC 2.7.11.22) (Cell division protein kinase 16) (PCTAIRE-motif protein kinase 1) (Serine/threonine-protein kinase PCTAIRE-1) [PCTAIRE1] [PCTK1]
+CDKL5      Xp22            O76039     CDKL5_HUMAN 300203 Cyclin-dependent kinase-like 5 (EC 2.7.11.22) (Serine/threonine-protein kinase 9) [STK9]
+CDR1       Xq27.1-q27.2    P51861     CDR1_HUMAN  302650 Cerebellar degeneration-related antigen 1 (CDR34)
+CDX4       Xq13.2          O14627     CDX4_HUMAN  300025 Homeobox protein CDX-4 (Caudal-type homeobox protein 4)
+CENPI      Xq22            Q92674     CENPI_HUMAN 300065 Centromere protein I (CENP-I) (FSH primary response protein 1) (Follicle-stimulating hormone primary response protein) (Interphase centromere complex protein 19) (Leucine-rich primary response protein 1) [FSHPRH1] [ICEN19] [LRPR1]
+CENPVL1    Xp11.22         A0A0U1RR11 CENL1_HUMAN        Centromere protein V-like protein 1 (Centromere protein V pseudogene 1) [CENPVP1]
+CENPVL2    Xp11.22         P0DPI3     CENL2_HUMAN        Centromere protein V-like protein 2 (Centromere protein V pseudogene 2) [CENPVP2]
+CENPVL3    Xp11.22         A0A0U1RRI6 CENL3_HUMAN        Centromere protein V-like protein 3 (Centromere protein V pseudogene 3) [CENPVP3]
+CETN2      Xq28            P41208     CETN2_HUMAN 300006 Centrin-2 (Caltractin isoform 1) [CALT] [CEN2]
+CFAP47     Xp21.1          Q6ZTR5     CFA47_HUMAN        Cilia- and flagella-associated protein 47 [CHDC2] [CXorf22] [CXorf30] [CXorf59]
+CFP        Xp11.23-p11.3   P27918     PROP_HUMAN  300383 Properdin precursor (Complement factor P) [PFC]
+CHIC1      Xq13-q21        Q5VXU3     CHIC1_HUMAN 300922 Cysteine-rich hydrophobic domain-containing protein 1 (Brain X-linked protein) [BRX]
+CHM        Xq21.2          P24386     RAE1_HUMAN  300390 Rab proteins geranylgeranyltransferase component A 1 (Choroideremia protein) (Rab escort protein 1) (REP-1) (TCD protein) [REP1] [TCD]
+CHRDL1     Xq22.3          Q9BU40     CRDL1_HUMAN 300350 Chordin-like protein 1 precursor (Neuralin-1) (Neurogenesin-1) (Ventroptin) [NRLN1]
+CHST7      Xp11.23         Q9NS84     CHST7_HUMAN 300375 Carbohydrate sulfotransferase 7 (EC 2.8.2.-) (EC 2.8.2.17) (Chondroitin 6-sulfotransferase 2) (C6ST-2) (Galactose/N-acetylglucosamine/N-acetylglucosamine 6-O-sulfotransferase 5) (GST-5) (N-acetylglucosamine 6-O-sulfotransferase 4) (GlcNAc6ST-4) (Gn6st-4)
+CITED1     Xq13.1          Q99966     CITE1_HUMAN 300149 Cbp/p300-interacting transactivator 1 (Melanocyte-specific protein 1) [MSG1]
+CLCN4      Xp22.3          P51793     CLCN4_HUMAN 302910 H(+)/Cl(-) exchange transporter 4 (Chloride channel protein 4) (ClC-4) (Chloride transporter ClC-4)
+CLCN5      Xp11.22         P51795     CLCN5_HUMAN 300008 H(+)/Cl(-) exchange transporter 5 (Chloride channel protein 5) (ClC-5) (Chloride transporter ClC-5) [CLCK2]
+CLDN2      Xq22.3-q23      P57739     CLD2_HUMAN  300520 Claudin-2 (SP82) [PSEC0059] [SP82] [UNQ705/PRO1356]
+CLDN34     Xp22.2          H7C241     CLD34_HUMAN        Claudin-34
+CLIC2      Xq28            O15247     CLIC2_HUMAN 300138 Chloride intracellular channel protein 2 (XAP121)
+CLTRN      Xp22            Q9HBJ8     CLTRN_HUMAN 300631 Collectrin precursor (Transmembrane protein 27) [TMEM27] [UNQ679/PRO1312]
+CMC4       Xq28            P56277     CMC4_HUMAN         Cx9C motif-containing protein 4 (Mature T-cell proliferation 1 neighbor protein) (Mature T-cell proliferation-1 type A) (MTCP-1 type A) (Protein p8 MTCP-1) (p8MTCP1) [C6.1B] [MTCP1] [MTCP1NB]
+CNGA2      Xq27            Q16280     CNGA2_HUMAN 300338 Cyclic nucleotide-gated olfactory channel (Cyclic nucleotide-gated cation channel 2) (Cyclic nucleotide-gated channel alpha-2) (CNG channel alpha-2) (CNG-2) (CNG2) [CNCA] [CNCA1] [CNCG2]
+CNKSR2     Xp22.12         Q8WXI2     CNKR2_HUMAN 300724 Connector enhancer of kinase suppressor of ras 2 (Connector enhancer of KSR 2) (CNK homolog protein 2) (CNK2) [CNK2] [KIAA0902] [KSR2]
+COL4A5     Xq22            P29400     CO4A5_HUMAN 303630 Collagen alpha-5(IV) chain precursor
+COL4A6     Xq22            Q14031     CO4A6_HUMAN 303631 Collagen alpha-6(IV) chain precursor
+COX7B      Xq13.2          P24311     COX7B_HUMAN 300885 Cytochrome c oxidase subunit 7B, mitochondrial precursor (Cytochrome c oxidase polypeptide VIIb)
+CPXCR1     Xq21.3          Q8N123     CPXCR_HUMAN        CPX chromosomal region candidate gene 1 protein (Cancer/testis antigen 77) (CT77)
+CRLF2      Xp22.3          Q9HC73     CRLF2_HUMAN 400023 Cytokine receptor-like factor 2 precursor (Cytokine receptor-like 2) (IL-XR) (Thymic stromal lymphopoietin protein receptor) (TSLP receptor) [CRL2] [ILXR] [TSLPR]
+CSAG1      Xq28            Q6PB30     CSAG1_HUMAN 300944 Putative chondrosarcoma-associated gene 1 protein precursor (Cancer/testis antigen 24.1) (CT24.1) (Cancer/testis antigen CSAGE) [CSAGE]
+CSAG2      Xq28            Q9Y5P2     CSAG2_HUMAN        Chondrosarcoma-associated gene 2/3 protein (Cancer/testis antigen 24.2) (CT24.2) (Taxol-resistant-associated gene 3 protein) (TRAG-3) [TRAG3]
+CSAG3      Xq28            Q9Y5P2     CSAG2_HUMAN        Chondrosarcoma-associated gene 2/3 protein (Cancer/testis antigen 24.2) (CT24.2) (Taxol-resistant-associated gene 3 protein) (TRAG-3) [CSAG3A]
+CSF2RA     Xp22.32         P15509     CSF2R_HUMAN 425000 Granulocyte-macrophage colony-stimulating factor receptor subunit alpha precursor (GM-CSF-R-alpha) (GMCSFR-alpha) (GMR-alpha) (CDw116) (CD116 antigen) [CSF2R] [CSF2RY]
+CSTF2      Xq22.1          P33240     CSTF2_HUMAN 300907 Cleavage stimulation factor subunit 2 (CF-1 64 kDa subunit) (Cleavage stimulation factor 64 kDa subunit) (CSTF 64 kDa subunit) (CstF-64)
+CT45A1     Xq26.3          Q5HYN5     CT451_HUMAN 300648 Cancer/testis antigen family 45 member A1 (Cancer/testis antigen 45-1) (Cancer/testis antigen 45A1) [CT45-1]
+CT45A10    Xq26.3          P0DMU9     CT45A_HUMAN        Cancer/testis antigen family 45 member A10 (Cancer/testis antigen 45A10)
+CT45A2     Xq26.3          Q5DJT8     CT452_HUMAN 300793 Cancer/testis antigen family 45 member A2 (Cancer/testis antigen 45-2) (Cancer/testis antigen 45A2) [CT45-2]
+CT45A3     Xq26.3          Q8NHU0     CT453_HUMAN 300795 Cancer/testis antigen family 45 member A3 (Cancer/testis antigen 45-3) (Cancer/testis antigen 45-4) (Cancer/testis antigen 45A3) (Cancer/testis antigen 45A4) (Cancer/testis antigen family 45 member A4) [CT45-3] [CT45-4] [CT45A4]
+CT45A5     Xq26.3          P0DMU8     CT455_HUMAN 300796 Cancer/testis antigen family 45 member A5 (Cancer/testis antigen 45-5) (Cancer/testis antigen 45A5) [CT45-5]
+CT45A6     Xq26.3          P0DMU7     CT456_HUMAN 300797 Cancer/testis antigen family 45 member A6 (Cancer/testis antigen 45-6) (Cancer/testis antigen 45A6) [CT45-6]
+CT45A7     Xq26.3          P0DMV0     CT457_HUMAN        Cancer/testis antigen family 45 member A7 (Cancer/testis antigen 45A7)
+CT45A8     Xq26.3          P0DMV1     CT458_HUMAN        Cancer/testis antigen family 45 member A8 (Cancer/testis antigen 45A8)
+CT45A9     Xq26.3          P0DMV2     CT459_HUMAN        Cancer/testis antigen family 45 member A9 (Cancer/testis antigen 45A9)
+CT47A1     Xq24            Q5JQC4     CT47A_HUMAN 300789 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.1]
+CT47A10    Xq24            Q5JQC4     CT47A_HUMAN 300780 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.10]
+CT47A11    Xq24            Q5JQC4     CT47A_HUMAN 300592 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.11]
+CT47A12    Xq24            Q5JQC4     CT47A_HUMAN        Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.12]
+CT47A2     Xq24            Q5JQC4     CT47A_HUMAN 300788 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.2]
+CT47A3     Xq24            Q5JQC4     CT47A_HUMAN 300787 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.3]
+CT47A4     Xq24            Q5JQC4     CT47A_HUMAN 300786 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.4]
+CT47A5     Xq24            Q5JQC4     CT47A_HUMAN 300785 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.5]
+CT47A6     Xq24            Q5JQC4     CT47A_HUMAN 300784 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.6]
+CT47A7     Xq24            Q5JQC4     CT47A_HUMAN 300783 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.7]
+CT47A8     Xq24            Q5JQC4     CT47A_HUMAN 300782 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.8]
+CT47A9     Xq24            Q5JQC4     CT47A_HUMAN 300781 Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47) [CT47.9]
+CT47B1     Xq24            P0C2W7     CT47B_HUMAN 300790 Cancer/testis antigen 47B (Cancer/testis antigen 47.13) (CT47.13) [CT47.13]
+CT55       Xq26.3          Q8WUE5     CT55_HUMAN         Cancer/testis antigen 55 (Tumor antigen BJ-HCC-20) [CXorf48]
+CT83       Xq22            Q5H943     KKLC1_HUMAN 300625 Kita-kyushu lung cancer antigen 1 (KK-LC-1) (Cancer/testis antigen 83) [CXorf61] [KKLC1]
+CTAG1A     Xq28            P78358     CTG1B_HUMAN 300657 Cancer/testis antigen 1 (Autoimmunogenic cancer/testis antigen NY-ESO-1) (Cancer/testis antigen 6.1) (CT6.1) (L antigen family member 2) (LAGE-2) [CTAG] [CTAG1] [ESO1] [LAGE2] [LAGE2A]
+CTAG1B     Xq28            P78358     CTG1B_HUMAN 300156 Cancer/testis antigen 1 (Autoimmunogenic cancer/testis antigen NY-ESO-1) (Cancer/testis antigen 6.1) (CT6.1) (L antigen family member 2) (LAGE-2) [LAGE2B]
+CTAG2      Xq28            O75638     CTAG2_HUMAN 300396 Cancer/testis antigen 2 (CT2) (Autoimmunogenic cancer/testis antigen NY-ESO-2) (Cancer/testis antigen 6.2) (CT6.2) (L antigen family member 1) (LAGE-1) [ESO2] [LAGE1]
+CTPS2      Xp22            Q9NRF8     PYRG2_HUMAN 300380 CTP synthase 2 (EC 6.3.4.2) (CTP synthetase 2) (UTP--ammonia ligase 2)
+CUL4B      Xq23            Q13620     CUL4B_HUMAN 300304 Cullin-4B (CUL-4B) [KIAA0695]
+CXCR3      Xq13            P49682     CXCR3_HUMAN 300574 C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CKR-L2) (G protein-coupled receptor 9) (Interferon-inducible protein 10 receptor) (IP-10 receptor) (CD183 antigen) [GPR9]
+CXorf1     Xq27.3          O96002     CX001_HUMAN 300565 Putative transmembrane protein CXorf1
+CXorf21    Xp21.3          Q9HAI6     CX021_HUMAN        Uncharacterized protein CXorf21
+CXorf38    Xp11.4          Q8TB03     CX038_HUMAN        Uncharacterized protein CXorf38
+CXorf40A   Xq27.4          Q8TE69     CX04A_HUMAN 300954 Protein CXorf40A (Endothelial-overexpressed lipopolysaccharide-associated factor 1) [CXorf40] [EOLA1]
+CXorf40B   Xq28            Q96DE9     CX04B_HUMAN        Protein CXorf40B
+CXorf49    Xq13.1          A8MYA2     CX049_HUMAN        Uncharacterized protein CXorf49
+CXorf49B   Xq13.1          A8MYA2     CX049_HUMAN        Uncharacterized protein CXorf49
+CXorf51A   Xq27.3          A0A1B0GTR3 CX05A_HUMAN        Uncharacterized protein CXorf51A [CXorf51]
+CXorf51B   Xq27.3          P0DPH9     CX05B_HUMAN        Uncharacterized protein CXorf51B
+CXorf56    Xq23            Q9H5V9     CX056_HUMAN 301012 UPF0428 protein CXorf56
+CXorf58    Xp22.11         Q96LI9     CX058_HUMAN        Putative uncharacterized protein CXorf58
+CXorf65    Xq13.1          A6NEN9     CX065_HUMAN        Uncharacterized protein CXorf65
+CXorf66    Xq27.1          Q5JRM2     CX066_HUMAN        Uncharacterized protein CXorf66 precursor
+CXorf67    Xp11.22         Q86X51     CX067_HUMAN        Uncharacterized protein CXorf67
+CYBB       Xp21.1          P04839     CY24B_HUMAN 300481 Cytochrome b-245 heavy chain (EC 1.-.-.-) (CGD91-phox) (Cytochrome b(558) subunit beta) (Cytochrome b558 subunit beta) (Heme-binding membrane glycoprotein gp91phox) (NADPH oxidase 2) (Neutrophil cytochrome b 91 kDa polypeptide) (Superoxide-generating NADPH oxidase heavy chain subunit) (gp91-1) (gp91-phox) (p22 phagocyte B-cytochrome) [NOX2]
+CYLC1      Xq21.1          P35663     CYLC1_HUMAN 300768 Cylicin-1 (Cylicin I) (Multiple-band polypeptide I) [CYL] [CYL1]
+CYSLTR1    Xq13-q21        Q9Y271     CLTR1_HUMAN 300201 Cysteinyl leukotriene receptor 1 (CysLTR1) (Cysteinyl leukotriene D4 receptor) (LTD4 receptor) (G-protein coupled receptor HG55) (HMTMF81) [CYSLT1]
+DACH2      Xq21.3          Q96NX9     DACH2_HUMAN 300608 Dachshund homolog 2 (Dach2)
+DCAF12L1   Xq25            Q5VU92     DC121_HUMAN        DDB1- and CUL4-associated factor 12-like protein 1 (WD repeat-containing protein 40B) [WDR40B]
+DCAF12L2   Xq25            Q5VW00     DC122_HUMAN        DDB1- and CUL4-associated factor 12-like protein 2 (WD repeat-containing protein 40C) [WDR40C]
+DCAF8L1    Xp21.3          A6NGE4     DC8L1_HUMAN        DDB1- and CUL4-associated factor 8-like protein 1 (WD repeat-containing protein 42B) [WDR42B]
+DCAF8L2    Xp21.3          P0C7V8     DC8L2_HUMAN        DDB1- and CUL4-associated factor 8-like protein 2 (WD repeat-containing protein 42C) [WDR42C]
+DCX        Xq22.3-q23      O43602     DCX_HUMAN   300121 Neuronal migration protein doublecortin (Doublin) (Lissencephalin-X) (Lis-X) [DBCN] [LISX]
+DDX3X      Xp11.23-p11.3   O00571     DDX3X_HUMAN 300160 ATP-dependent RNA helicase DDX3X (EC 3.6.4.13) (DEAD box protein 3, X-chromosomal) (DEAD box, X isoform) (Helicase-like protein 2) (HLP2) [DBX] [DDX3]
+DDX53      Xp22.13         Q86TM3     DDX53_HUMAN        Probable ATP-dependent RNA helicase DDX53 (EC 3.6.4.13) (Cancer-associated gene protein) (Cancer/testis antigen 26) (CT26) (DEAD box protein 53) (DEAD box protein CAGE) [CAGE]
+DGAT2L6    Xq13.1          Q6ZPD8     DG2L6_HUMAN 300926 Diacylglycerol O-acyltransferase 2-like protein 6 (EC 2.3.1.-) (Diacylglycerol O-acyltransferase candidate 3) (hDC3) [DC3]
+DGKK       Xp11.22         Q5KSL6     DGKK_HUMAN  300837 Diacylglycerol kinase kappa (EC 2.7.1.107) (DAG kinase kappa) (142 kDa diacylglycerol kinase) (Diglyceride kinase kappa) (DGK-kappa)
+DHRSX      Xp22.33         Q8N5I4     DHRSX_HUMAN        Dehydrogenase/reductase SDR family member on chromosome X (EC 1.1.-.-) (DHRSXY) (Short chain dehydrogenase/reductase family 46C member 1) (Short chain dehydrogenase/reductase family 7C member 6) [CXorf11] [DHRS5X] [SDR46C1] [SDR7C6] [UNQ6508/PRO21433]
+DIAPH2     Xq22            O60879     DIAP2_HUMAN 300108 Protein diaphanous homolog 2 (Diaphanous-related formin-2) (DRF2) [DIA]
+DIAPH2-AS1 Xq21.33         Q14236     EPAG_HUMAN  300347 Early lymphoid activation gene protein (DIAPH2 antisense RNA 1) (DIAPH2 antisense gene protein 1) [EPAG]
+DIPK2B     Xp11.3          Q9H7Y0     DIK2B_HUMAN 300959 Divergent protein kinase domain 2B precursor (Deleted in autism-related protein 1) [CXorf36] [DIA1R] [UNQ1862/PRO3743]
+DKC1       Xq28            O60832     DKC1_HUMAN  300126 H/ACA ribonucleoprotein complex subunit DKC1 (EC 5.4.99.-) (CBF5 homolog) (Dyskerin) (Nopp140-associated protein of 57 kDa) (Nucleolar protein NAP57) (Nucleolar protein family A member 4) (snoRNP protein DKC1) [NOLA4]
+DLG3       Xq13.1          Q92796     DLG3_HUMAN  300189 Disks large homolog 3 (Neuroendocrine-DLG) (Synapse-associated protein 102) (SAP-102) (SAP102) (XLMR) [KIAA1232]
+DMD        Xp21.2-p21.3    P11532     DMD_HUMAN   300377 Dystrophin
+DMRTC1     Xq13.2          Q5HYR2     DMRTC_HUMAN 300878 Doublesex- and mab-3-related transcription factor C1
+DMRTC1B    Xq13.2          Q5HYR2     DMRTC_HUMAN        Doublesex- and mab-3-related transcription factor C1
+DNASE1L1   Xq28            P49184     DNSL1_HUMAN 300081 Deoxyribonuclease-1-like 1 precursor (EC 3.1.21.-) (DNase X) (Deoxyribonuclease I-like 1) (DNase I-like 1) (Muscle-specific DNase I-like) (XIB) [DNAS1L1] [DNL1L]
+DOCK11     Xq24            Q5JSL3     DOC11_HUMAN 300681 Dedicator of cytokinesis protein 11 (Activated Cdc42-associated guanine nucleotide exchange factor) (ACG) (Zizimin-2) [ZIZ2]
+DRP2       Xq22            Q13474     DRP2_HUMAN  300052 Dystrophin-related protein 2 (DRP-2)
+DUSP21     Xp11.4-p11.23   Q9H596     DUS21_HUMAN 300678 Dual specificity protein phosphatase 21 (EC 3.1.3.16) (EC 3.1.3.48) (Low molecular weight dual specificity phosphatase 21) (LMW-DSP21) [LMWDSP21]
+DUSP9      Xq28            Q99956     DUS9_HUMAN  300134 Dual specificity protein phosphatase 9 (EC 3.1.3.16) (EC 3.1.3.48) (Mitogen-activated protein kinase phosphatase 4) (MAP kinase phosphatase 4) (MKP-4) [MKP4]
+DYNLT3     Xp21            P51808     DYLT3_HUMAN 300302 Dynein light chain Tctex-type 3 (Protein 91/23) (T-complex-associated testis-expressed 1-like) [TCTE1L] [TCTE1XL]
+EBP        Xp11.23         Q15125     EBP_HUMAN   300205 3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase (EC 5.3.3.5) (Cholestenol Delta-isomerase) (Delta(8)-Delta(7) sterol isomerase) (D8-D7 sterol isomerase) (Emopamil-binding protein)
+EDA        Xq12-q13.1      Q92838     EDA_HUMAN   300451 Ectodysplasin-A (Ectodermal dysplasia protein) (EDA protein) [Contains: Ectodysplasin-A, membrane form; Ectodysplasin-A, secreted form] [ED1] [EDA2]
+EDA2R      Xq11.2          Q9HAV5     TNR27_HUMAN 300276 Tumor necrosis factor receptor superfamily member 27 (X-linked ectodysplasin-A2 receptor) (EDA-A2 receptor) [TNFRSF27] [XEDAR] [UNQ2448/PRO5727/PRO34080]
+EFHC2      Xp11.3          Q5JST6     EFHC2_HUMAN 300817 EF-hand domain-containing family member C2
+EFNB1      Xp11            P98172     EFNB1_HUMAN 300035 Ephrin-B1 precursor (EFL-3) (ELK ligand) (ELK-L) (EPH-related receptor tyrosine kinase ligand 2) (LERK-2) [Contains: Ephrin-B1 C-terminal fragment (Ephrin-B1 CTF); Ephrin-B1 intracellular domain (Ephrin-B1 ICD)] [EFL3] [EPLG2] [LERK2]
+EGFL6      Xp22            Q8IUX8     EGFL6_HUMAN 300239 Epidermal growth factor-like protein 6 precursor (EGF-like protein 6) (MAM and EGF domains-containing gene protein) [MAEG] [PP648] [UNQ281/PRO320]
+EIF1AX     Xp22.12         P47813     IF1AX_HUMAN 300186 Eukaryotic translation initiation factor 1A, X-chromosomal (eIF-1A X isoform) (Eukaryotic translation initiation factor 4C) (eIF-4C) [EIF1A] [EIF4C]
+EIF2S3     Xp22.1-p22.2    P41091     IF2G_HUMAN  300161 Eukaryotic translation initiation factor 2 subunit 3 (Eukaryotic translation initiation factor 2 subunit gamma X) (eIF-2-gamma X) (eIF-2gX) [EIF2G]
+ELF4       Xq26            Q99607     ELF4_HUMAN  300775 ETS-related transcription factor Elf-4 (E74-like factor 4) (Myeloid Elf-1-like factor) [ELFR] [MEF]
+ELK1       Xp11.3          P19419     ELK1_HUMAN  311040 ETS domain-containing protein Elk-1
+EMD        Xq28            P50402     EMD_HUMAN   300384 Emerin [EDMD] [STA]
+ENOX2      Xq25-q26.2      Q16206     ENOX2_HUMAN 300282 Ecto-NOX disulfide-thiol exchanger 2 (APK1 antigen) (Cytosolic ovarian carcinoma antigen 1) (Tumor-associated hydroquinone oxidase) (tNOX) [Includes: Hydroquinone [NADH] oxidase (EC 1.-.-.-); Protein disulfide-thiol oxidoreductase (EC 1.-.-.-)] [COVA1]
+ERAS       Xp11.23         Q7Z444     RASE_HUMAN  300437 GTPase ERas precursor (E-Ras) (Embryonic stem cell-expressed Ras) [HRAS2] [HRASP]
+ERCC6L     Xq13.1          Q2NKX8     ERC6L_HUMAN 300687 DNA excision repair protein ERCC-6-like (EC 3.6.4.12) (ATP-dependent helicase ERCC6-like) (PLK1-interacting checkpoint helicase) (Tumor antigen BJ-HCC-15) [PICH]
+ERVFC1     Xq21.33         P60507     EFC1_HUMAN         Endogenous retrovirus group FC1 Env polyprotein precursor (Envelope polyprotein) (Fc1env) (HERV-F(c)1_Xq21.33 provirus ancestral Env polyprotein) (HERV-Fc1env) [Contains: Surface protein (SU); Transmembrane protein (TM)]
+ESX1       Xq22.1-q22.3    Q8N693     ESX1_HUMAN  300154 Homeobox protein ESX1 (Extraembryonic, spermatogenesis, homeobox 1) [Contains: Homeobox protein ESX1-N; Homeobox protein ESX1-C] [ESX1L] [ESX1R]
+ETDA       Xq26.3          Q3ZM63     ETDA_HUMAN         Embryonic testis differentiation protein homolog A
+ETDB       Xq26.3          P0DPP9     ETDB_HUMAN         Embryonic testis differentiation protein homolog B
+ETDC       Xq26.3          A0A1B0GVM5 ETDC_HUMAN         Embryonic testis differentiation protein homolog C
+F8         Xq28            P00451     FA8_HUMAN   300841 Coagulation factor VIII precursor (Antihemophilic factor) (AHF) (Procoagulant component) [Contains: Factor VIIIa heavy chain, 200 kDa isoform; Factor VIIIa heavy chain, 92 kDa isoform; Factor VIII B chain; Factor VIIIa light chain] [F8C]
+F8A1       Xq28            P23610     F8I2_HUMAN  305423 Factor VIII intron 22 protein (CpG island protein) [F8A]
+F8A2       Xq28            P23610     F8I2_HUMAN         Factor VIII intron 22 protein (CpG island protein) [F8A]
+F8A3       Xq28            P23610     F8I2_HUMAN         Factor VIII intron 22 protein (CpG island protein) [F8A]
+F9         Xq27.1-q27.2    P00740     FA9_HUMAN   300746 Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor) (Plasma thromboplastin component) (PTC) [Contains: Coagulation factor IXa light chain; Coagulation factor IXa heavy chain]
+FAAH2      Xp11.1          Q6GMR7     FAAH2_HUMAN 300654 Fatty-acid amide hydrolase 2 (EC 3.5.1.99) (Amidase domain-containing protein) (Anandamide amidohydrolase 2) (Oleamide hydrolase 2) [AMDD]
+FAM104B    Xp11.21         Q5XKR9     F104B_HUMAN        Protein FAM104B [CXorf44]
+FAM120C    Xp11.22         Q9NX05     F120C_HUMAN 300741 Constitutive coactivator of PPAR-gamma-like protein 2 (Protein FAM120C) (Tumor antigen BJ-HCC-21) [CXorf17]
+FAM122B    Xq26.3          Q7Z309     F122B_HUMAN        Protein FAM122B
+FAM122C    Xq26.3          Q6P4D5     F222C_HUMAN        Protein FAM122C
+FAM133A    Xq21.32         Q8N9E0     F133A_HUMAN        Protein FAM133A
+FAM155B    Xq13.1          O75949     F155B_HUMAN        Transmembrane protein FAM155B (Protein TED) (Transmembrane protein 28) [TED] [TMEM28]
+FAM156A    Xp11.23         Q8NDB6     FA156_HUMAN        Protein FAM156A/FAM156B (Transmembrane protein 29/29B) [TMEM29] [PP12994] [PRO0659]
+FAM156B    Xp11.22         Q8NDB6     FA156_HUMAN        Protein FAM156A/FAM156B (Transmembrane protein 29/29B) [TMEM29B]
+FAM199X    Xq22.2          Q6PEV8     F199X_HUMAN        Protein FAM199X [CXorf39]
+FAM223A    Xq28            Q8IWN6     F223A_HUMAN        Protein FAM223A (SPCX) [CXorf52] [LINC00204A] [NCRNA00204]
+FAM223B    Xq28            A6NKX1     F223B_HUMAN        Protein FAM223B [CXorf52B] [LINC00204B]
+FAM236A    Xq13.1          A0A1B0GUQ0 F236A_HUMAN        Protein FAM236A
+FAM236B    Xq13.1          A0A1B0GV22 F236B_HUMAN        Protein FAM236B
+FAM236C    Xq13.1          P0DP71     F236C_HUMAN        Protein FAM236C
+FAM236D    Xq13.1          A0A1B0GTK5 F236D_HUMAN        Protein FAM236D
+FAM3A      Xq28            P98173     FAM3A_HUMAN 300492 Protein FAM3A precursor (Cytokine-like protein 2-19) [2-19] [2.19]
+FAM45BP    Xq26.1          Q6NSW5     FA45B_HUMAN        Putative protein FAM45B [FAM45] [HT011]
+FAM47A     Xp21.1          Q5JRC9     FA47A_HUMAN        Protein FAM47A
+FAM47B     Xp21.1          Q8NA70     FA47B_HUMAN        Protein FAM47B
+FAM47C     Xp21.1          Q5HY64     FA47C_HUMAN        Putative protein FAM47C
+FAM47DP    Xp21.1          A6NHR8     FA47D_HUMAN        Putative protein FAM47D
+FAM50A     Xq28            Q14320     FA50A_HUMAN 300453 Protein FAM50A (Protein HXC-26) (Protein XAP-5) [DXS9928E] [HXC26] [XAP5]
+FAM9A      Xp22.32         Q8IZU1     FAM9A_HUMAN 300477 Protein FAM9A
+FAM9B      Xp22.32         Q8IZU0     FAM9B_HUMAN 300478 Protein FAM9B
+FAM9C      Xp22.32         Q8IZT9     FAM9C_HUMAN 300479 Protein FAM9C
+FANCB      Xp22.31         Q8NB91     FANCB_HUMAN 300515 Fanconi anemia group B protein (Protein FACB) (Fanconi anemia-associated polypeptide of 95 kDa) (FAAP95)
+FATE1      Xp28            Q969F0     FATE1_HUMAN 300450 Fetal and adult testis-expressed transcript protein (Cancer/testis antigen 43) (CT43) (Tumor antigen BJ-HCC-2) [FATE]
+FGD1       Xp11.21         P98174     FGD1_HUMAN  300546 FYVE, RhoGEF and PH domain-containing protein 1 (Faciogenital dysplasia 1 protein) (Rho/Rac guanine nucleotide exchange factor FGD1) (Rho/Rac GEF) (Zinc finger FYVE domain-containing protein 3) [FGDY] [ZFYVE3]
+FGF13      Xq26.3          Q92913     FGF13_HUMAN 300070 Fibroblast growth factor 13 (FGF-13) (Fibroblast growth factor homologous factor 2) (FHF-2) [FHF2]
+FGF16      Xq13            O43320     FGF16_HUMAN 300827 Fibroblast growth factor 16 (FGF-16)
+FHL1       Xq27.2          Q13642     FHL1_HUMAN  300163 Four and a half LIM domains protein 1 (FHL-1) (Skeletal muscle LIM-protein 1) (SLIM) (SLIM-1) [SLIM1]
+FLNA       Xq28            P21333     FLNA_HUMAN  300017 Filamin-A (FLN-A) (Actin-binding protein 280) (ABP-280) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin) [FLN] [FLN1]
+FMR1       Xq27.3          Q06787     FMR1_HUMAN  309550 Synaptic functional regulator FMR1 (Fragile X mental retardation protein 1) (FMRP) (Protein FMR-1)
+FMR1NB     Xq28            Q8N0W7     FMR1N_HUMAN        Fragile X mental retardation 1 neighbor protein (Cancer/testis antigen 37) (CT37) (Sarcoma antigen NY-SAR-35)
+FOXO4      Xq13.1          P98177     FOXO4_HUMAN 300033 Forkhead box protein O4 (Fork head domain transcription factor AFX1) [AFX] [AFX1] [MLLT7]
+FOXP3      Xp11.23         Q9BZS1     FOXP3_HUMAN 300292 Forkhead box protein P3 (Scurfin) [Contains: Forkhead box protein P3, C-terminally processed; Forkhead box protein P3 41 kDa form] [IPEX] [JM2]
+FOXR2      Xp11            Q6PJQ5     FOXR2_HUMAN 300949 Forkhead box protein R2 (Forkhead box protein N6) [FOXN6]
+FRMD7      Xq26-q27        Q6ZUT3     FRMD7_HUMAN 300628 FERM domain-containing protein 7
+FRMD8P1    Xq11.1          Q9BZ68     FR8P1_HUMAN        Putative FERM domain-containing protein FRMD8P1 (FERM domain-containing 8 pseudogene 1) [FKSG43]
+FRMPD3     Xq22            Q5JV73     FRPD3_HUMAN 301005 FERM and PDZ domain-containing protein 3 [KIAA1817]
+FRMPD4     Xp22.31         Q14CM0     FRPD4_HUMAN 300838 FERM and PDZ domain-containing protein 4 (PDZ domain-containing protein 10) (PSD-95-interacting regulator of spine morphogenesis) (Preso) [KIAA0316] [PDZD10] [PDZK10]
+FTH1P19    Xp21.1          P0C7X4     FHL19_HUMAN        Putative ferritin heavy polypeptide-like 19 (Ferritin heavy polypeptide 1 pseudogene 19) [FTHL19]
+FTHL17     Xp21            Q9BXU8     FHL17_HUMAN 300308 Ferritin heavy polypeptide-like 17 (Cancer/testis antigen 38) (CT38)
+FTSJ1      Xp11.23         Q9UET6     TRM7_HUMAN  300499 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase (EC 2.1.1.205) (2'-O-ribose RNA methyltransferase TRM7 homolog) (Protein ftsJ homolog 1) [JM23]
+FUNDC1     Xp11.4          Q8IVP5     FUND1_HUMAN 300871 FUN14 domain-containing protein 1
+FUNDC2     Xq28            Q9BWH2     FUND2_HUMAN        FUN14 domain-containing protein 2 (Cervical cancer proto-oncogene 3 protein) (HCC-3) (Hepatitis C virus core-binding protein 6) [HCBP6] [DC44] [HCC3] [PD03104]
+FXYD6P3    Xq13.3-q21.1    P58550     FXYD8_HUMAN        Putative FXYD domain-containing ion transport regulator 8 precursor [FXYD8]
+G6PD       Xq28            P11413     G6PD_HUMAN  305900 Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) (G6PD)
+GAB3       Xq28            Q8WWW8     GAB3_HUMAN  300482 GRB2-associated-binding protein 3 (GRB2-associated binder 3) (Growth factor receptor bound protein 2-associated protein 3)
+GABRA3     Xq28            P34903     GBRA3_HUMAN 305660 Gamma-aminobutyric acid receptor subunit alpha-3 precursor (GABA(A) receptor subunit alpha-3)
+GABRE      Xq28            P78334     GBRE_HUMAN  300093 Gamma-aminobutyric acid receptor subunit epsilon precursor (GABA(A) receptor subunit epsilon)
+GABRQ      Xq28            Q9UN88     GBRT_HUMAN  300349 Gamma-aminobutyric acid receptor subunit theta precursor (GABA(A) receptor subunit theta)
+GAGE1      Xp11.2-p11.4    Q13065     GAGE1_HUMAN 300594 G antigen 1 (GAGE-1) (Antigen MZ2-F) (Cancer/testis antigen 4.1) (CT4.1)
+GAGE10     Xp11.23         A6NGK3     GAG10_HUMAN 300737 G antigen 10 (GAGE-10)
+GAGE12B    Xp11.23         A1L429     GG12C_HUMAN 300729 G antigen 12B/C/D/E (GAGE-12B) (GAGE-12C) (GAGE-12D) (GAGE-12E)
+GAGE12C    Xp11.23         A1L429     GG12C_HUMAN 300728 G antigen 12B/C/D/E (GAGE-12B) (GAGE-12C) (GAGE-12D) (GAGE-12E)
+GAGE12D    Xp11.23         A1L429     GG12C_HUMAN 300727 G antigen 12B/C/D/E (GAGE-12B) (GAGE-12C) (GAGE-12D) (GAGE-12E)
+GAGE12E    Xp11.23         A1L429     GG12C_HUMAN        G antigen 12B/C/D/E (GAGE-12B) (GAGE-12C) (GAGE-12D) (GAGE-12E)
+GAGE12F    Xp11.23         P0CL80     GG12F_HUMAN 300730 G antigen 12F (GAGE-12F)
+GAGE12G    Xp11.23         P0CL81     GG12G_HUMAN 300731 G antigen 12G (GAGE-12G)
+GAGE12H    Xp11.23         A6NDE8     GG12H_HUMAN 300732 G antigen 12H (GAGE-12H)
+GAGE12I    Xp11.23         P0CL82     GG12I_HUMAN        G antigen 12I (GAGE-12I)
+GAGE12J    Xp11.23         A6NER3     GG12J_HUMAN 300733 G antigen 12J (GAGE-12J)
+GAGE13     Xp11.23         Q4V321     GAG13_HUMAN 300734 G antigen 13 (GAGE-13) (G antigen 12A) (GAGE-12A) [GAGE12A]
+GAGE2A     Xp11.23         Q6NT46     GAG2A_HUMAN 300720 G antigen 2A (GAGE-2A) [GAGE2]
+GAGE2B     Xp11.23         Q13066     GAG2B_HUMAN 300726 G antigen 2B/2C (GAGE-2B) (GAGE-2C) (Cancer/testis antigen 4.2) (CT4.2) (G antigen 2C) [GAGE2]
+GAGE2C     Xp11.23         Q13066     GAG2B_HUMAN 300595 G antigen 2B/2C (GAGE-2B) (GAGE-2C) (Cancer/testis antigen 4.2) (CT4.2) (G antigen 2C)
+GAGE2D     Xp11.23         Q9UEU5     GGE2D_HUMAN 300735 G antigen 2D (GAGE-2D) (Cancer/testis antigen 4.8) (CT4.8) (G antigen 8) (GAGE-8)
+GAGE2E     Xp11.23         Q4V326     GAG2E_HUMAN 300736 G antigen 2E (GAGE-2E)
+GAGE4      Xp11.2-p11.4    Q13068     GAGE4_HUMAN 300597 G antigen 4 (GAGE-4) (Cancer/testis antigen 4.4) (CT4.4)
+GAGE5      Xp11.2-p11.4    Q13069     GAGE5_HUMAN 300598 G antigen 5 (GAGE-5) (Cancer/testis antigen 4.5) (CT4.5)
+GAGE6      Xp11.2-p11.4    Q13070     GAGE6_HUMAN 300599 G antigen 6 (GAGE-6) (Cancer/testis antigen 4.6) (CT4.6)
+GAGE7      Xp11.23         O76087     GAGE7_HUMAN 300637 G antigen 7 (GAGE-7) (AL4) (Cancer/testis antigen 4.7) (CT4.7) (GAGE-12I) (GAGE-7B) (GAGE-8) [GAGE12I] [GAGE7B]
+GAGE8      Xp11.23         Q9UEU5     GGE2D_HUMAN 300638 G antigen 2D (GAGE-2D) (Cancer/testis antigen 4.8) (CT4.8) (G antigen 8) (GAGE-8)
+GATA1      Xp11.23         P15976     GATA1_HUMAN 305371 Erythroid transcription factor (Eryf1) (GATA-binding factor 1) (GATA-1) (GF-1) (NF-E1 DNA-binding protein) [ERYF1] [GF1]
+GCNA       Xq13.1          Q96QF7     ACRC_HUMAN  300369 Acidic repeat-containing protein (Germ cell nuclear antigen) [ACRC]
+GDI1       Xq28            P31150     GDIA_HUMAN  300104 Rab GDP dissociation inhibitor alpha (Rab GDI alpha) (Guanosine diphosphate dissociation inhibitor 1) (GDI-1) (Oligophrenin-2) (Protein XAP-4) [GDIL] [OPHN2] [RABGDIA] [XAP4]
+GDPD2      Xq13.1          Q9HCC8     GDPD2_HUMAN 300940 Glycerophosphoinositol inositolphosphodiesterase GDPD2 (EC 3.1.4.43) (Glycerophosphodiester phosphodiesterase 3) (Glycerophosphodiester phosphodiesterase domain-containing protein 2) (Osteoblast differentiation promoting factor) [GDE3] [OBDPF] [UNQ1935/PRO4418]
+GEMIN8     Xp22            Q9NWZ8     GEMI8_HUMAN 300962 Gem-associated protein 8 (Gemin-8) (Protein FAM51A1) [FAM51A1]
+GJB1       Xq13.1          P08034     CXB1_HUMAN  304040 Gap junction beta-1 protein (Connexin-32) (Cx32) (GAP junction 28 kDa liver protein) [CX32]
+GK         Xp21.3          P32189     GLPK_HUMAN  300474 Glycerol kinase (EC 2.7.1.30) (GK) (Glycerokinase) (ATP:glycerol 3-phosphotransferase)
+GLA        Xq22            P06280     AGAL_HUMAN  300644 Alpha-galactosidase A precursor (EC 3.2.1.22) (Alpha-D-galactosidase A) (Alpha-D-galactoside galactohydrolase) (Melibiase) (Agalsidase)
+GLOD5      Xp11.23         A6NK44     GLOD5_HUMAN        Glyoxalase domain-containing protein 5
+GLRA2      Xp21.3-p22.1    P23416     GLRA2_HUMAN 305990 Glycine receptor subunit alpha-2 precursor
+GLRA4      Xq22.2          Q5JXX5     GLRA4_HUMAN        Glycine receptor subunit alpha-4 precursor
+GLUD2      Xq23            P49448     DHE4_HUMAN  300144 Glutamate dehydrogenase 2, mitochondrial precursor (EC 1.4.1.3) (GDH 2) [GLUDP1]
+GNL3L      Xp11.22         Q9NVN8     GNL3L_HUMAN 300873 Guanine nucleotide-binding protein-like 3-like protein
+GPC3       Xq26.1          P51654     GPC3_HUMAN  300037 Glypican-3 precursor (GTR2-2) (Intestinal protein OCI-5) (MXR7) [Contains: Glypican-3 alpha subunit; Glypican-3 beta subunit] [OCI5]
+GPC4       Xq26.1          O75487     GPC4_HUMAN  300168 Glypican-4 precursor (K-glypican) [Contains: Secreted glypican-4] [UNQ474/PRO937]
+GPKOW      Xp11.23         Q92917     GPKOW_HUMAN 301003 G-patch domain and KOW motifs-containing protein (G-patch domain-containing protein 5) (Protein MOS2 homolog) (Protein T54) [GPATC5] [GPATCH5] [T54]
+GPM6B      Xp22.2          Q13491     GPM6B_HUMAN 300051 Neuronal membrane glycoprotein M6-b (M6b) [M6B]
+GPR101     Xq25-q27.1      Q96P66     GP101_HUMAN 300393 Probable G-protein coupled receptor 101
+GPR119     Xq26.1          Q8TDV5     GP119_HUMAN 300513 Glucose-dependent insulinotropic receptor (G-protein coupled receptor 119)
+GPR143     Xp22.3          P51810     GP143_HUMAN 300808 G-protein coupled receptor 143 (Ocular albinism type 1 protein) [OA1]
+GPR173     Xp11            Q9NS66     GP173_HUMAN 300253 Probable G-protein coupled receptor 173 (Super conserved receptor expressed in brain 3) [SREB3]
+GPR174     Xq13.2          Q9BXC1     GP174_HUMAN 300903 Probable G-protein coupled receptor 174 [FKSG79] [GPCR17]
+GPR34      Xp11.4          Q9UPC5     GPR34_HUMAN 300241 Probable G-protein coupled receptor 34
+GPR50      Xq28            Q13585     MTR1L_HUMAN 300207 Melatonin-related receptor (G protein-coupled receptor 50) (H9)
+GPR82      Xp11.4          Q96P67     GPR82_HUMAN 300748 Probable G-protein coupled receptor 82
+GPRASP1    Xq22.1          Q5JY77     GASP1_HUMAN 300417 G-protein coupled receptor-associated sorting protein 1 (GASP-1) [GASP] [KIAA0443]
+GPRASP2    Xq22.1          Q96D09     GASP2_HUMAN 300969 G-protein coupled receptor-associated sorting protein 2 (GASP-2)
+GRIA3      Xq25-q26        P42263     GRIA3_HUMAN 305915 Glutamate receptor 3 precursor (GluR-3) (AMPA-selective glutamate receptor 3) (GluR-C) (GluR-K3) (Glutamate receptor ionotropic, AMPA 3) (GluA3) [GLUR3] [GLURC]
+GRIPAP1    Xp11            Q4V328     GRAP1_HUMAN 300408 GRIP1-associated protein 1 (GRASP-1) [Contains: GRASP-1 C-terminal chain (30kDa C-terminus form)] [KIAA1167]
+GRPR       Xp22.13-p22.2   P30550     GRPR_HUMAN  305670 Gastrin-releasing peptide receptor (GRP-R) (GRP-preferring bombesin receptor)
+GSPT2      Xp11.22         Q8IYD1     ERF3B_HUMAN 300418 Eukaryotic peptide chain release factor GTP-binding subunit ERF3B (Eukaryotic peptide chain release factor subunit 3b) (eRF3b) (G1 to S phase transition protein 2 homolog) [ERF3B]
+GTPBP6     Xp22.33         O43824     GTPB6_HUMAN 300124 Putative GTP-binding protein 6 (Pseudoautosomal GTP-binding protein-like) [PGPL]
+GUCY2F     Xq23            P51841     GUC2F_HUMAN 300041 Retinal guanylyl cyclase 2 precursor (EC 4.6.1.2) (RETGC-2) (Guanylate cyclase 2F, retinal) (Guanylate cyclase F) (GC-F) (Rod outer segment membrane guanylate cyclase 2) (ROS-GC2) [GUC2F] [RETGC2]
+GYG2       Xp22.3          O15488     GLYG2_HUMAN 300198 Glycogenin-2 (EC 2.4.1.186) (GN-2) (GN2)
+H2AFB1     Xq28            P0C5Y9     H2AB1_HUMAN 300445 Histone H2A-Bbd type 1 (H2A Barr body-deficient) (H2A.B) (H2A.Bbd)
+H2AFB2     Xq28            P0C5Z0     H2AB2_HUMAN 300445 Histone H2A-Bbd type 2/3 (H2A Barr body-deficient) (H2A.Bbd)
+H2AFB3     Xq28            P0C5Z0     H2AB2_HUMAN        Histone H2A-Bbd type 2/3 (H2A Barr body-deficient) (H2A.Bbd) [H2ABBD] [H2AFB]
+H2BFM      Xq22.2          P0C1H6     H2BFM_HUMAN        Histone H2B type F-M (Histone H2B.s) (H2B/s)
+H2BFWT     Xq22.2          Q7Z2G1     H2BWT_HUMAN 300507 Histone H2B type W-T (H2B histone family member W testis-specific)
+HAUS7      Xq28            Q99871     HAUS7_HUMAN 300540 HAUS augmin-like complex subunit 7 (26S proteasome-associated UCH37-interacting protein 1) (UCHL5-interacting protein) (X-linked protein STS1769) [UCHL5IP] [UIP1]
+HCCS       Xp22.3          P53701     CCHL_HUMAN  300056 Cytochrome c-type heme lyase (EC 4.4.1.17) (CCHL) (Holocytochrome c-type synthase) [CCHL]
+HCFC1      Xq28            P51610     HCFC1_HUMAN 300019 Host cell factor 1 (HCF) (HCF-1) (C1 factor) (CFF) (VCAF) (VP16 accessory protein) [Contains: HCF N-terminal chain 1; HCF N-terminal chain 2; HCF N-terminal chain 3; HCF N-terminal chain 4; HCF N-terminal chain 5; HCF N-terminal chain 6; HCF C-terminal chain 1; HCF C-terminal chain 2; HCF C-terminal chain 3; HCF C-terminal chain 4; HCF C-terminal chain 5; HCF C-terminal chain 6] [HCF1] [HFC1]
+HDAC6      Xp11.23         Q9UBN7     HDAC6_HUMAN 300272 Histone deacetylase 6 (EC 3.5.1.98) (HD6) [KIAA0901] [JM21]
+HDAC8      Xq13            Q9BY41     HDAC8_HUMAN 300269 Histone deacetylase 8 (EC 3.5.1.98) (HD8) [HDACL1] [CDA07]
+HDX        Xq21.1          Q7Z353     HDX_HUMAN   300994 Highly divergent homeobox [CXorf43]
+HEPH       Xq11-q12        Q9BQS7     HEPH_HUMAN  300167 Hephaestin precursor (EC 1.-.-.-) [KIAA0698] [UNQ2562/PRO6242]
+HMGB3      Xq28            O15347     HMGB3_HUMAN 300193 High mobility group protein B3 (High mobility group protein 2a) (HMG-2a) (High mobility group protein 4) (HMG-4) [HMG2A] [HMG4]
+HMGN5      Xq13            P82970     HMGN5_HUMAN 300385 High mobility group nucleosome-binding domain-containing protein 5 (Nucleosome-binding protein 1) [NSBP1]
+HNRNPH2    Xq22            P55795     HNRH2_HUMAN 300610 Heterogeneous nuclear ribonucleoprotein H2 (hnRNP H2) (FTP-3) (Heterogeneous nuclear ribonucleoprotein H') (hnRNP H') [Contains: Heterogeneous nuclear ribonucleoprotein H2, N-terminally processed] [FTP3] [HNRPH2]
+HPRT1      Xq26.1          P00492     HPRT_HUMAN  308000 Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8) (HGPRT) (HGPRTase) [HPRT]
+HS6ST2     Xq26.2          Q96MM7     H6ST2_HUMAN 300545 Heparan-sulfate 6-O-sulfotransferase 2 (EC 2.8.2.-) (HS6ST-2) [PSEC0092]
+HSD17B10   Xp11.21-p11.22  Q99714     HCD2_HUMAN  300256 3-hydroxyacyl-CoA dehydrogenase type-2 (EC 1.1.1.35) (17-beta-hydroxysteroid dehydrogenase 10) (EC 1.1.1.51) (17-beta-HSD 10) (2-methyl-3-hydroxybutyryl-CoA dehydrogenase) (MHBD) (3-hydroxy-2-methylbutyryl-CoA dehydrogenase) (EC 1.1.1.178) (3-hydroxyacyl-CoA dehydrogenase type II) (Endoplasmic reticulum-associated amyloid beta-peptide-binding protein) (Mitochondrial ribonuclease P protein 2) (Mitochondrial RNase P protein 2) (Short chain dehydrogenase/reductase family 5C member 1) (Short-chain type dehydrogenase/reductase XH98G2) (Type II HADH) [ERAB] [HADH2] [MRPP2] [SCHAD] [SDR5C1] [XH98G2]
+HSFX1      Xq28            Q9UBD0     HSFX1_HUMAN        Heat shock transcription factor, X-linked [LW-1]
+HSFX2      Xq28            Q9UBD0     HSFX1_HUMAN        Heat shock transcription factor, X-linked
+HSFX3      Xq28            A0A1B0GWH4 HSFX3_HUMAN        Heat shock transcription factor, X-linked member 3
+HSFX4      Xq28            A0A1B0GTS1 HSFX4_HUMAN        Heat shock transcription factor, X-linked member 4
+HTATSF1    Xq26-q27        O43719     HTSF1_HUMAN 300346 HIV Tat-specific factor 1 (Tat-SF1)
+HTR2C      Xq24            P28335     5HT2C_HUMAN 312861 5-hydroxytryptamine receptor 2C precursor (5-HT-2C) (5-HT2C) (5-HTR2C) (5-hydroxytryptamine receptor 1C) (5-HT-1C) (5-HT1C) (Serotonin receptor 2C) [HTR1C]
+HUWE1      Xp11.22         Q7Z6Z7     HUWE1_HUMAN 300697 E3 ubiquitin-protein ligase HUWE1 (EC 2.3.2.26) (ARF-binding protein 1) (ARF-BP1) (HECT, UBA and WWE domain-containing protein 1) (HECT-type E3 ubiquitin transferase HUWE1) (Homologous to E6AP carboxyl terminus homologous protein 9) (HectH9) (Large structure of UREB1) (LASU1) (Mcl-1 ubiquitin ligase E3) (Mule) (Upstream regulatory element-binding protein 1) (URE-B1) (URE-binding protein 1) [KIAA0312] [KIAA1578] [UREB1] [HSPC272]
+HYPM       Xp11.4          O75409     HYPM_HUMAN         Huntingtin-interacting protein M (Huntingtin yeast partner M) [CXorf27]
+IDH3G      Xq28            P51553     IDH3G_HUMAN 300089 Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial precursor (Isocitric dehydrogenase subunit gamma) (NAD(+)-specific ICDH subunit gamma)
+IDS        Xq28            P22304     IDS_HUMAN   300823 Iduronate 2-sulfatase precursor (EC 3.1.6.13) (Alpha-L-iduronate sulfate sulfatase) (Idursulfase) [Contains: Iduronate 2-sulfatase 42 kDa chain; Iduronate 2-sulfatase 14 kDa chain] [SIDS]
+IGBP1      Xq13.1-q13.3    P78318     IGBP1_HUMAN 300139 Immunoglobulin-binding protein 1 (B-cell signal transduction molecule alpha 4) (Protein alpha-4) (CD79a-binding protein 1) (Protein phosphatase 2/4/6 regulatory subunit) (Renal carcinoma antigen NY-REN-16) [IBP1]
+IGSF1      Xq25            Q8N6C5     IGSF1_HUMAN 300137 Immunoglobulin superfamily member 1 precursor (IgSF1) (Immunoglobulin-like domain-containing protein 1) (Inhibin-binding protein) (InhBP) (Pituitary gland-specific factor 2) (p120) [IGDC1] [KIAA0364] [PGSF2]
+IKBKG      Xq28            Q9Y6K9     NEMO_HUMAN  300248 NF-kappa-B essential modulator (NEMO) (FIP-3) (IkB kinase-associated protein 1) (IKKAP1) (Inhibitor of nuclear factor kappa-B kinase subunit gamma) (I-kappa-B kinase subunit gamma) (IKK-gamma) (IKKG) (IkB kinase subunit gamma) (NF-kappa-B essential modifier) [FIP3] [NEMO]
+IL13RA1    Xq23            P78552     I13R1_HUMAN 300119 Interleukin-13 receptor subunit alpha-1 precursor (IL-13 receptor subunit alpha-1) (IL-13R subunit alpha-1) (IL-13R-alpha-1) (IL-13RA1) (Cancer/testis antigen 19) (CT19) (CD213a1 antigen) [IL13R] [IL13RA]
+IL13RA2    Xq23-q24        Q14627     I13R2_HUMAN 300130 Interleukin-13 receptor subunit alpha-2 precursor (IL-13 receptor subunit alpha-2) (IL-13R subunit alpha-2) (IL-13R-alpha-2) (IL-13RA2) (Interleukin-13-binding protein) (CD213a2 antigen) [IL13R]
+IL1RAPL1   Xp21.3          Q9NZN1     IRPL1_HUMAN 300206 Interleukin-1 receptor accessory protein-like 1 precursor (IL-1-RAPL-1) (IL-1RAPL-1) (IL1RAPL-1) (Oligophrenin-4) (Three immunoglobulin domain-containing IL-1 receptor-related 2) (TIGIRR-2) (X-linked interleukin-1 receptor accessory protein-like 1) [OPHN4]
+IL1RAPL2   Xq22.3          Q9NP60     IRPL2_HUMAN 300277 X-linked interleukin-1 receptor accessory protein-like 2 precursor (IL-1 receptor accessory protein-like 2) (IL-1-RAPL-2) (IL-1RAPL-2) (IL1RAPL-2) (IL1RAPL-2-related protein) (Interleukin-1 receptor 9) (IL-1R-9) (IL-1R9) (Three immunoglobulin domain-containing IL-1 receptor-related 1) (TIGIRR-1) [IL1R9]
+IL2RG      Xq13.1          P31785     IL2RG_HUMAN 308380 Cytokine receptor common subunit gamma precursor (Interleukin-2 receptor subunit gamma) (IL-2 receptor subunit gamma) (IL-2R subunit gamma) (IL-2RG) (gammaC) (p64) (CD132 antigen)
+IL3RA      Xp22.3          P26951     IL3RA_HUMAN 430000 Interleukin-3 receptor subunit alpha precursor (IL-3 receptor subunit alpha) (IL-3R subunit alpha) (IL-3R-alpha) (IL-3RA) (CD123 antigen) [IL3R]
+IL9R       Xq28            Q01113     IL9R_HUMAN  300007 Interleukin-9 receptor precursor (IL-9 receptor) (IL-9R) (CD129 antigen)
+INE1       Xp11.3-p11.4    O15225     INE1_HUMAN  300164 Putative inactivation escape 1 protein [DXS6974E]
+INTS6L     Xq26.3          Q5JSJ4     INT6L_HUMAN        Integrator complex subunit 6-like (Protein DDX26B) [DDX26B]
+IQSEC2     Xp11.22         Q5JU85     IQEC2_HUMAN 300522 IQ motif and SEC7 domain-containing protein 2 [KIAA0522]
+IRAK1      Xq28            P51617     IRAK1_HUMAN 300283 Interleukin-1 receptor-associated kinase 1 (EC 2.7.11.1) (IRAK-1) [IRAK]
+IRS4       Xq22.3          O14654     IRS4_HUMAN  300904 Insulin receptor substrate 4 (IRS-4) (160 kDa phosphotyrosine protein) (py160) (Phosphoprotein of 160 kDa) (pp160)
+ITGB1BP2   Xq12.1-q13      Q9UKP3     ITBP2_HUMAN 300332 Integrin beta-1-binding protein 2 (Melusin) [MSTP015]
+ITIH6      Xp11.21         Q6UXX5     ITIH6_HUMAN        Inter-alpha-trypsin inhibitor heavy chain H6 precursor (Inter-alpha-trypsin inhibitor heavy chain H5-like protein) (Inter-alpha inhibitor H5-like protein) [ITIH5L] [UNQ6369/PRO21074]
+ITM2A      Xq13.3          O43736     ITM2A_HUMAN 300222 Integral membrane protein 2A (Protein E25) [UNQ603/PRO1189]
+JADE3      Xp11.3          Q92613     JADE3_HUMAN 300618 Protein Jade-3 (Jade family PHD finger protein 3) (PHD finger protein 16) [KIAA0215] [PHF16]
+KCND1      Xp11.23         Q9NSA2     KCND1_HUMAN 300281 Potassium voltage-gated channel subfamily D member 1 (Voltage-gated potassium channel subunit Kv4.1)
+KCNE5      Xq22.3          Q9UJ90     KCNE5_HUMAN 300328 Potassium voltage-gated channel subfamily E regulatory beta subunit 5 (AMME syndrome candidate gene 2 protein) (Potassium channel subunit beta MiRP4) (Potassium voltage-gated channel subfamily E member 1-like protein) [AMMECR2] [KCNE1L]
+KDM5C      Xp11.21-p11.22  P41229     KDM5C_HUMAN 314690 Lysine-specific demethylase 5C (EC 1.14.11.-) (Histone demethylase JARID1C) (Jumonji/ARID domain-containing protein 1C) (Protein SmcX) (Protein Xe169) [DXS1272E] [JARID1C] [SMCX] [XE169]
+KDM6A      Xp11.2          O15550     KDM6A_HUMAN 300128 Lysine-specific demethylase 6A (EC 1.14.11.-) (Histone demethylase UTX) (Ubiquitously-transcribed TPR protein on the X chromosome) (Ubiquitously-transcribed X chromosome tetratricopeptide repeat protein) [UTX]
+KIAA1210   Xq24            Q9ULL0     K1210_HUMAN 300995 Acrosomal protein KIAA1210
+KIF4A      Xq13.1          O95239     KIF4A_HUMAN 300521 Chromosome-associated kinesin KIF4A (Chromokinesin-A) [KIF4]
+KLF8       Xp11.21         O95600     KLF8_HUMAN  300286 Krueppel-like factor 8 (Basic krueppel-like factor 3) (Zinc finger protein 741) [BKLF3] [ZNF741]
+KLHL13     Xq23-q24        Q9P2N7     KLH13_HUMAN 300655 Kelch-like protein 13 (BTB and kelch domain-containing protein 2) [BKLHD2] [KIAA1309]
+KLHL15     Xp21-p22.1      Q96M94     KLH15_HUMAN 300980 Kelch-like protein 15 [KIAA1677]
+KLHL34     Xp22.12         Q8N239     KLH34_HUMAN        Kelch-like protein 34
+KLHL4      Xq21.3          Q9C0H6     KLHL4_HUMAN 300348 Kelch-like protein 4 [KIAA1687]
+KRBOX4     Xp11.3          Q5JUW0     KRBX4_HUMAN 300585 KRAB domain-containing protein 4 (KRAB box domain-containing protein 4) [ZNF673]
+L1CAM      Xq28            P32004     L1CAM_HUMAN 308840 Neural cell adhesion molecule L1 precursor (N-CAM-L1) (NCAM-L1) (CD171 antigen) [CAML1] [MIC5]
+LAGE3      Xq28            Q14657     LAGE3_HUMAN 300060 EKC/KEOPS complex subunit LAGE3 (L antigen family member 3) (Protein ESO-3) (Protein ITBA2) [DXS9879E] [ESO3] [ITBA2]
+LAMP2      Xq24            P13473     LAMP2_HUMAN 309060 Lysosome-associated membrane glycoprotein 2 precursor (LAMP-2) (Lysosome-associated membrane protein 2) (CD107 antigen-like family member B) (LGP-96) (CD107b antigen)
+LANCL3     Xp21.1          Q6ZV70     LANC3_HUMAN        LanC-like protein 3
+LAS1L      Xq12            Q9Y4W2     LAS1L_HUMAN 300964 Ribosomal biogenesis protein LAS1L (Protein LAS1 homolog) [MSTP060]
+LCA10      Xq28            Q71F78     LCA10_HUMAN        Putative lung carcinoma-associated protein 10
+LDOC1      Xq27            O95751     LDOC1_HUMAN 300402 Protein LDOC1 (Leucine zipper protein down-regulated in cancer cells) [BCUR1]
+LHFPL1     Xq23            Q86WI0     LHPL1_HUMAN 300566 LHFPL tetraspan subfamily member 1 protein precursor (Lipoma HMGIC fusion partner-like 1 protein) [UNQ5824/PRO19643]
+LINC00269  Xq13.1          Q8N2A0     CX062_HUMAN        Putative uncharacterized protein encoded by LINC00269 [CXorf62] [NCRNA00269]
+LINC01545  Xp11.3          Q5VT33     CX031_HUMAN        Putative uncharacterized protein encoded by LINC01545 [CXorf31]
+LINC01546  Xp22.33         A6NGU7     CX028_HUMAN        Putative uncharacterized protein encoded by LINC01546 [CXorf28]
+LINC01560  Xp11.3          Q8TB33     CX024_HUMAN        Putative uncharacterized protein encoded by LINC01560 [CXorf24]
+LONRF3     Xq24            Q496Y0     LONF3_HUMAN        LON peptidase N-terminal domain and RING finger protein 3 (RING finger protein 127) [RNF127]
+LPAR4      Xq13-q21.1      Q99677     LPAR4_HUMAN 300086 Lysophosphatidic acid receptor 4 (LPA receptor 4) (LPA-4) (G-protein coupled receptor 23) (P2Y purinoceptor 9) (P2Y9) (P2Y5-like receptor) (Purinergic receptor 9) [GPR23] [LPA4] [P2RY9]
+LRCH2      Xq23            Q5VUJ6     LRCH2_HUMAN        Leucine-rich repeat and calponin homology domain-containing protein 2 [KIAA1495]
+LUZP4      Xq24            Q9P127     LUZP4_HUMAN 300616 Leucine zipper protein 4 (Cancer/testis antigen 28) (CT-28) (CT28) (Tumor antigen HOM-TES-85)
+MAGEA1     Xq28            P43355     MAGA1_HUMAN 300016 Melanoma-associated antigen 1 (Antigen MZ2-E) (Cancer/testis antigen 1.1) (CT1.1) (MAGE-1 antigen) [MAGE1] [MAGE1A]
+MAGEA10    Xq28            P43363     MAGAA_HUMAN 300343 Melanoma-associated antigen 10 (Cancer/testis antigen 1.10) (CT1.10) (MAGE-10 antigen) [MAGE10]
+MAGEA11    Xq28            P43364     MAGAB_HUMAN 300344 Melanoma-associated antigen 11 (Cancer/testis antigen 1.11) (CT1.11) (MAGE-11 antigen) [MAGE11]
+MAGEA12    Xq28            P43365     MAGAC_HUMAN 300177 Melanoma-associated antigen 12 (Cancer/testis antigen 1.12) (CT1.12) (MAGE-12 antigen) (MAGE12F antigen) [MAGE12]
+MAGEA13P   Xq26.3          A6NCF6     MA13P_HUMAN        Putative MAGE domain-containing protein MAGEA13P
+MAGEA2     Xq28            P43356     MAGA2_HUMAN 300549 Melanoma-associated antigen 2 (Cancer/testis antigen 1.2) (CT1.2) (MAGE-2 antigen) [MAGE2] [MAGEA2A]
+MAGEA2B    Xq28            P43356     MAGA2_HUMAN 300173 Melanoma-associated antigen 2 (Cancer/testis antigen 1.2) (CT1.2) (MAGE-2 antigen) [MAGE2] [MAGEA2]
+MAGEA3     Xq28            P43357     MAGA3_HUMAN 300174 Melanoma-associated antigen 3 (Antigen MZ2-D) (Cancer/testis antigen 1.3) (CT1.3) (MAGE-3 antigen) [MAGE3]
+MAGEA4     Xq28            P43358     MAGA4_HUMAN 300175 Melanoma-associated antigen 4 (Cancer/testis antigen 1.4) (CT1.4) (MAGE-4 antigen) (MAGE-41 antigen) (MAGE-X2 antigen) [MAGE4]
+MAGEA5     Xq28            P43359     MAGA5_HUMAN 300340 Melanoma-associated antigen 5 (Cancer/testis antigen 1.5) (CT1.5) (MAGE-5 antigen) [MAGE5]
+MAGEA6     Xq28            P43360     MAGA6_HUMAN 300176 Melanoma-associated antigen 6 (Cancer/testis antigen 1.6) (CT1.6) (MAGE-6 antigen) (MAGE3B antigen) [MAGE6]
+MAGEA8     Xq28            P43361     MAGA8_HUMAN 300341 Melanoma-associated antigen 8 (Cancer/testis antigen 1.8) (CT1.8) (MAGE-8 antigen) [MAGE8]
+MAGEA9     Xq28            P43362     MAGA9_HUMAN 300764 Melanoma-associated antigen 9 (Cancer/testis antigen 1.9) (CT1.9) (MAGE-9 antigen) [MAGE9] [MAGEA9A]
+MAGEA9B    Xq28            P43362     MAGA9_HUMAN 300342 Melanoma-associated antigen 9 (Cancer/testis antigen 1.9) (CT1.9) (MAGE-9 antigen)
+MAGEB1     Xp21.3          P43366     MAGB1_HUMAN 300097 Melanoma-associated antigen B1 (Cancer/testis antigen 3.1) (CT3.1) (DSS-AHC critical interval MAGE superfamily 10) (DAM10) (MAGE-B1 antigen) (MAGE-XP antigen) [MAGEL1] [MAGEXP]
+MAGEB10    Xp21.3          Q96LZ2     MAGBA_HUMAN 300761 Melanoma-associated antigen B10 (MAGE-B10 antigen)
+MAGEB16    Xp21.1          A2A368     MAGBG_HUMAN 300762 Melanoma-associated antigen B16 (MAGE-B16 antigen)
+MAGEB17    Xp22.2          A8MXT2     MAGBH_HUMAN 300763 Melanoma-associated antigen B17
+MAGEB18    Xp21.3          Q96M61     MAGBI_HUMAN        Melanoma-associated antigen B18 (MAGE-B18 antigen)
+MAGEB2     Xp21.3          O15479     MAGB2_HUMAN 300098 Melanoma-associated antigen B2 (Cancer/testis antigen 3.2) (CT3.2) (DSS-AHC critical interval MAGE superfamily 6) (DAM6) (MAGE XP-2 antigen) (MAGE-B2 antigen)
+MAGEB3     Xp21.3          O15480     MAGB3_HUMAN 300152 Melanoma-associated antigen B3 (MAGE-B3 antigen)
+MAGEB4     Xp21.3          O15481     MAGB4_HUMAN 300153 Melanoma-associated antigen B4 (MAGE-B4 antigen)
+MAGEB5     Xp21.3          Q9BZ81     MAGB5_HUMAN 300466 Melanoma-associated antigen B5 (Cancer/testis antigen 3.3) (CT3.3) (MAGE-B5 antigen)
+MAGEB6     Xp21.3          Q8N7X4     MAGB6_HUMAN 300467 Melanoma-associated antigen B6 (Cancer/testis antigen 3.4) (CT3.4) (MAGE-B6 antigen)
+MAGEC1     Xq26            O60732     MAGC1_HUMAN 300223 Melanoma-associated antigen C1 (Cancer/testis antigen 7.1) (CT7.1) (MAGE-C1 antigen)
+MAGEC2     Xq27            Q9UBF1     MAGC2_HUMAN 300468 Melanoma-associated antigen C2 (Cancer/testis antigen 10) (CT10) (Hepatocellular carcinoma-associated antigen 587) (MAGE-C2 antigen) (MAGE-E1 antigen) [HCA587] [MAGEE1]
+MAGEC3     Xq27.2          Q8TD91     MAGC3_HUMAN 300469 Melanoma-associated antigen C3 (Cancer/testis antigen 7.2) (CT7.2) (Hepatocellular carcinoma-associated antigen 2) (MAGE-C3 antigen) [HCA2]
+MAGED1     Xp11.23         Q9Y5V3     MAGD1_HUMAN 300224 Melanoma-associated antigen D1 (MAGE tumor antigen CCF) (MAGE-D1 antigen) (Neurotrophin receptor-interacting MAGE homolog) [NRAGE] [PP2250] [PRO2292]
+MAGED2     Xp11.1-p11.4    Q9UNF1     MAGD2_HUMAN 300470 Melanoma-associated antigen D2 (11B6) (Breast cancer-associated gene 1 protein) (BCG-1) (Hepatocellular carcinoma-associated protein JCL-1) (MAGE-D2 antigen) [BCG1]
+MAGED4     Xp11.22         Q96JG8     MAGD4_HUMAN 300765 Melanoma-associated antigen D4 (MAGE-D4 antigen) (MAGE-E1 antigen) [KIAA1859] [MAGED4A] [MAGEE1]
+MAGED4B    Xp11.22         Q96JG8     MAGD4_HUMAN 300702 Melanoma-associated antigen D4 (MAGE-D4 antigen) (MAGE-E1 antigen)
+MAGEE1     Xq13            Q9HCI5     MAGE1_HUMAN 300759 Melanoma-associated antigen E1 (Alpha-dystrobrevin-associated MAGE Protein) (DAMAGE) (Hepatocellular carcinoma-associated protein 1) (MAGE-E1 antigen) [HCA1] [KIAA1587]
+MAGEE2     Xq13            Q8TD90     MAGE2_HUMAN 300760 Melanoma-associated antigen E2 (Hepatocellular carcinoma-associated protein 3) (MAGE-E2 antigen) [HCA3]
+MAGEH1     Xp11.22         Q9H213     MAGH1_HUMAN 300548 Melanoma-associated antigen H1 (Apoptosis-related protein 1) (APR-1) (MAGE-H1 antigen) (Restin) [APR1]
+MAGIX      Xp11.23         Q9H6Y5     MAGIX_HUMAN        PDZ domain-containing protein MAGIX
+MAGT1      Xq21.1          Q9H0U3     MAGT1_HUMAN 300715 Magnesium transporter protein 1 precursor (MagT1) (Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1) (Oligosaccharyl transferase subunit MAGT1) (Implantation-associated protein) (IAP) [IAG2] [PSEC0084] [UNQ628/PRO1244]
+MAMLD1     Xq28            Q13495     MAMD1_HUMAN 300120 Mastermind-like domain-containing protein 1 (F18) (Protein CG1) [CG1] [CXorf6]
+MAOA       Xp11.3-p11.4    P21397     AOFA_HUMAN  309850 Amine oxidase [flavin-containing] A (EC 1.4.3.4) (Monoamine oxidase type A) (MAO-A)
+MAOB       Xp11.23         P27338     AOFB_HUMAN  309860 Amine oxidase [flavin-containing] B (EC 1.4.3.4) (Monoamine oxidase type B) (MAO-B)
+MAP3K15    Xp22.12         Q6ZN16     M3K15_HUMAN 300820 Mitogen-activated protein kinase kinase kinase 15 (EC 2.7.11.25) (Apoptosis signal-regulating kinase 3) (MAPK/ERK kinase kinase 15) (MEK kinase 15) (MEKK 15) [ASK3]
+MAP7D2     Xp22.12         Q96T17     MA7D2_HUMAN        MAP7 domain-containing protein 2
+MAP7D3     Xq26.3          Q8IWC1     MA7D3_HUMAN 300930 MAP7 domain-containing protein 3 [MDP3]
+MBNL3      Xq26.1          Q9NUK0     MBNL3_HUMAN 300413 Muscleblind-like protein 3 (Cys3His CCG1-required protein) (Muscleblind-like X-linked protein) (Protein HCHCR) [CHCR] [MBLX39] [MBXL]
+MBTPS2     Xp22.1-p22.2    O43462     MBTP2_HUMAN 300294 Membrane-bound transcription factor site-2 protease (EC 3.4.24.85) (Endopeptidase S2P) (Sterol regulatory element-binding proteins intramembrane protease) (SREBPs intramembrane protease) [S2P]
+MCF2       Xq27            P10911     MCF2_HUMAN  311030 Proto-oncogene DBL (Proto-oncogene MCF-2) [Contains: MCF2-transforming protein; DBL-transforming protein] [DBL]
+MCTS1      Xq22-q24        Q9ULC4     MCTS1_HUMAN 300587 Malignant T-cell-amplified sequence 1 (MCT-1) (Multiple copies T-cell malignancies) [MCT1]
+MECP2      Xq28            P51608     MECP2_HUMAN 300005 Methyl-CpG-binding protein 2 (MeCp-2 protein) (MeCp2)
+MED12      Xq13            Q93074     MED12_HUMAN 300188 Mediator of RNA polymerase II transcription subunit 12 (Activator-recruited cofactor 240 kDa component) (ARC240) (CAG repeat protein 45) (Mediator complex subunit 12) (OPA-containing protein) (Thyroid hormone receptor-associated protein complex 230 kDa component) (Trap230) (Trinucleotide repeat-containing gene 11 protein) [ARC240] [CAGH45] [HOPA] [KIAA0192] [TNRC11] [TRAP230]
+MED14      Xp11.2-p11.4    O60244     MED14_HUMAN 300182 Mediator of RNA polymerase II transcription subunit 14 (Activator-recruited cofactor 150 kDa component) (ARC150) (Cofactor required for Sp1 transcriptional activation subunit 2) (CRSP complex subunit 2) (Mediator complex subunit 14) (RGR1 homolog) (hRGR1) (Thyroid hormone receptor-associated protein complex 170 kDa component) (Trap170) (Transcriptional coactivator CRSP150) (Vitamin D3 receptor-interacting protein complex 150 kDa component) (DRIP150) [ARC150] [CRSP2] [CXorf4] [DRIP150] [EXLM1] [RGR1] [TRAP170]
+MED14OS    Xp11.4          P0DP75     M14OS_HUMAN        Putative uncharacterized protein MED14OS (MED14 antisense gene protein 1) (MED14 opposite strand protein) [MED14-AS1]
+MID1       Xp22            O15344     TRI18_HUMAN 300552 E3 ubiquitin-protein ligase Midline-1 (EC 2.3.2.27) (Midin) (Putative transcription factor XPRF) (RING finger protein 59) (RING finger protein Midline-1) (RING-type E3 ubiquitin transferase Midline-1) (Tripartite motif-containing protein 18) [FXY] [RNF59] [TRIM18] [XPRF]
+MID1IP1    Xp11.4          Q9NPA3     M1IP1_HUMAN 300961 Mid1-interacting protein 1 (Gastrulation-specific G12-like protein) (Mid1-interacting G12-like protein) (Protein STRAIT11499) (Spot 14-related protein) (S14R) (Spot 14-R) [MIG12]
+MID2       Xq22.1-q22.2    Q9UJV3     TRIM1_HUMAN 300204 Probable E3 ubiquitin-protein ligase MID2 (EC 2.3.2.27) (Midin-2) (Midline defect 2) (Midline-2) (RING finger protein 60) (RING-type E3 ubiquitin transferase MID2) (Tripartite motif-containing protein 1) [FXY2] [RNF60] [TRIM1]
+MKRN4P     Xp21.1          Q13434     MKRN4_HUMAN        Putative E3 ubiquitin-protein ligase makorin-4 (EC 2.3.2.27) (Makorin RING finger protein pseudogene 4) (Makorin RING finger protein pseudogene 5) (RING finger protein 64) (RING-type E3 ubiquitin transferase makorin-4) (Zinc finger protein 127-Xp) (ZNF127-Xp) (Zinc finger protein 127-like 1) [MKRN4] [MKRNP5] [RNF64] [ZNF127L1]
+MMGT1      Xq26.3          Q8N4V1     MMGT1_HUMAN        Membrane magnesium transporter 1 (ER membrane protein complex subunit 5) (Transmembrane protein 32) [EMC5] [TMEM32]
+MORC4      Xq22.3          Q8TE76     MORC4_HUMAN 300970 MORC family CW-type zinc finger protein 4 (Zinc finger CW-type coiled-coil domain protein 2) (Zinc finger CW-type domain protein 4) [ZCW4] [ZCWCC2]
+MORF4L2    Xq22            Q15014     MO4L2_HUMAN 300409 Mortality factor 4-like protein 2 (MORF-related gene X protein) (Protein MSL3-2) (Transcription factor-like protein MRGX) [KIAA0026] [MRGX]
+MOSPD1     Xq26.3          Q9UJG1     MSPD1_HUMAN 300674 Motile sperm domain-containing protein 1
+MOSPD2     Xp22.2          Q8NHP6     MSPD2_HUMAN        Motile sperm domain-containing protein 2
+MPC1L      Xp11.4          P0DKB6     MPC1L_HUMAN        Mitochondrial pyruvate carrier 1-like protein
+MPP1       Xq28            Q00013     EM55_HUMAN  305360 55 kDa erythrocyte membrane protein (p55) (Membrane protein, palmitoylated 1) [DXS552E] [EMP55]
+MSL3       Xp22.3          Q8N5Y2     MS3L1_HUMAN 300609 Male-specific lethal 3 homolog (Male-specific lethal-3 homolog 1) (Male-specific lethal-3 protein-like 1) (MSL3-like 1) [MSL3L1]
+MSN        Xq11.2-q12      P26038     MOES_HUMAN  309845 Moesin (Membrane-organizing extension spike protein)
+MTCP1      Xq28            P56278     MTCP1_HUMAN 300116 Protein p13 MTCP-1 (p13MTCP1) (Mature T-cell proliferation-1 type B1) (MTCP-1 type B1) [C6.1B]
+MTM1       Xq28            Q13496     MTM1_HUMAN  300415 Myotubularin (Phosphatidylinositol-3,5-bisphosphate 3-phosphatase) (EC 3.1.3.95) (Phosphatidylinositol-3-phosphate phosphatase) (EC 3.1.3.64) [CG2]
+MTMR1      Xq28            Q13613     MTMR1_HUMAN 300171 Myotubularin-related protein 1 (Phosphatidylinositol-3,5-bisphosphate 3-phosphatase) (EC 3.1.3.95) (Phosphatidylinositol-3-phosphate phosphatase) (EC 3.1.3.64)
+MTMR8      Xq11.1          Q96EF0     MTMR8_HUMAN        Myotubularin-related protein 8 (Phosphatidylinositol-3,5-bisphosphate 3-phosphatase) (EC 3.1.3.95) (Phosphatidylinositol-3-phosphate phosphatase) (EC 3.1.3.64)
+MTRNR2L10  Xp11.21         P0CJ77     HMN10_HUMAN        Humanin-like 10 (HN10) (MT-RNR2-like protein 10)
+MXRA5      Xp22.33         Q9NR99     MXRA5_HUMAN 300938 Matrix-remodeling-associated protein 5 precursor (Adhesion protein with leucine-rich repeats and immunoglobulin domains related to perlecan) (Adlican)
+MYCLP1     Xq22-q23        P12525     MYCP1_HUMAN 310310 Putative myc-like protein MYCLP1 (Protein L-Myc-2) (V-myc myelocytomatosis viral oncogene homolog pseudogene 1) [MYCL1P1] [MYCL2]
+NAA10      Xq28            P41227     NAA10_HUMAN 300013 N-alpha-acetyltransferase 10 (EC 2.3.1.255) (N-terminal acetyltransferase complex ARD1 subunit homolog A) (hARD1) (NatA catalytic subunit Naa10) [ARD1] [ARD1A] [TE2]
+NAP1L2     Xq13            Q9ULW6     NP1L2_HUMAN 300026 Nucleosome assembly protein 1-like 2 (Brain-specific protein, X-linked) [BPX]
+NAP1L3     Xq21.3-q22      Q99457     NP1L3_HUMAN 300117 Nucleosome assembly protein 1-like 3 [BNAP]
+NAP1L6     Xq13.2          A6NFF2     NP1L6_HUMAN        Putative nucleosome assembly protein 1-like 6
+NBDY       Xp11.21         A0A0U1RRE5 NBDY_HUMAN  300992 Negative regulator of P-body association (P-body dissociating protein) (Protein NoBody) [LINC01420]
+NCBP2L     Xq22.3          A6PVI3     NCB2L_HUMAN        Nuclear cap-binding protein subunit 2-like
+NDP        Xp11.3-p11.4    Q00604     NDP_HUMAN   300658 Norrin precursor (Norrie disease protein) (X-linked exudative vitreoretinopathy 2 protein) [EVR2]
+NDUFA1     Xq24            O15239     NDUA1_HUMAN 300078 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 (Complex I-MWFE) (CI-MWFE) (NADH-ubiquinone oxidoreductase MWFE subunit)
+NDUFB11    Xp11.3          Q9NX14     NDUBB_HUMAN 300403 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial precursor (Complex I-ESSS) (CI-ESSS) (NADH-ubiquinone oxidoreductase ESSS subunit) (Neuronal protein 17.3) (Np17.3) (p17.3) [UNQ111/PRO1064]
+NEXMIF     Xq13.3          Q5QGS0     NEXMI_HUMAN 300524 Neurite extension and migration factor (XLMR protein related to neurite extension) (XPN) [KIAA2022]
+NHS        Xp22.13         Q6T4R5     NHS_HUMAN   300457 Nance-Horan syndrome protein (Congenital cataracts and dental anomalies protein)
+NHSL2      Xq13.1          Q5HYW2     NHSL2_HUMAN        NHS-like protein 2
+NKAP       Xq24            Q8N5F7     NKAP_HUMAN  300766 NF-kappa-B-activating protein
+NKAPP1     Xq24            Q8N9T2     CX042_HUMAN        Putative uncharacterized protein CXorf42 (NF-kappa-B-activating protein pseudogene 1) [CXorf42]
+NKRF       Xq24            O15226     NKRF_HUMAN  300440 NF-kappa-B-repressing factor (NFkB-repressing factor) (Protein ITBA4) (Transcription factor NRF) [ITBA4] [NRF]
+NLGN3      Xq13            Q9NZ94     NLGN3_HUMAN 300336 Neuroligin-3 precursor (Gliotactin homolog) [KIAA1480] [NL3]
+NLGN4X     Xp22.33         Q8N0W4     NLGNX_HUMAN 300427 Neuroligin-4, X-linked precursor (Neuroligin X) (HNLX) [KIAA1260] [NLGN4] [UNQ365/PRO701]
+NLRP2B     Xp11.1          P0DMW2     PYDC4_HUMAN        NLR family pyrin domain-containing protein 2B (Pyrin domain-containing protein 2-like protein POP4) (Pyrin-only protein 4) [CLRX.1] [NLRP2P] [NOD24] [POP4]
+NONO       Xq13.1          Q15233     NONO_HUMAN  300084 Non-POU domain-containing octamer-binding protein (NonO protein) (54 kDa nuclear RNA- and DNA-binding protein) (55 kDa nuclear protein) (DNA-binding p52/p100 complex, 52 kDa subunit) (NMT55) (p54(nrb)) (p54nrb) [NRB54]
+NOX1       Xq22.2          Q9Y5S8     NOX1_HUMAN  300225 NADPH oxidase 1 (EC 1.-.-.-) (NOX-1) (Mitogenic oxidase 1) (MOX-1) (NADH/NADPH mitogenic oxidase subunit P65-MOX) (NOH-1) [MOX1] [NOH1]
+NR0B1      Xp21.2-p21.3    P51843     NR0B1_HUMAN 300473 Nuclear receptor subfamily 0 group B member 1 (DSS-AHC critical region on the X chromosome protein 1) (Nuclear receptor DAX-1) [AHC] [DAX1]
+NRK        Xq22.3          Q7Z2Y5     NRK_HUMAN   300791 Nik-related protein kinase (EC 2.7.11.1)
+NSDHL      Xq28            Q15738     NSDHL_HUMAN 300275 Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating (EC 1.1.1.170) (Protein H105e3) [H105E3]
+NUDT10     Xp11.23         Q8NFP7     NUD10_HUMAN 300527 Diphosphoinositol polyphosphate phosphohydrolase 3-alpha (EC 3.6.1.52) (DIPP-3-alpha) (DIPP3-alpha) (hDIPP3alpha) (Diadenosine 5',5'''-P1,P6-hexaphosphate hydrolase 3-alpha) (Diadenosine hexaphosphate hydrolase (AMP-forming)) (EC 3.6.1.60) (Nucleoside diphosphate-linked moiety X motif 10) (Nudix motif 10) (hAps2) [APS2] [DIPP3A]
+NUDT11     Xp11.22         Q96G61     NUD11_HUMAN 300528 Diphosphoinositol polyphosphate phosphohydrolase 3-beta (EC 3.6.1.52) (DIPP-3-beta) (DIPP3-beta) (hDIPP3beta) (Diadenosine 5',5'''-P1,P6-hexaphosphate hydrolase 3-beta) (Diadenosine hexaphosphate hydrolase (AMP-forming)) (EC 3.6.1.60) (Nucleoside diphosphate-linked moiety X motif 11) (Nudix motif 11) (hAps1) [APS1] [DIPP3B]
+NUP62CL    Xq22.3          Q9H1M0     N62CL_HUMAN        Nucleoporin-62 C-terminal-like protein [NUP62L]
+NXF2       Xq22.1          Q9GZY0     NXF2_HUMAN  300315 Nuclear RNA export factor 2 (Cancer/testis antigen 39) (CT39) (TAP-like protein 2) (TAPL-2) [TAPL2]
+NXF2B      Xq22.1          Q9GZY0     NXF2_HUMAN         Nuclear RNA export factor 2 (Cancer/testis antigen 39) (CT39) (TAP-like protein 2) (TAPL-2)
+NXF3       Xq21.3-q22.3    Q9H4D5     NXF3_HUMAN  300316 Nuclear RNA export factor 3 (TAP-like protein 3) (TAPL-3) [TAPL3]
+NXF5       Xq22            Q9H1B4     NXF5_HUMAN  300319 Nuclear RNA export factor 5 (TAP-like protein 1) (TAPL-1) [TAPL1]
+NXT2       Xq22.3          Q9NPJ8     NXT2_HUMAN  300320 NTF2-related export protein 2 (Protein p15-2) [BM-025] [DC9]
+NYX        Xp11.4          Q9GZU5     NYX_HUMAN   300278 Nyctalopin precursor [CLRP]
+OCRL       Xq25-q26.1      Q01968     OCRL_HUMAN  300535 Inositol polyphosphate 5-phosphatase OCRL-1 (EC 3.1.3.36) (Lowe oculocerebrorenal syndrome protein) [INPP5F] [OCRL1]
+OFD1       Xp22.2-p22.3    O75665     OFD1_HUMAN  300170 Oral-facial-digital syndrome 1 protein (Protein 71-7A) [CXorf5]
+OGT        Xq13.1          O15294     OGT1_HUMAN  300255 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255) (O-GlcNAc transferase subunit p110) (O-linked N-acetylglucosamine transferase 110 kDa subunit)
+OPHN1      Xq12            O60890     OPHN1_HUMAN 300127 Oligophrenin-1
+OPN1LW     Xq28            P04000     OPSR_HUMAN  300822 Long-wave-sensitive opsin 1 (Red cone photoreceptor pigment) (Red-sensitive opsin) (ROP) [RCP]
+OPN1MW     Xq28            P04001     OPSG_HUMAN  300821 Medium-wave-sensitive opsin 1 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP) [GCP]
+OPN1MW2    Xq28            P0DN77     OPSG2_HUMAN        Medium-wave-sensitive opsin 2 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP) (Opsin 1 cone pigments medium-wave-sensitive 2)
+OPN1MW3    Xq28            P0DN78     OPSG3_HUMAN        Medium-wave-sensitive opsin 3 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP) (opsin 1 cone pigments medium-wave-sensitive 3)
+OR13H1     X               Q8NG92     O13H1_HUMAN        Olfactory receptor 13H1 (Olfactory receptor ORX-1)
+OTC        Xp21.1          P00480     OTC_HUMAN   300461 Ornithine carbamoyltransferase, mitochondrial precursor (EC 2.1.3.3) (Ornithine transcarbamylase) (OTCase)
+OTUD5      Xp11.23         Q96G74     OTUD5_HUMAN 300713 OTU domain-containing protein 5 (EC 3.4.19.12) (Deubiquitinating enzyme A) (DUBA)
+OTUD6A     Xq13.1          Q7L8S5     OTU6A_HUMAN 300714 OTU domain-containing protein 6A (EC 3.4.19.12) (DUBA-2) [DUBA2]
+P2RY10     Xq21.1          O00398     P2Y10_HUMAN 300529 Putative P2Y purinoceptor 10 (P2Y10) (P2Y-like receptor)
+P2RY4      Xq13            P51582     P2RY4_HUMAN 300038 P2Y purinoceptor 4 (P2Y4) (P2P) (Uridine nucleotide receptor) (UNR) [NRU]
+P2RY8      Xp22.33         Q86VZ1     P2RY8_HUMAN 300525 P2Y purinoceptor 8 (P2Y8)
+PABPC1L2A  Xq13.2          Q5JQF8     PAP1M_HUMAN        Polyadenylate-binding protein 1-like 2 (RNA-binding motif protein 32) (RNA-binding protein 32) [PABPC1L2] [RBM32A]
+PABPC1L2B  Xq13.1          Q5JQF8     PAP1M_HUMAN        Polyadenylate-binding protein 1-like 2 (RNA-binding motif protein 32) (RNA-binding protein 32) [PABPC1L2] [RBM32B]
+PABPC5     Xq21.3          Q96DU9     PABP5_HUMAN 300407 Polyadenylate-binding protein 5 (PABP-5) (Poly(A)-binding protein 5) [PABP5]
+PAGE1      Xp11.23         O75459     PAGE1_HUMAN 300288 P antigen family member 1 (PAGE-1) (AL5) (G antigen 9) (GAGE-9) (G antigen family B member 1) (Prostate-associated gene 1 protein) [GAGE9] [GAGEB1]
+PAGE2      Xp11.22         Q7Z2X7     PAGE2_HUMAN 300738 P antigen family member 2 (PAGE-2) (G antigen family C 2) (Prostate-associated gene 2 protein) [GAGEC2] [GAGEE2]
+PAGE2B     Xp11.21         Q5JRK9     GGEE3_HUMAN        Putative G antigen family E member 3 (Prostate-associated gene 2B protein) (PAGE-2B) [GAGEE3]
+PAGE3      Xp11.21         Q5JUK9     PAGE3_HUMAN 300739 P antigen family member 3 (PAGE-3) (G antigen family D member 1) (Prostate-associated gene 3 protein) [GAGED1]
+PAGE4      Xp11.23         O60829     PAGE4_HUMAN 300287 P antigen family member 4 (PAGE-4) (G antigen family C member 1) (PAGE-1) [GAGEC1] [JM27]
+PAGE5      Xp11.21         Q96GU1     PAGE5_HUMAN 301009 P antigen family member 5 (PAGE-5) (Cancer/testis antigen 16.1) (CT16.1) (G antigen family E member 1) (Prostate-associated gene 5 protein) [GAGEE1]
+PAK3       Xq22.3-q23      O75914     PAK3_HUMAN  300142 Serine/threonine-protein kinase PAK 3 (EC 2.7.11.1) (Beta-PAK) (Oligophrenin-3) (p21-activated kinase 3) (PAK-3) [OPHN3]
+PASD1      Xq28            Q8IV76     PASD1_HUMAN 300993 Circadian clock protein PASD1 (Cancer/testis antigen 63) (CT63) (OX-TES-1) (PAS domain-containing protein 1)
+PBDC1      Xq13.2          Q9BVG4     PBDC1_HUMAN        Protein PBDC1 (Polysaccharide biosynthesis domain-containing protein 1) [CXorf26]
+PCDH11X    Xq21.31         Q9BZA7     PC11X_HUMAN 300246 Protocadherin-11 X-linked precursor (Protocadherin-11) (Protocadherin on the X chromosome) (PCDH-X) (Protocadherin-S) [KIAA1326] [PCDH11] [PCDHX]
+PCDH19     Xq13.3          Q8TAB3     PCD19_HUMAN 300460 Protocadherin-19 precursor [KIAA1313]
+PCSK1N     Xp11            Q9UHG2     PCSK1_HUMAN 300399 ProSAAS precursor (Proprotein convertase subtilisin/kexin type 1 inhibitor) (Proprotein convertase 1 inhibitor) (pro-SAAS) [Contains: KEP; Big SAAS (b-SAAS); Little SAAS (l-SAAS) (N-proSAAS); Big PEN-LEN (b-PEN-LEN) (SAAS CT(1-49)); PEN; Little LEN (l-LEN); Big LEN (b-LEN) (SAAS CT(25-40))]
+PCYT1B     Xp22.12         Q9Y5K3     PCY1B_HUMAN 300948 Choline-phosphate cytidylyltransferase B (EC 2.7.7.15) (CCT-beta) (CTP:phosphocholine cytidylyltransferase B) (CCT B) (CT B) (Phosphorylcholine transferase B) [CCTB]
+PDHA1      Xp22.1-p22.2    P08559     ODPA_HUMAN  300502 Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial precursor (EC 1.2.4.1) (PDHE1-A type I) [PHE1A]
+PDK3       Xp22.12         Q15120     PDK3_HUMAN  300906 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial precursor (EC 2.7.11.2) (Pyruvate dehydrogenase kinase isoform 3) [PDHK3]
+PDZD11     Xq13.1          Q5EBL8     PDZ11_HUMAN 300632 PDZ domain-containing protein 11 (ATPase-interacting PDZ protein) (Plasma membrane calcium ATPase-interacting single-PDZ protein) (PMCA-interacting single-PDZ protein) [AIPP1] [PDZK11] [PISP] [HSPC227] [UNQ6486/PRO21335]
+PDZD4      Xq28            Q76G19     PDZD4_HUMAN 300634 PDZ domain-containing protein 4 (PDZ domain-containing RING finger protein 4-like protein) [KIAA1444] [PDZK4] [PDZRN4L]
+PFKFB1     Xp11.21         P16118     F261_HUMAN  311790 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1 (6PF-2-K/Fru-2,6-P2ase 1) (PFK/FBPase 1) (6PF-2-K/Fru-2,6-P2ase liver isozyme) [Includes: 6-phosphofructo-2-kinase (EC 2.7.1.105); Fructose-2,6-bisphosphatase (EC 3.1.3.46)] [F6PK] [PFRX]
+PGAM4      Xp22.33         Q8N0Y7     PGAM4_HUMAN 300567 Probable phosphoglycerate mutase 4 (EC 5.4.2.11) (EC 5.4.2.4) [PGAM3]
+PGK1       Xq13            P00558     PGK1_HUMAN  311800 Phosphoglycerate kinase 1 (EC 2.7.2.3) (Cell migration-inducing gene 10 protein) (Primer recognition protein 2) (PRP 2) [PGKA] [MIG10] [OK/SW-cl.110]
+PGRMC1     Xq22-q24        O00264     PGRC1_HUMAN 300435 Membrane-associated progesterone receptor component 1 (mPR) (Dap1) (IZA) [HPR6.6] [PGRMC]
+PHEX       Xp22.1-p22.2    P78562     PHEX_HUMAN  300550 Phosphate-regulating neutral endopeptidase PHEX (EC 3.4.24.-) (Metalloendopeptidase homolog PEX) (Vitamin D-resistant hypophosphatemic rickets protein) (X-linked hypophosphatemia protein) (HYP) [PEX]
+PHF6       Xq26.3          Q8IWS0     PHF6_HUMAN  300414 PHD finger protein 6 (PHD-like zinc finger protein) [CENP-31] [KIAA1823]
+PHF8       Xp11.22         Q9UPP1     PHF8_HUMAN  300560 Histone lysine demethylase PHF8 (EC 1.14.11.27) (PHD finger protein 8) [KIAA1111] [ZNF422]
+PHKA1      Xq12-q13        P46020     KPB1_HUMAN  311870 Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform (Phosphorylase kinase alpha M subunit) [PHKA]
+PHKA2      Xp22.1-p22.2    P46019     KPB2_HUMAN  300798 Phosphorylase b kinase regulatory subunit alpha, liver isoform (Phosphorylase kinase alpha L subunit) [PHKLA] [PYK]
+PIGA       Xp22.1          P37287     PIGA_HUMAN  311770 Phosphatidylinositol N-acetylglucosaminyltransferase subunit A (EC 2.4.1.198) (GlcNAc-PI synthesis protein) (Phosphatidylinositol-glycan biosynthesis class A protein) (PIG-A)
+PIH1D3     Xq22.3          Q9NQM4     PIHD3_HUMAN 300933 Protein PIH1D3 (PIH1 domain-containing protein 3) (Sarcoma antigen NY-SAR-97) [CXorf41]
+PIM2       Xp11.22-p11.23  Q9P1W9     PIM2_HUMAN  300295 Serine/threonine-protein kinase pim-2 (EC 2.7.11.1) (Pim-2h)
+PIN4       Xq13            Q9Y237     PIN4_HUMAN  300252 Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4 (EC 5.2.1.8) (Parvulin-14) (Par14) (hPar14) (Parvulin-17) (Par17) (hPar17) (Peptidyl-prolyl cis-trans isomerase Pin4) (PPIase Pin4) (Peptidyl-prolyl cis/trans isomerase EPVH) (hEPVH) (Rotamase Pin4)
+PIR        Xp21.3          O00625     PIR_HUMAN   300931 Pirin (EC 1.13.11.24) (Probable quercetin 2,3-dioxygenase PIR) (Probable quercetinase)
+PJA1       Xq13.1          Q8NG27     PJA1_HUMAN  300420 E3 ubiquitin-protein ligase Praja-1 (EC 2.3.2.27) (Praja1) (RING finger protein 70) (RING-type E3 ubiquitin transferase Praja-1) [RNF70]
+PLAC1      Xq26            Q9HBJ0     PLAC1_HUMAN 300296 Placenta-specific protein 1 precursor
+PLCXD1     Xp22.33         Q9NUJ7     PLCX1_HUMAN 400046 PI-PLC X domain-containing protein 1
+PLP1       Xq22            P60201     MYPR_HUMAN  300401 Myelin proteolipid protein (PLP) (Lipophilin) [PLP]
+PLP2       Xp11.23         Q04941     PLP2_HUMAN  300112 Proteolipid protein 2 (Differentiation-dependent protein A4) (Intestinal membrane A4 protein) [A4]
+PLS3       Xq23            P13797     PLST_HUMAN  300131 Plastin-3 (T-plastin)
+PLXNA3     Xq28            P51805     PLXA3_HUMAN 300022 Plexin-A3 precursor (Plexin-4) (Semaphorin receptor SEX) [PLXN4] [SEX]
+PLXNB3     Xq28            Q9ULL4     PLXB3_HUMAN 300214 Plexin-B3 precursor [KIAA1206] [PLXN6]
+PNCK       Xq28            Q6P2M8     KCC1B_HUMAN 300680 Calcium/calmodulin-dependent protein kinase type 1B (EC 2.7.11.17) (CaM kinase I beta) (CaM kinase IB) (CaM-KI beta) (CaMKI-beta) (Pregnancy up-regulated non-ubiquitously-expressed CaM kinase)
+PNMA3      Xq28            Q9UL41     PNMA3_HUMAN 300675 Paraneoplastic antigen Ma3 [MA3]
+PNMA5      Xq28            Q96PV4     PNMA5_HUMAN 300916 Paraneoplastic antigen-like protein 5 (Tumor antigen BJ-HCC-25) [KIAA1934]
+PNMA6A     Xq28            P0CW24     PNM6A_HUMAN 300917 Paraneoplastic antigen-like protein 6A [PNMA6C]
+PNMA6E     Xq28            A0A0J9YXQ4 PMA6E_HUMAN        Paraneoplastic antigen Ma6E
+PNMA6F     Xq28            A0A0J9YX94 PMA6F_HUMAN        Paraneoplastic antigen Ma6F [PNMA6BL]
+PNPLA4     Xp22.3          P41247     PLPL4_HUMAN 300102 Patatin-like phospholipase domain-containing protein 4 (EC 3.1.1.3) (Protein GS2) [DXS1283E] [GS2]
+POF1B      Xq21.1-q21.2    Q8WVV4     POF1B_HUMAN 300603 Protein POF1B (Premature ovarian failure protein 1B)
+POLA1      Xp21.3-p22.1    P09884     DPOLA_HUMAN 312040 DNA polymerase alpha catalytic subunit (EC 2.7.7.7) (DNA polymerase alpha catalytic subunit p180) [POLA]
+PORCN      Xp11.23         Q9H237     PORCN_HUMAN 300651 Protein-serine O-palmitoleoyltransferase porcupine (EC 2.3.1.-) (Protein MG61) [MG61] [PORC] [PPN]
+POU3F4     Xq21.1          P49335     PO3F4_HUMAN 300039 POU domain, class 3, transcription factor 4 (Brain-specific homeobox/POU domain protein 4) (Brain-4) (Brn-4) (Octamer-binding protein 9) (Oct-9) (Octamer-binding transcription factor 9) (OTF-9) [BRN4] [OTF9]
+PPEF1      Xp22.1          O14829     PPE1_HUMAN  300109 Serine/threonine-protein phosphatase with EF-hands 1 (EC 3.1.3.16) (PPEF-1) (Protein phosphatase with EF calcium-binding domain) (PPEF) (Serine/threonine-protein phosphatase 7) (PP7) [PPEF] [PPP7C]
+PPP1R2C    Xp11.4          O14990     IPP2C_HUMAN 301017 Protein phosphatase inhibitor 2 family member C (PPP1R2 family member B) (Protein phosphatase 1, regulatory subunit 2 pseudogene 9) (Type-1 protein phosphatase inhibitor 4) (I-4) [PPP1R2P9]
+PPP1R3F    Xp11.23         Q6ZSY5     PPR3F_HUMAN        Protein phosphatase 1 regulatory subunit 3F (R3F)
+PPP2R3B    Xp22.33         Q9Y5P8     P2R3B_HUMAN 300339 Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta (PP2A subunit B isoform PR48) (Protein phosphatase 2A 48 kDa regulatory subunit) [PPP2R3L]
+PPP4R3C    Xp21.3          Q6ZMV5     P4R3C_HUMAN        Protein PPP4R3C (SMEK homolog 3) (Serine/threonine-protein phosphatase 4 regulatory subunit 3C) [PPP4R3CP] [SMEK3P]
+PQBP1      Xp11.23         O60828     PQBP1_HUMAN 300463 Polyglutamine-binding protein 1 (PQBP-1) (38 kDa nuclear protein containing a WW domain) (Npw38) (Polyglutamine tract-binding protein 1) [NPW38] [JM26]
+PRAF2      Xp11.23         O60831     PRAF2_HUMAN 300840 PRA1 family protein 2 [JM4]
+PRDX4      Xp22.11         Q13162     PRDX4_HUMAN 300927 Peroxiredoxin-4 precursor (EC 1.11.1.15) (Antioxidant enzyme AOE372) (AOE37-2) (Peroxiredoxin IV) (Prx-IV) (Thioredoxin peroxidase AO372) (Thioredoxin-dependent peroxide reductase A0372)
+PRICKLE3   Xp11.23         O43900     PRIC3_HUMAN 300111 Prickle planar cell polarity protein 3 (LIM domain only protein 6) (LMO-6) (Prickle-like protein 3) (Pk3) (Triple LIM domain protein 6) [LMO6]
+PRKX       Xp22.3          P51817     PRKX_HUMAN  300083 cAMP-dependent protein kinase catalytic subunit PRKX (EC 2.7.11.1) (PrKX) (Protein kinase X) (Protein kinase X-linked) (Serine/threonine-protein kinase PRKX) (Protein kinase PKX1) [PKX1]
+PRPS1      Xq21-q27        P60891     PRPS1_HUMAN 311850 Ribose-phosphate pyrophosphokinase 1 (EC 2.7.6.1) (PPRibP) (Phosphoribosyl pyrophosphate synthase I) (PRS-I)
+PRPS2      Xp22.2-p22.3    P11908     PRPS2_HUMAN 311860 Ribose-phosphate pyrophosphokinase 2 (EC 2.7.6.1) (PPRibP) (Phosphoribosyl pyrophosphate synthase II) (PRS-II)
+PRR32      Xq25            B1ATL7     PRR32_HUMAN        Proline-rich protein 32 [CXorf64]
+PRRG1      Xp21.1          O14668     TMG1_HUMAN  300935 Transmembrane gamma-carboxyglutamic acid protein 1 precursor (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1) [PRGP1] [TMG1]
+PRRG3      Xp28            Q9BZD7     TMG3_HUMAN  300685 Transmembrane gamma-carboxyglutamic acid protein 3 precursor (Proline-rich gamma-carboxyglutamic acid protein 3) (Proline-rich Gla protein 3) [PRGP3] [TMG3]
+PSMD10     Xq22.3          O75832     PSD10_HUMAN 300880 26S proteasome non-ATPase regulatory subunit 10 (26S proteasome regulatory subunit p28) (Gankyrin) (p28(GANK))
+PTCHD1     Xp22.11         Q96NR3     PTHD1_HUMAN 300828 Patched domain-containing protein 1
+PUDP       Xp22.32         Q08623     HDHD1_HUMAN 306480 Pseudouridine-5'-phosphatase (EC 3.1.3.96) (Haloacid dehalogenase-like hydrolase domain-containing protein 1) (Haloacid dehalogenase-like hydrolase domain-containing protein 1A) (Protein GS1) (Pseudouridine-5'-monophosphatase) (5'-PsiMPase) [DXF68S1E] [FAM16AX] [GS1] [HDHD1] [HDHD1A]
+PWWP3B     Xq22.3          Q5H9M0     PWP3B_HUMAN        PWWP domain-containing DNA repair factor 3B (PWWP3B) (Mutated melanoma-associated antigen 1-like protein 1) (MUM1-like protein 1) (PWWP domain-containing protein MUM1L1) [MUM1L1]
+PYY3       Xp11.22         Q5JQD4     PYY3_HUMAN         Putative peptide YY-3 precursor (Putative peptide YY3) (PYY-III)
+RAB33A     Xq25            Q14088     RB33A_HUMAN 300333 Ras-related protein Rab-33A (Small GTP-binding protein S10) [RABS10]
+RAB39B     Xq28            Q96DA2     RB39B_HUMAN 300774 Ras-related protein Rab-39B
+RAB40A     Xq22.1          Q8WXH6     RB40A_HUMAN        Ras-related protein Rab-40A precursor (SOCS box-containing protein RAR2A) (Protein Rar-2)
+RAB40AL    Xq22.1          P0C0E4     RB40L_HUMAN 300405 Ras-related protein Rab-40A-like (Ras-like GTPase) [RLGP]
+RAB41      Xq13.1          Q5JT25     RAB41_HUMAN        Ras-related protein Rab-41
+RAB9A      Xp22.2          P51151     RAB9A_HUMAN 300284 Ras-related protein Rab-9A [RAB9]
+RAB9B      Xq22.1-q22.3    Q9NP90     RAB9B_HUMAN 300285 Ras-related protein Rab-9B (Rab-9-like protein) (Rab-9L) [RAB9L]
+RADX       Xq22.3          Q6NSI4     RADX_HUMAN         RPA-related protein RADX (RPA-related and RAD51-antagonist, X-chromosome) [CXorf57]
+RAI2       Xp22.2          Q9Y5P3     RAI2_HUMAN  300217 Retinoic acid-induced protein 2
+RAP2C      Xq25            Q9Y3L5     RAP2C_HUMAN        Ras-related protein Rap-2c precursor
+RBBP7      Xp22.1          Q16576     RBBP7_HUMAN 300825 Histone-binding protein RBBP7 (Histone acetyltransferase type B subunit 2) (Nucleosome-remodeling factor subunit RBAP46) (Retinoblastoma-binding protein 7) (RBBP-7) (Retinoblastoma-binding protein p46) [RBAP46]
+RBM10      Xp11.23         P98175     RBM10_HUMAN 300080 RNA-binding protein 10 (G patch domain-containing protein 9) (RNA-binding motif protein 10) (RNA-binding protein S1-1) (S1-1) [DXS8237E] [GPATC9] [GPATCH9] [KIAA0122]
+RBM3       Xp11.23         P98179     RBM3_HUMAN  300027 RNA-binding protein 3 (RNA-binding motif protein 3) (RNPL) [RNPL]
+RBM41      Xq22.3          Q96IZ5     RBM41_HUMAN        RNA-binding protein 41 (RNA-binding motif protein 41)
+RBMX       Xq26            P38159     RBMX_HUMAN  300199 RNA-binding motif protein, X chromosome (Glycoprotein p43) (Heterogeneous nuclear ribonucleoprotein G) (hnRNP G) [Contains: RNA-binding motif protein, X chromosome, N-terminally processed] [HNRPG] [RBMXP1]
+RBMX2      Xq25            Q9Y388     RBMX2_HUMAN        RNA-binding motif protein, X-linked 2 [CGI-79]
+RBMXL3     Xq23            Q8N7X1     RMXL3_HUMAN        RNA-binding motif protein, X-linked-like-3 [CXorf55]
+RENBP      Xq28            P51606     RENBP_HUMAN 312420 N-acylglucosamine 2-epimerase (EC 5.1.3.8) (AGE) (GlcNAc 2-epimerase) (N-acetyl-D-glucosamine 2-epimerase) (Renin-binding protein) (RnBP)
+REPS2      Xp22.22         Q8NFH8     REPS2_HUMAN 300317 RalBP1-associated Eps domain-containing protein 2 (Partner of RalBP1) (RalBP1-interacting protein 2) [POB1]
+RGN        Xp11.3          Q15493     RGN_HUMAN   300212 Regucalcin (RC) (Gluconolactonase) (EC 3.1.1.17) (GNL) (Senescence marker protein 30) (SMP-30) [SMP30]
+RHOXF1     Xq24            Q8NHV9     RHXF1_HUMAN 300446 Rhox homeobox family member 1 (Ovary-, testis- and epididymis-expressed gene protein) (Paired-like homeobox protein PEPP-1) [OTEX] [PEPP1]
+RHOXF2     Xq25            Q9BQY4     RHXF2_HUMAN 300447 Rhox homeobox family member 2 (Paired-like homeobox protein PEPP-2) (Testis homeobox gene 1) [PEPP2] [THG1]
+RHOXF2B    Xq24            P0C7M4     RHF2B_HUMAN        Rhox homeobox family member 2B
+RIBC1      Xp11.22         Q8N443     RIBC1_HUMAN        RIB43A-like with coiled-coils protein 1
+RIPPLY1    Xq22.3          Q0D2K3     RIPP1_HUMAN 300575 Protein ripply1
+RLIM       Xq13-q21        Q9NVW2     RNF12_HUMAN 300379 E3 ubiquitin-protein ligase RLIM (EC 2.3.2.27) (LIM domain-interacting RING finger protein) (RING finger LIM domain-binding protein) (R-LIM) (RING finger protein 12) (RING-type E3 ubiquitin transferase RLIM) (Renal carcinoma antigen NY-REN-43) [RNF12]
+RNF113A    Xq25-q26        O15541     R113A_HUMAN 300951 E3 ubiquitin-protein ligase RNF113A (EC 2.3.2.27) (Cwc24 homolog) (RING finger protein 113A) (Zinc finger protein 183) [RNF113] [ZNF183]
+RNF128     Xq22.3          Q8TEB7     RN128_HUMAN 300439 E3 ubiquitin-protein ligase RNF128 precursor (EC 2.3.2.27) (Gene related to anergy in lymphocytes protein) (GRAIL) (RING finger protein 128) (RING-type E3 ubiquitin transferase RNF128)
+RP2        Xp11.3          O75695     XRP2_HUMAN  300757 Protein XRP2
+RPA4       Xp21.1-q22.3    Q13156     RFA4_HUMAN  300767 Replication protein A 30 kDa subunit (RP-A p30) (Replication factor A protein 4) (RF-A protein 4)
+RPGR       Xp21.1          Q92834     RPGR_HUMAN  312610 X-linked retinitis pigmentosa GTPase regulator precursor [RP3] [XLRP3]
+RPL10      Xq28            P27635     RL10_HUMAN  312173 60S ribosomal protein L10 (Laminin receptor homolog) (Large ribosomal subunit protein uL16) (Protein QM) (Ribosomal protein L10) (Tumor suppressor QM) [DXS648E] [QM]
+RPL36A     Xq22.1          P83881     RL36A_HUMAN 300902 60S ribosomal protein L36a (60S ribosomal protein L44) (Cell growth-inhibiting gene 15 protein) (Cell migration-inducing gene 6 protein) (Large ribosomal subunit protein eL42) [RPL44] [GIG15] [MIG6]
+RPL39      Xq22-q24        P62891     RL39_HUMAN  300899 60S ribosomal protein L39 (Large ribosomal subunit protein eL39)
+RPL9P7     Xp22.1          P32969     RL9_HUMAN          60S ribosomal protein L9 (Large ribosomal subunit protein uL6)
+RPS26P11   Xq13.1          Q5JNZ5     RS26L_HUMAN        Putative 40S ribosomal protein S26-like 1 [RPS26L1]
+RPS4X      Xq13.1          P62701     RS4X_HUMAN  312760 40S ribosomal protein S4, X isoform (SCR10) (Single copy abundant mRNA protein) (Small ribosomal subunit protein eS4) [CCG2] [RPS4] [SCAR]
+RPS6KA3    Xp22.1-p22.2    P51812     KS6A3_HUMAN 300075 Ribosomal protein S6 kinase alpha-3 (EC 2.7.11.1) (S6K-alpha-3) (90 kDa ribosomal protein S6 kinase 3) (p90-RSK 3) (p90RSK3) (Insulin-stimulated protein kinase 1) (ISPK-1) (MAP kinase-activated protein kinase 1b) (MAPK-activated protein kinase 1b) (MAPKAP kinase 1b) (MAPKAPK-1b) (Ribosomal S6 kinase 2) (RSK-2) (pp90RSK2) [ISPK1] [MAPKAPK1B] [RSK2]
+RPS6KA6    Xq21.1          Q9UK32     KS6A6_HUMAN 300303 Ribosomal protein S6 kinase alpha-6 (EC 2.7.11.1) (S6K-alpha-6) (90 kDa ribosomal protein S6 kinase 6) (p90-RSK 6) (p90RSK6) (Ribosomal S6 kinase 4) (RSK-4) (pp90RSK4) [RSK4]
+RRAGB      Xp11.21         Q5VZM2     RRAGB_HUMAN 300725 Ras-related GTP-binding protein B (Rag B) (RagB)
+RS1        Xp22.1-p22.2    O15537     XLRS1_HUMAN 300839 Retinoschisin precursor (X-linked juvenile retinoschisis protein) [XLRS1]
+RTL3       Xq21.1          Q8N8U3     RTL3_HUMAN         Retrotransposon Gag-like protein 3 (Zinc finger CCHC domain-containing protein 5) [MAR3] [MART3] [ZCCHC5]
+RTL4       Xq23            Q6ZR62     RTL4_HUMAN         Retrotransposon Gag-like protein 4 (Mammalian retrotransposon-derived protein 4) (Zinc finger CCHC domain-containing protein 16) [MAR3] [MART4] [ZCCHC16]
+RTL5       Xq13.1          Q5HYW3     RTL5_HUMAN         Retrotransposon Gag-like protein 5 (Retrotransposon gag domain-containing protein 4) [KIAA2001] [RGAG4]
+RTL8A      Xq26.3          Q9BWD3     RTL8A_HUMAN        Retrotransposon Gag-like protein 8A (Mammalian retrotransposon derived protein 8A) [CXX1B] [FAM127B] [MAR8A]
+RTL8B      Xq26.3          Q17RB0     RTL8B_HUMAN        Retrotransposon Gag-like protein 8B (Mammalian retrotransposon derived protein 8B) [CXX1C] [FAM127C] [MAR8B]
+RTL8C      Xq26            A6ZKI3     RTL8C_HUMAN 300213 Retrotransposon Gag-like protein 8B (Mammalian retrotransposon derived protein 8C) [CXX1] [FAM127A] [MAR8] [MAR8C] [MART8]
+RTL8C      Xq26            O15255     CXX1_HUMAN  300213 CAAX box protein 1 precursor (Cerebral protein 5) [CXX1] [FAM127A] [MAR8] [MAR8C] [MART8] [hucep-5]
+RTL9       Xq22.3          Q8NET4     RTL9_HUMAN         Retrotransposon Gag-like protein 9 (Retrotransposon gag domain-containing protein 1) (Tumor antigen BJ-HCC-23) [KIAA1318] [RGAG1]
+S100G      Xpter-p22.2     P29377     S100G_HUMAN 302020 Protein S100-G (Calbindin-D9k) (S100 calcium-binding protein G) (Vitamin D-dependent calcium-binding protein, intestinal) (CABP) [CABP9K] [CALB3] [S100D]
+SAGE1      Xq26.3          Q9NXZ1     SAGE1_HUMAN 300359 Sarcoma antigen 1 (Cancer/testis antigen 14) (CT14) [SAGE]
+SAGE2P     Xq26.3          A6NJ88     SGE2P_HUMAN        Putative SAGE1-like protein (Sarcoma antigen 2 pseudogene)
+SASH3      Xq25-q26.3      O75995     SASH3_HUMAN 300441 SAM and SH3 domain-containing protein 3 (SH3 protein expressed in lymphocytes homolog) [CXorf9] [SLY]
+SAT1       Xp22.1          P21673     SAT1_HUMAN  313020 Diamine acetyltransferase 1 (EC 2.3.1.57) (Polyamine N-acetyltransferase 1) (Putrescine acetyltransferase) (Spermidine/spermine N(1)-acetyltransferase 1) (SSAT) (SSAT-1) [SAT]
+SATL1      Xq21.1          Q86VE3     SATL1_HUMAN        Spermidine/spermine N(1)-acetyltransferase-like protein 1 (EC 2.3.1.-)
+SCML1      Xp22.13         Q9UN30     SCML1_HUMAN 300227 Sex comb on midleg-like protein 1
+SCML2      Xp22.13         Q9UQR0     SCML2_HUMAN 300208 Sex comb on midleg-like protein 2
+SEPT6      Xq25            Q14141     SEPT6_HUMAN 300683 Septin-6 [KIAA0128] [SEP2]
+SERPINA7   Xq22.2          P05543     THBG_HUMAN  314200 Thyroxine-binding globulin precursor (Serpin A7) (T4-binding globulin) [TBG]
+SERTM2     Xq23            A0A1B0GWG4 SRTM2_HUMAN        Serine-rich and transmembrane domain-containing 2
+SH2D1A     Xq25            O60880     SH21A_HUMAN 300490 SH2 domain-containing protein 1A (Duncan disease SH2-protein) (Signaling lymphocytic activation molecule-associated protein) (SLAM-associated protein) (T-cell signal transduction molecule SAP) [DSHP] [SAP]
+SH3BGRL    Xq13.3          O75368     SH3L1_HUMAN 300190 SH3 domain-binding glutamic acid-rich-like protein
+SH3KBP1    Xp21.3-p22.1    Q96B97     SH3K1_HUMAN 300374 SH3 domain-containing kinase-binding protein 1 (CD2-binding protein 3) (CD2BP3) (Cbl-interacting protein of 85 kDa) (Human Src family kinase-binding protein 1) (HSB-1) [CIN85]
+SHOX       Xpter-p22.32    O15266     SHOX_HUMAN  400020 Short stature homeobox protein (Pseudoautosomal homeobox-containing osteogenic protein) (Short stature homeobox-containing protein) [PHOG]
+SHROOM2    Xp22.3          Q13796     SHRM2_HUMAN 300103 Protein Shroom2 (Apical-like protein) (Protein APXL) [APXL]
+SHROOM4    Xp11.22         Q9ULL8     SHRM4_HUMAN 300579 Protein Shroom4 (Second homolog of apical protein) [KIAA1202] [SHAP]
+SLC10A3    Xq28            P09131     P3_HUMAN    312090 P3 protein (Solute carrier family 10 member 3) [DXS253E] [P3]
+SLC16A2    Xq13.2          P36021     MOT8_HUMAN  300095 Monocarboxylate transporter 8 (MCT 8) (Monocarboxylate transporter 7) (MCT 7) (Solute carrier family 16 member 2) (X-linked PEST-containing transporter) [MCT8] [XPCT]
+SLC25A14   Xq24            O95258     UCP5_HUMAN  300242 Brain mitochondrial carrier protein 1 (BMCP-1) (Mitochondrial uncoupling protein 5) (UCP 5) (Solute carrier family 25 member 14) [BMCP1] [UCP5] [UNQ791/PRO1682]
+SLC25A43   Xq24            Q8WUT9     S2543_HUMAN 300641 Solute carrier family 25 member 43
+SLC25A5    Xq24-q26        P05141     ADT2_HUMAN  300150 ADP/ATP translocase 2 (ADP,ATP carrier protein 2) (ADP,ATP carrier protein, fibroblast isoform) (Adenine nucleotide translocator 2) (ANT 2) (Solute carrier family 25 member 5) [Contains: ADP/ATP translocase 2, N-terminally processed] [ANT2]
+SLC25A53   Xq22.2          Q5H9E4     S2553_HUMAN 300941 Solute carrier family 25 member 53 (Mitochondrial carrier triple repeat protein 6) [MCART6]
+SLC25A6    Xq22.32         P12236     ADT3_HUMAN  403000 ADP/ATP translocase 3 (ADP,ATP carrier protein 3) (ADP,ATP carrier protein, isoform T2) (ANT 2) (Adenine nucleotide translocator 3) (ANT 3) (Solute carrier family 25 member 6) [Contains: ADP/ATP translocase 3, N-terminally processed] [ANT3] [CDABP0051]
+SLC35A2    Xp11.22-p11.23  P78381     S35A2_HUMAN 314375 UDP-galactose translocator (Solute carrier family 35 member A2) (UDP-galactose transporter) (UDP-Gal-Tr) (UGT) [UGALT] [UGT] [UGTL]
+SLC38A5    Xp11.23         Q8WUX1     S38A5_HUMAN 300649 Sodium-coupled neutral amino acid transporter 5 (Solute carrier family 38 member 5) (System N transporter 2) [JM24] [SN2] [SNAT5] [PP7194]
+SLC6A14    Xq23            Q9UN76     S6A14_HUMAN 300444 Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+) (Amino acid transporter ATB0+) (Solute carrier family 6 member 14)
+SLC6A8     Xq28            P48029     SC6A8_HUMAN 300036 Sodium- and chloride-dependent creatine transporter 1 (CT1) (Creatine transporter 1) (Solute carrier family 6 member 8)
+SLC7A3     Xq13.1          Q8WY07     CTR3_HUMAN  300443 Cationic amino acid transporter 3 (CAT-3) (CAT3) (Cationic amino acid transporter y+) (Solute carrier family 7 member 3) [ATRC3] [CAT3]
+SLC9A6     Xq26.3          Q92581     SL9A6_HUMAN 300231 Sodium/hydrogen exchanger 6 (Na(+)/H(+) exchanger 6) (NHE-6) (Solute carrier family 9 member 6) [KIAA0267] [NHE6]
+SLC9A7     Xp11.1-p11.4    Q96T83     SL9A7_HUMAN 300368 Sodium/hydrogen exchanger 7 (Na(+)/H(+) exchanger 7) (NHE-7) (Solute carrier family 9 member 7) [NHE7]
+SLITRK2    Xq27.3          Q9H156     SLIK2_HUMAN 300561 SLIT and NTRK-like protein 2 precursor [CXorf2] [KIAA1854] [SLITL1] [UNQ9197/PRO34756]
+SLITRK4    Xq27.3          Q8IW52     SLIK4_HUMAN 300562 SLIT and NTRK-like protein 4 precursor
+SMARCA1    Xq25            P28370     SMCA1_HUMAN 300012 Probable global transcription activator SNF2L1 (EC 3.6.4.-) (ATP-dependent helicase SMARCA1) (Nucleosome-remodeling factor subunit SNF2L) (SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 1) [SNF2L] [SNF2L1]
+SMC1A      Xp11.21-p11.22  Q14683     SMC1A_HUMAN 300040 Structural maintenance of chromosomes protein 1A (SMC protein 1A) (SMC-1-alpha) (SMC-1A) (Sb1.8) [DXS423E] [KIAA0178] [SB1.8] [SMC1] [SMC1L1]
+SMIM10     Xq26.3          Q96HG1     SIM10_HUMAN        Small integral membrane protein 10 [CXorf69]
+SMIM10L2A  Xq26.3          P0DMW4     SIL2A_HUMAN        Small integral membrane protein 10-like protein 2A [LINC00086] [NCRNA00086]
+SMIM10L2B  Xq26.3          P0DMW5     SIL2B_HUMAN        Small integral membrane protein 10-like protein 2B [LINC00087] [NCRNA00087]
+SMIM9      Xq28            A6NGZ8     SMIM9_HUMAN        Small integral membrane protein 9 precursor [CXorf68]
+SMPX       Xp22.1          Q9UHP9     SMPX_HUMAN  300226 Small muscular protein (Stretch-responsive skeletal muscle protein) [SRMX]
+SMS        Xp22.1          P52788     SPSY_HUMAN  300105 Spermine synthase (EC 2.5.1.22) (SPMSY) (Spermidine aminopropyltransferase)
+SNURFL     Xq27            B1AK76     SNUFL_HUMAN        Putative SNURF-like protein [CXorf19]
+SNX12      Xq13.1          Q9UMY4     SNX12_HUMAN 300883 Sorting nexin-12
+SOWAHD     Xq24            A6NJG2     SWAHD_HUMAN        Ankyrin repeat domain-containing protein SOWAHD (Ankyrin repeat domain-containing protein 58) (Protein sosondowah homolog D) [ANKRD58]
+SOX3       Xq26-q27        P41225     SOX3_HUMAN  313430 Transcription factor SOX-3
+SPACA5     Xp11.3          Q96QH8     LYZL5_HUMAN 300593 Sperm acrosome-associated protein 5 precursor (EC 3.2.1.17) (Lysozyme-like protein 5) (Sperm-specific lysozyme-like protein X) (SLLP-X) [LYZL5] [SPACA5A] [UNQ6288/PRO20753]
+SPACA5B    Xp11.3          Q96QH8     LYZL5_HUMAN        Sperm acrosome-associated protein 5 precursor (EC 3.2.1.17) (Lysozyme-like protein 5) (Sperm-specific lysozyme-like protein X) (SLLP-X)
+SPANXA1    Xq27.1          Q9NS26     SPNXA_HUMAN 300493 Sperm protein associated with the nucleus on the X chromosome A (Cancer/testis antigen 11.1) (CT11.1) (Nuclear-associated protein SPAN-Xa) (SPAN-X) (SPANX-A) (SPANX family member A) [SPANXA]
+SPANXA2    Xq27.1          Q9NS26     SPNXA_HUMAN 300305 Sperm protein associated with the nucleus on the X chromosome A (Cancer/testis antigen 11.1) (CT11.1) (Nuclear-associated protein SPAN-Xa) (SPAN-X) (SPANX-A) (SPANX family member A)
+SPANXA2-OT1Xq27.2          Q8N9U9     SPOT1_HUMAN        Putative uncharacterized protein SPANXA2-OT1 [CXorf18]
+SPANXB1    Xq27.1          Q9NS25     SPNXB_HUMAN 300669 Sperm protein associated with the nucleus on the X chromosome B1 (Cancer/testis antigen 11.2) (CT11.2) (Nuclear-associated protein SPAN-Xb) (SPANX-B) (SPANX family member B1) (SPANX family member F1) [SPANXB] [SPANXB2] [SPANXF1]
+SPANXC     Xq27.2          Q9NY87     SPNXC_HUMAN 300330 Sperm protein associated with the nucleus on the X chromosome C (Cancer/testis antigen 11.3) (CT11.3) (Cancer/testis-associated protein CTp11) (Nuclear-associated protein SPAN-Xc) (SPANX-C) (SPANX family member C)
+SPANXD     Xq27.2          Q9BXN6     SPNXD_HUMAN 300670 Sperm protein associated with the nucleus on the X chromosome D (Cancer/testis antigen 11.4) (CT11.4) (Nuclear-associated protein SPAN-Xd) (SPANX-D) (SPANX family member D) [SPANXE]
+SPANXN1    Xq27.3          Q5VSR9     SPXN1_HUMAN 300664 Sperm protein associated with the nucleus on the X chromosome N1 (Nuclear-associated protein SPAN-Xn1) (SPANX-N1) (SPANX family member N1)
+SPANXN2    Xq27.3          Q5MJ10     SPXN2_HUMAN 300665 Sperm protein associated with the nucleus on the X chromosome N2 (Nuclear-associated protein SPAN-Xn2) (SPANX-N2) (SPANX family member N2)
+SPANXN3    Xq27.3          Q5MJ09     SPXN3_HUMAN 300666 Sperm protein associated with the nucleus on the X chromosome N3 (Nuclear-associated protein SPAN-Xn3) (SPANX-N3) (SPANX family member N3)
+SPANXN4    Xq27.3          Q5MJ08     SPXN4_HUMAN 300667 Sperm protein associated with the nucleus on the X chromosome N4 (Nuclear-associated protein SPAN-Xn4) (SPANX-N4) (SPANX family member N4)
+SPANXN5    Xp11.22         Q5MJ07     SPXN5_HUMAN 300668 Sperm protein associated with the nucleus on the X chromosome N5 (Nuclear-associated protein SPAN-Xn5) (SPANX-N5) (SPANX family member N5)
+SPIN2A     Xp11.1          Q99865     SPI2A_HUMAN 300621 Spindlin-2A (Protein DXF34) (Spindlin-like protein 2A) (SPIN-2) (SPIN-2A) [DXF34] [SPIN2]
+SPIN2B     Xp11.1          Q9BPZ2     SPI2B_HUMAN 300517 Spindlin-2B (Spindlin-like protein 2B) (SPIN-2) (SPIN-2B) [SPIN2]
+SPIN3      Xp11.22         Q5JUX0     SPIN3_HUMAN        Spindlin-3 (Spindlin-like protein 3) (SPIN-3)
+SPIN4      Xq11.1          Q56A73     SPIN4_HUMAN        Spindlin-4
+SPRY3      Xq28            O43610     SPY3_HUMAN  300531 Protein sprouty homolog 3 (Spry-3)
+SRPK3      Xq28            Q9UPE1     SRPK3_HUMAN 301002 SRSF protein kinase 3 (EC 2.7.11.1) (Muscle-specific serine kinase 1) (MSSK-1) (Serine/arginine-rich protein-specific kinase 3) (SR-protein-specific kinase 3) (Serine/threonine-protein kinase 23) [MSSK1] [STK23]
+SRPX       Xp21.1          P78539     SRPX_HUMAN  300187 Sushi repeat-containing protein SRPX precursor [ETX1]
+SRPX2      Xq22.1          O60687     SRPX2_HUMAN 300642 Sushi repeat-containing protein SRPX2 precursor (Sushi-repeat protein upregulated in leukemia) [SRPUL]
+SSR4       Xq28            P51571     SSRD_HUMAN  300090 Translocon-associated protein subunit delta precursor (TRAP-delta) (Signal sequence receptor subunit delta) (SSR-delta) [TRAPD]
+SSX1       Xp11.2          Q16384     SSX1_HUMAN  312820 Protein SSX1 (Cancer/testis antigen 5.1) (CT5.1) (Synovial sarcoma, X breakpoint 1)
+SSX2       Xp11.2          Q16385     SSX2_HUMAN  300192 Protein SSX2 (Cancer/testis antigen 5.2) (CT5.2) (Synovial sarcoma, X breakpoint 2) (Tumor antigen HOM-MEL-40) [SSX2A]
+SSX2B      Xp11.2          Q16385     SSX2_HUMAN         Protein SSX2 (Cancer/testis antigen 5.2) (CT5.2) (Synovial sarcoma, X breakpoint 2) (Tumor antigen HOM-MEL-40)
+SSX3       Xp11.23         Q99909     SSX3_HUMAN  300325 Protein SSX3 (Cancer/testis antigen 5.3) (CT5.3)
+SSX4       Xp11.23         O60224     SSX4_HUMAN  300326 Protein SSX4 (Cancer/testis antigen 5.4) (CT5.4) [SSX4A]
+SSX4B      Xp11.23         O60224     SSX4_HUMAN         Protein SSX4 (Cancer/testis antigen 5.4) (CT5.4)
+SSX5       Xp11.3-p11.23   O60225     SSX5_HUMAN  300327 Protein SSX5
+SSX6P      Xp11.2          Q7RTT6     SSX6_HUMAN  300541 Putative protein SSX6 [SSX6]
+SSX7       Xp11.23         Q7RTT5     SSX7_HUMAN  300542 Protein SSX7
+SSX8P      Xp11.23         Q7RTT4     SSX8_HUMAN  300543 Putative protein SSX8 [SSX8]
+SSX9P      Xp11.23         Q7RTT3     SSX9_HUMAN  300544 Putative protein SSX9 [SSX9]
+STAG2      Xq25            Q8N3U4     STAG2_HUMAN 300826 Cohesin subunit SA-2 (SCC3 homolog 2) (Stromal antigen 2) [SA2]
+STARD8     Xq13.1          Q92502     STAR8_HUMAN 300689 StAR-related lipid transfer protein 8 (Deleted in liver cancer 3 protein) (DLC-3) (START domain-containing protein 8) (StARD8) (START-GAP3) [DLC3] [KIAA0189]
+STK26      Xq26.2          Q9P289     STK26_HUMAN 300547 Serine/threonine-protein kinase 26 (EC 2.7.11.1) (MST3 and SOK1-related kinase) (Mammalian STE20-like protein kinase 4) (MST-4) (STE20-like kinase MST4) (Serine/threonine-protein kinase MASK) [MASK] [MST4]
+STS        Xp22.32         P08842     STS_HUMAN   300747 Steryl-sulfatase precursor (EC 3.1.6.2) (Arylsulfatase C) (ASC) (Steroid sulfatase) (Steryl-sulfate sulfohydrolase) [ARSC1]
+SUPT20HL1  Xp22.11         Q3ZLR7     SP201_HUMAN        Transcription factor SPT20 homolog-like 1 [FAM48B1]
+SUPT20HL2  Xp22.11         P0C7V6     SP202_HUMAN        Putative transcription factor SPT20 homolog-like 2 [FAM48B2]
+SUV39H1    Xp11.23         O43463     SUV91_HUMAN 300254 Histone-lysine N-methyltransferase SUV39H1 (EC 2.1.1.43) (Histone H3-K9 methyltransferase 1) (H3-K9-HMTase 1) (Lysine N-methyltransferase 1A) (Position-effect variegation 3-9 homolog) (Suppressor of variegation 3-9 homolog 1) (Su(var)3-9 homolog 1) [KMT1A] [SUV39H]
+SYAP1      Xp22.2          Q96A49     SYAP1_HUMAN        Synapse-associated protein 1 (BSD domain-containing signal transducer and Akt interactor protein) (BSTA) [PRO3113]
+SYN1       Xp11.23         P17600     SYN1_HUMAN  313440 Synapsin-1 (Brain protein 4.1) (Synapsin I)
+SYP        Xp11.22-p11.23  P08247     SYPH_HUMAN  313475 Synaptophysin (Major synaptic vesicle protein p38)
+SYTL4      Xq21.33         Q96C24     SYTL4_HUMAN 300723 Synaptotagmin-like protein 4 (Exophilin-2) (Granuphilin)
+SYTL5      Xp21.1          Q8TDW5     SYTL5_HUMAN        Synaptotagmin-like protein 5 [SLP5]
+TAB3       Xp21.3          Q8N5C8     TAB3_HUMAN  300480 TGF-beta-activated kinase 1 and MAP3K7-binding protein 3 (Mitogen-activated protein kinase kinase kinase 7-interacting protein 3) (NF-kappa-B-activating protein 1) (TAK1-binding protein 3) (TAB-3) (TGF-beta-activated kinase 1-binding protein 3) [MAP3K7IP3]
+TAF1       Xq13.1          P21675     TAF1_HUMAN  313650 Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (EC 2.7.11.1) (Cell cycle gene 1 protein) (TBP-associated factor 250 kDa) (p250) (Transcription initiation factor TFIID 250 kDa subunit) (TAF(II)250) (TAFII-250) (TAFII250) [BA2R] [CCG1] [CCGS] [TAF2A]
+TAF7L      Xq22.1          Q5H9L4     TAF7L_HUMAN 300314 Transcription initiation factor TFIID subunit 7-like (Cancer/testis antigen 40) (CT40) (RNA polymerase II TBP-associated factor subunit Q) (TATA box-binding protein-associated factor 50 kDa) (Transcription initiation factor TFIID 50 kDa subunit) [TAF2Q]
+TAF9B      Xq13.1-q21.1    Q9HBM6     TAF9B_HUMAN 300754 Transcription initiation factor TFIID subunit 9B (Neuronal cell death-related protein 7) (DN-7) (Transcription initiation factor TFIID subunit 9-like) (Transcription-associated factor TAFII31L) [TAF9L]
+TAZ        Xq28            Q16635     TAZ_HUMAN   300394 Tafazzin (Protein G4.5) [EFE2] [G4.5]
+TBC1D25    Xp11.3-p11.23   Q3MII6     TBC25_HUMAN 311240 TBC1 domain family member 25 [OATL1]
+TBC1D8B    Xq22.3          Q0IIM8     TBC8B_HUMAN        TBC1 domain family member 8B
+TBL1X      Xp22.3          O60907     TBL1X_HUMAN 300196 F-box-like/WD repeat-containing protein TBL1X (SMAP55) (Transducin beta-like protein 1X) (Transducin-beta-like protein 1, X-linked) [TBL1]
+TBX22      Xq21.1          Q9Y458     TBX22_HUMAN 300307 T-box transcription factor TBX22 (T-box protein 22) [TBOX22]
+TCEAL1     Xq22.1          Q15170     TCAL1_HUMAN 300237 Transcription elongation factor A protein-like 1 (TCEA-like protein 1) (Nuclear phosphoprotein p21/SIIR) (Transcription elongation factor S-II protein-like 1) [SIIR]
+TCEAL2     Xq22.1-q22.3    Q9H3H9     TCAL2_HUMAN        Transcription elongation factor A protein-like 2 (TCEA-like protein 2) (Transcription elongation factor S-II protein-like 2) [My048] [MY0876G0]
+TCEAL3     Xq22.2          Q969E4     TCAL3_HUMAN        Transcription elongation factor A protein-like 3 (TCEA-like protein 3) (Transcription elongation factor S-II protein-like 3) [MSTP072]
+TCEAL4     Xq22.2          Q96EI5     TCAL4_HUMAN        Transcription elongation factor A protein-like 4 (TCEA-like protein 4) (Transcription elongation factor S-II protein-like 4) [NPD017]
+TCEAL5     Xq22.1          Q5H9L2     TCAL5_HUMAN        Transcription elongation factor A protein-like 5 (TCEA-like protein 5) (Transcription elongation factor S-II protein-like 5)
+TCEAL6     Xq22.1          Q6IPX3     TCAL6_HUMAN        Transcription elongation factor A protein-like 6 (TCEA-like protein 6) (Transcription elongation factor S-II protein-like 6)
+TCEAL7     Xq22.1          Q9BRU2     TCAL7_HUMAN 300771 Transcription elongation factor A protein-like 7 (TCEA-like protein 7) (Transcription elongation factor S-II protein-like 7)
+TCEAL8     Xq22.1          Q8IYN2     TCAL8_HUMAN        Transcription elongation factor A protein-like 8 (TCEA-like protein 8) (Transcription elongation factor S-II protein-like 8)
+TCEAL9     Xq22.1-q22.2    Q9UHQ7     TCAL9_HUMAN        Transcription elongation factor A protein-like 9 (TCEA-like protein 9) (Transcription elongation factor S-II protein-like 9) (WW domain-binding protein 5) (WBP-5) [WBP5]
+TCEANC     Xp22.2          Q8N8B7     TEANC_HUMAN        Transcription elongation factor A N-terminal and central domain-containing protein (TFIIS central domain-containing protein 1)
+TCP11X1    Xq22.1          B4DZS4     T11X1_HUMAN        T-complex protein 11 X-linked protein 1
+TCP11X2    Xq22.1          Q5H9J9     T11X2_HUMAN        T-complex protein 11 X-linked protein 2
+TDGF1P3    Xq21-q22        P51864     TDGF3_HUMAN 187395 Putative teratocarcinoma-derived growth factor 3 (Cripto-3 growth factor) (Epidermal growth factor-like cripto protein CR3) (Teratocarcinoma-derived growth factor 1 pseudogene 3) [CRIPTO3] [TDGF2] [TDGF3]
+TENM1      Xq25            Q9UKZ4     TEN1_HUMAN  300588 Teneurin-1 (Ten-1) (Protein Odd Oz/ten-m homolog 1) (Tenascin-M1) (Ten-m1) (Teneurin transmembrane protein 1) [Contains: Ten-1 intracellular domain (IDten-1) (Ten-1 ICD); Teneurin C-terminal-associated peptide (TCPA-1) (Ten-1 extracellular domain) (Ten-1 ECD)] [ODZ1] [TNM1]
+TENT5D     Xq21            Q8NEK8     TET5D_HUMAN 300976 Terminal nucleotidyltransferase 5D (EC 2.7.7.19) (Non-canonical poly(A) polymerase FAM46D) [FAM46D]
+TEX11      Xq13.1          Q8IYF3     TEX11_HUMAN 300311 Testis-expressed protein 11
+TEX13A     Xq22.3          Q9BXU3     TX13A_HUMAN 300312 Testis-expressed protein 13A
+TEX13B     Xq22.3          Q9BXU2     TX13B_HUMAN 300313 Testis-expressed protein 13B
+TEX13C     Xq25            A0A0J9YWL9 TX13C_HUMAN        Putative testis-expressed protein 13C
+TEX13D     Xq25            A0A0J9YY54 TX13D_HUMAN        Testis-expressed protein 13D
+TEX28      Xq28            O15482     TEX28_HUMAN 300092 Testis-specific protein TEX28 [CXorf2]
+TEX28P1    Xq28            O15482     TEX28_HUMAN        Testis-specific protein TEX28
+TEX28P2    Xq28            O15482     TEX28_HUMAN        Testis-specific protein TEX28
+TFDP3      Xq26.2          Q5H9I0     TFDP3_HUMAN 300772 Transcription factor Dp family member 3 (Cancer/testis antigen 30) (CT30) (Hepatocellular carcinoma-associated antigen 661) [DP4] [HCA661]
+TFE3       Xp11.22         P19532     TFE3_HUMAN  314310 Transcription factor E3 (Class E basic helix-loop-helix protein 33) (bHLHe33) [BHLHE33]
+TGIF2LX    Xq21.31         Q8IUE1     TF2LX_HUMAN 300411 Homeobox protein TGIF2LX (TGF-beta-induced transcription factor 2-like protein) (TGFB-induced factor 2-like protein, X-linked) (TGIF-like on the X) [TGIFLX]
+THOC2      Xq25-q26.3      Q8NI27     THOC2_HUMAN 300395 THO complex subunit 2 (Tho2) (hTREX120) [CXorf3]
+TIMM17B    Xp11.23         O60830     TI17B_HUMAN 300249 Mitochondrial import inner membrane translocase subunit Tim17-B [TIM17B] [JM3]
+TIMM8A     Xq22.1          O60220     TIM8A_HUMAN 300356 Mitochondrial import inner membrane translocase subunit Tim8 A (Deafness dystonia protein 1) (X-linked deafness dystonia protein) [DDP] [DDP1] [TIM8A]
+TIMP1      Xp11.23-p11.3   P01033     TIMP1_HUMAN 305370 Metalloproteinase inhibitor 1 precursor (Erythroid-potentiating activity) (EPA) (Fibroblast collagenase inhibitor) (Collagenase inhibitor) (Tissue inhibitor of metalloproteinases 1) (TIMP-1) [CLGI] [TIMP]
+TKTL1      Xq28            P51854     TKTL1_HUMAN 300044 Transketolase-like protein 1 (EC 2.2.1.1) (Transketolase 2) (TK 2) (Transketolase-related protein) [TKR] [TKT2]
+TLR7       Xp22.3          Q9NYK1     TLR7_HUMAN  300365 Toll-like receptor 7 precursor [UNQ248/PRO285]
+TLR8       Xp22            Q9NR97     TLR8_HUMAN  300366 Toll-like receptor 8 precursor (CD288 antigen) [UNQ249/PRO286]
+TMEM164    Xq22.3          Q5U3C3     TM164_HUMAN        Transmembrane protein 164
+TMEM185A   Xq28            Q8NFB2     T185A_HUMAN 300031 Transmembrane protein 185A (Protein FAM11A) [CXorf13] [FAM11A]
+TMEM187    Xq28            Q14656     TM187_HUMAN 300059 Transmembrane protein 187 (Protein ITBA1) [CXorf12] [DXS9878E] [ITBA1]
+TMEM255A   Xq24            Q5JRV8     T255A_HUMAN        Transmembrane protein 255A (Protein FAM70A) [FAM70A]
+TMEM31     Xq22.2          Q5JXX7     TMM31_HUMAN        Transmembrane protein 31
+TMEM35A    Xq22.1          Q53FP2     TM35A_HUMAN        Transmembrane protein 35A [TMEM35]
+TMEM47     Xp11.4          Q9BQJ4     TMM47_HUMAN 300698 Transmembrane protein 47 (Brain cell membrane protein 1) (Transmembrane 4 superfamily member 10) [BCMP1] [TM4SF10]
+TMLHE      Xq28            Q9NVH6     TMLH_HUMAN  300777 Trimethyllysine dioxygenase, mitochondrial precursor (EC 1.14.11.8) (Epsilon-trimethyllysine 2-oxoglutarate dioxygenase) (Epsilon-trimethyllysine hydroxylase) (TML hydroxylase) (TML-alpha-ketoglutarate dioxygenase) (TML dioxygenase) (TMLD) [TMLH]
+TMSB15A    Xq21.33-q22.3   P0CG34     TB15A_HUMAN 300939 Thymosin beta-15A (NB thymosin beta) (Thymosin-like protein 8) [TMSL8] [TMSNB]
+TMSB15B    Xq22.2          P0CG35     TB15B_HUMAN 301011 Thymosin beta-15B
+TMSB4X     Xq21.3-q22      P62328     TYB4_HUMAN  300159 Thymosin beta-4 (T beta-4) (Fx) [Contains: Hematopoietic system regulatory peptide (Seraspenide)] [TB4X] [THYB4] [TMSB4]
+TNMD       Xq21.33-q23     Q9H2S6     TNMD_HUMAN  300459 Tenomodulin (TeM) (hTeM) (Chondromodulin-1-like protein) (ChM1L) (hChM1L) (Chondromodulin-I-like protein) (Myodulin) (Tendin) [CHM1L] [UNQ771/PRO1565]
+TRAPPC2    Xp22            P0DI81     TPC2A_HUMAN 300202 Trafficking protein particle complex subunit 2 (Sedlin) [SEDL]
+TREX2      Xq28            Q9BQ50     TREX2_HUMAN 300370 Three prime repair exonuclease 2 (EC 3.1.11.2) (3'-5' exonuclease TREX2)
+TRMT2B     Xq22.1          Q96GJ1     TRM2_HUMAN         tRNA (uracil(54)-C(5))-methyltransferase homolog (EC 2.1.1.35) (TRM2 homolog) [CXorf34]
+TRO        Xp11.21-p11.22  Q12816     TROP_HUMAN  300132 Trophinin (MAGE-D3 antigen) [KIAA1114] [MAGED3]
+TRPC5      Xq23            Q9UL62     TRPC5_HUMAN 300334 Short transient receptor potential channel 5 (TrpC5) (Transient receptor protein 5) (TRP-5) (hTRP-5) (hTRP5) [TRP5]
+TRPC5OS    Xq23            A6NMA1     TR5OS_HUMAN        Putative uncharacterized protein TRPC5OS (TRPC5 opposite strand protein) (TRPC5-antisense RNA 1) [TRPC5-AS1]
+TSC22D3    Xq22.3          Q99576     T22D3_HUMAN 300506 TSC22 domain family protein 3 (DSIP-immunoreactive peptide) (Protein DIP) (hDIP) (Delta sleep-inducing peptide immunoreactor) (Glucocorticoid-induced leucine zipper protein) (GILZ) (TSC-22-like protein) (TSC-22-related protein) (TSC-22R) [DSIPI] [GILZ]
+TSPAN6     Xq22            O43657     TSN6_HUMAN  300191 Tetraspanin-6 (Tspan-6) (A15 homolog) (Putative NF-kappa-B-activating protein 321) (T245 protein) (Tetraspanin TM4-D) (Transmembrane 4 superfamily member 6) [TM4SF6] [UNQ767/PRO1560]
+TSPAN7     Xp11.4          P41732     TSN7_HUMAN  300096 Tetraspanin-7 (Tspan-7) (Cell surface glycoprotein A15) (Membrane component chromosome X surface marker 1) (T-cell acute lymphoblastic leukemia-associated antigen 1) (TALLA-1) (Transmembrane 4 superfamily member 2) (CD231 antigen) [A15] [DXS1692E] [MXS1] [TM4SF2]
+TSPYL2     Xp11            Q9H2G4     TSYL2_HUMAN 300564 Testis-specific Y-encoded-like protein 2 (TSPY-like protein 2) (Cell division autoantigen 1) (Cutaneous T-cell lymphoma-associated antigen se20-4) (CTCL-associated antigen se20-4) (Differentially-expressed nucleolar TGF-beta1 target protein) (Nuclear protein of 79 kDa) (NP79) [CDA1] [DENTT] [TSPX] [HRIHFB2216]
+TSR2       Xp11.22         Q969E8     TSR2_HUMAN  300945 Pre-rRNA-processing protein TSR2 homolog
+TXLNG      Xp22.2          Q9NUQ3     TXLNG_HUMAN 300677 Gamma-taxilin (Environmental lipopolysaccharide-responding gene protein) (Factor inhibiting ATF4-mediated transcription) (FIAT) (Lipopolysaccharide-specific response protein 5) [CXorf15] [ELRG] [LSR5]
+UBA1       Xp11.23         P22314     UBA1_HUMAN  314370 Ubiquitin-like modifier-activating enzyme 1 (EC 6.2.1.45) (Protein A1S9) (Ubiquitin-activating enzyme E1) [A1S9T] [UBE1]
+UBE2A      Xq24-q25        P49459     UBE2A_HUMAN 312180 Ubiquitin-conjugating enzyme E2 A (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme A) (RAD6 homolog A) (HR6A) (hHR6A) (Ubiquitin carrier protein A) (Ubiquitin-protein ligase A) [RAD6A]
+UBE2DNL    Xq21.1          Q8IWF7     U2D2L_HUMAN        Putative ubiquitin-conjugating enzyme E2 D2-like protein (Ubiquitin carrier protein D2-like) (Ubiquitin-conjugating enzyme E2D N-terminal-like) (Ubiquitin-protein ligase D2-like) [UBE2D2L]
+UBE2NL     Xq27.3          Q5JXB2     UE2NL_HUMAN        Putative ubiquitin-conjugating enzyme E2 N-like (Epididymis tissue protein Li 174)
+UBL4A      Xq28            P11441     UBL4A_HUMAN 312070 Ubiquitin-like protein 4A (Ubiquitin-like protein GDX) [DXS254E] [GDX] [UBL4]
+UBQLN2     Xp11.21         Q9UHD9     UBQL2_HUMAN 300264 Ubiquilin-2 (Chap1) (DSK2 homolog) (Protein linking IAP with cytoskeleton 2) (PLIC-2) (hPLIC-2) (Ubiquitin-like product Chap1/Dsk2) [N4BP4] [PLIC2] [HRIHFB2157]
+UPF3B      Xq24-q25        Q9BZI7     REN3B_HUMAN 300298 Regulator of nonsense transcripts 3B (Nonsense mRNA reducing factor 3B) (Up-frameshift suppressor 3 homolog B) (hUpf3B) (Up-frameshift suppressor 3 homolog on chromosome X) (hUpf3p-X) [RENT3B] [UPF3X]
+UPRT       Xq13.3          Q96BW1     UPP_HUMAN   300656 Uracil phosphoribosyltransferase homolog
+USP11      Xp11.23         P51784     UBP11_HUMAN 300050 Ubiquitin carboxyl-terminal hydrolase 11 (EC 3.4.19.12) (Deubiquitinating enzyme 11) (Ubiquitin thioesterase 11) (Ubiquitin-specific-processing protease 11) [UHX1]
+USP26      Xq26.2          Q9BXU7     UBP26_HUMAN 300309 Ubiquitin carboxyl-terminal hydrolase 26 (EC 3.4.19.12) (Deubiquitinating enzyme 26) (Ubiquitin thioesterase 26) (Ubiquitin-specific-processing protease 26)
+USP27X     Xp11.23         A6NNY8     UBP27_HUMAN 300975 Ubiquitin carboxyl-terminal hydrolase 27 (EC 3.4.19.12) (Deubiquitinating enzyme 27) (Ubiquitin carboxyl-terminal hydrolase 22-like) (Ubiquitin thioesterase 27) (Ubiquitin-specific-processing protease 27) (X-linked ubiquitin carboxyl-terminal hydrolase 27) [USP22L] [USP27]
+USP51      Xp11            Q70EK9     UBP51_HUMAN        Ubiquitin carboxyl-terminal hydrolase 51 (EC 3.4.19.12) (Deubiquitinating enzyme 51) (Ubiquitin thioesterase 51) (Ubiquitin-specific-processing protease 51)
+USP9X      Xp11.4          Q93008     USP9X_HUMAN 300072 Probable ubiquitin carboxyl-terminal hydrolase FAF-X (EC 3.4.19.12) (Deubiquitinating enzyme FAF-X) (Fat facets in mammals) (hFAM) (Fat facets protein-related, X-linked) (Ubiquitin thioesterase FAF-X) (Ubiquitin-specific protease 9, X chromosome) (Ubiquitin-specific-processing protease FAF-X) [DFFRX] [FAM] [USP9]
+UTP14A     Xq25            Q9BVJ6     UT14A_HUMAN 300508 U3 small nucleolar RNA-associated protein 14 homolog A (Antigen NY-CO-16) (Serologically defined colon cancer antigen 16) [SDCCAG16]
+UXT        Xp11.22-p11.23  Q9UBK9     UXT_HUMAN   300234 Protein UXT (Androgen receptor trapped clone 27 protein) (ART-27) (Ubiquitously expressed transcript protein) [HSPC024]
+VAMP7      Xq28            P51809     VAMP7_HUMAN 300053 Vesicle-associated membrane protein 7 (VAMP-7) (Synaptobrevin-like protein 1) (Tetanus-insensitive VAMP) (Ti-VAMP) [SYBL1]
+VBP1       Xq28            P61758     PFD3_HUMAN  300133 Prefoldin subunit 3 (HIBBJ46) (von Hippel-Lindau-binding protein 1) (VBP-1) (VHL-binding protein 1) [PFDN3]
+VCX        Xp22.3          Q9H320     VCX1_HUMAN  300229 Variable charge X-linked protein 1 (Variable charge protein on X with ten repeats) (VCX-10r) (Variably charged protein X-B1) (VCX-B1) [VCX1] [VCX10R] [VCXB1]
+VCX2       Xp22.3          Q9H322     VCX2_HUMAN  300532 Variable charge X-linked protein 2 (Variable charge protein on X with two repeats) (VCX-2r) (Variably charged protein X-B) (VCX-B) [VCX2R] [VCXB]
+VCX3A      Xp22.3          Q9NNX9     VCX3_HUMAN  300533 Variable charge X-linked protein 3 (Variable charge protein on X with eight repeats) (VCX-8r) (Variably charged protein X-A) (VCX-A) [VCX3] [VCX8R] [VCXA]
+VCX3B      Xp22.3          Q9H321     VCX3B_HUMAN        Variable charge X-linked protein 3B (Variably charged protein X-C) (VCX-C) [VCXC]
+VEGFD      Xp22.31         O43915     VEGFD_HUMAN 300091 Vascular endothelial growth factor D precursor (VEGF-D) (c-Fos-induced growth factor) (FIGF) [FIGF]
+VENTXP1    Xp21.3          P0C5K6     CT18_HUMAN         Putative tumor antigen NA88-A (Cancer/testis antigen 18) (CT18)
+VGLL1      Xq26.3          Q99990     VGLL1_HUMAN 300583 Transcription cofactor vestigial-like protein 1 (Vgl-1) (Protein TONDU) [TDU]
+VMA21      Xq28            Q3ZAQ7     VMA21_HUMAN 300913 Vacuolar ATPase assembly integral membrane protein VMA21 (Myopathy with excessive autophagy protein) [MEAX] [XMEA]
+VSIG1      Xq22.3          Q86XK7     VSIG1_HUMAN 300620 V-set and immunoglobulin domain-containing protein 1 precursor (Cell surface A33 antigen) (Glycoprotein A34) [GPA34]
+VSIG4      Xq12-q13.3      Q9Y279     VSIG4_HUMAN 300353 V-set and immunoglobulin domain-containing protein 4 precursor (Protein Z39Ig) [CRIg] [Z39IG] [UNQ317/PRO362]
+WAS        Xp11.23         P42768     WASP_HUMAN  300392 Wiskott-Aldrich syndrome protein (WASp) [IMD2]
+WASH6P     Xq28            Q9NQA3     WASH6_HUMAN        WAS protein family homolog 6 (Protein FAM39A) [CXYorf1] [FAM39A]
+WDR13      Xp11.23         Q9H1Z4     WDR13_HUMAN 300512 WD repeat-containing protein 13
+WDR44      Xq24            Q5JSH3     WDR44_HUMAN        WD repeat-containing protein 44 (Rabphilin-11)
+WDR45      Xp11.23         Q9Y484     WIPI4_HUMAN 300526 WD repeat domain phosphoinositide-interacting protein 4 (WIPI-4) (WD repeat-containing protein 45) [WDRX1] [WDRXI4] [WIPI4] [JM5]
+WNK3       Xp11.21-p11.23  Q9BYP7     WNK3_HUMAN  300358 Serine/threonine-protein kinase WNK3 (EC 2.7.11.1) (Protein kinase lysine-deficient 3) (Protein kinase with no lysine 3) [KIAA1566] [PRKWNK3]
+WWC3       Xp22.2          Q9ULE0     WWC3_HUMAN         Protein WWC3 [KIAA1280]
+XAGE1A     Xp11.22-p11.21  Q9HD64     XAGE1_HUMAN 300745 X antigen family member 1 (XAGE-1) (Cancer/testis antigen 12.1) (CT12.1) (G antigen family D member 2) [GAGED2] [XAGE1]
+XAGE1B     Xp11.22         Q9HD64     XAGE1_HUMAN 300744 X antigen family member 1 (XAGE-1) (Cancer/testis antigen 12.1) (CT12.1) (G antigen family D member 2)
+XAGE1C     Xp11.22         Q9HD64     XAGE1_HUMAN 300743 X antigen family member 1 (XAGE-1) (Cancer/testis antigen 12.1) (CT12.1) (G antigen family D member 2)
+XAGE1D     Xp11.22         Q9HD64     XAGE1_HUMAN 300742 X antigen family member 1 (XAGE-1) (Cancer/testis antigen 12.1) (CT12.1) (G antigen family D member 2)
+XAGE1E     Xp11.22         Q9HD64     XAGE1_HUMAN 300289 X antigen family member 1 (XAGE-1) (Cancer/testis antigen 12.1) (CT12.1) (G antigen family D member 2)
+XAGE2      Xp11.22         Q96GT9     XAGE2_HUMAN 300416 X antigen family member 2 (XAGE-2) (Cancer/testis antigen 12.2) (CT12.2) (G antigen family D member 3) [GAGED3] [XAGE2B]
+XAGE3      Xp11.21-p11.22  Q8WTP9     XAGE3_HUMAN 300740 X antigen family member 3 (XAGE-3) (Cancer/testis antigen 12.3) (CT12.3) (G antigen family D member 4) (Placenta-specific gene 6 protein) [GAGED4] [PLAC6] [PP9012]
+XAGE5      Xp11.22         Q8WWM1     XAGE5_HUMAN        X antigen family member 5 (XAGE-5) (Cancer/testis antigen 12.5) (CT12.5) (G antigen family D member 5) [GAGED5]
+XG         Xp22.33         P55808     XG_HUMAN    300879 Glycoprotein Xg precursor (Protein PBDX) [PBDX]
+XIAP       Xq25            P98170     XIAP_HUMAN  300079 E3 ubiquitin-protein ligase XIAP (EC 2.3.2.27) (Baculoviral IAP repeat-containing protein 4) (IAP-like protein) (ILP) (hILP) (Inhibitor of apoptosis protein 3) (IAP-3) (hIAP-3) (hIAP3) (RING-type E3 ubiquitin transferase XIAP) (X-linked inhibitor of apoptosis protein) (X-linked IAP) [API3] [BIRC4] [IAP3]
+XK         Xp21.1          P51811     XK_HUMAN    314850 Membrane transport protein XK (Kell complex 37 kDa component) (Kx antigen) (XK-related protein 1) [XKR1] [XRG1]
+XKRX       Xq22.1          Q6PP77     XKR2_HUMAN  300684 XK-related protein 2 (Membrane protein XPLAC) (X Kell blood group-related, X-linked) [XKR2] [XPLAC] [XRG2]
+XPNPEP2    Xq25            O43895     XPP2_HUMAN  300145 Xaa-Pro aminopeptidase 2 precursor (EC 3.4.11.9) (Aminoacylproline aminopeptidase) (Membrane-bound aminopeptidase P) (Membrane-bound APP) (Membrane-bound AmP) (mAmP) (X-Pro aminopeptidase 2)
+YIPF6      Xq13.1          Q96EC8     YIPF6_HUMAN 300996 Protein YIPF6 (YIP1 family member 6)
+YY2        Xp22.2-p22.1    O15391     TYY2_HUMAN  300570 Transcription factor YY2 (Yin and yang 2) (YY-2) (Zinc finger protein 631) [ZNF631]
+ZBED1      Xp22.33         O96006     ZBED1_HUMAN 300178 Zinc finger BED domain-containing protein 1 (Putative Ac-like transposable element) (dREF homolog) [ALTE] [DREF] [KIAA0785] [TRAMP]
+ZBTB33     Xq24            Q86T24     KAISO_HUMAN 300329 Transcriptional regulator Kaiso (Zinc finger and BTB domain-containing protein 33) [KAISO] [ZNF348]
+ZC3H12B    Xq12            Q5HYM0     ZC12B_HUMAN 300889 Probable ribonuclease ZC3H12B (EC 3.1.-.-) (MCP-induced protein 2) (Zinc finger CCCH domain-containing protein 12B) [CXorf32] [MCPIP2]
+ZC4H2      Xq12            Q9NQZ6     ZC4H2_HUMAN 300897 Zinc finger C4H2 domain-containing protein (Hepatocellular carcinoma-associated antigen 127) [HCA127] [KIAA1166]
+ZCCHC12    Xq24            Q6PEW1     ZCH12_HUMAN 300701 Zinc finger CCHC domain-containing protein 12 (Smad-interacting zinc finger protein 1) [SIZN1]
+ZCCHC13    Xq13.2          Q8WW36     ZCH13_HUMAN        Zinc finger CCHC domain-containing protein 13
+ZCCHC18    Xq22.2          P0CG32     ZCC18_HUMAN        Zinc finger CCHC domain-containing protein 18
+ZDHHC15    Xq13.3          Q96MV8     ZDH15_HUMAN 300576 Palmitoyltransferase ZDHHC15 (EC 2.3.1.225) (Zinc finger DHHC domain-containing protein 15) (DHHC-15) [UNQ1969/PRO4501]
+ZDHHC9     Xq26.1          Q9Y397     ZDHC9_HUMAN 300646 Palmitoyltransferase ZDHHC9 (EC 2.3.1.225) (Zinc finger DHHC domain-containing protein 9) (DHHC-9) (DHHC9) (Zinc finger protein 379) (Zinc finger protein 380) [CXorf11] [ZDHHC10] [ZNF379] [ZNF380] [CGI-89] [UNQ261/PRO298]
+ZFP92      Xq28            A6NM28     ZFP92_HUMAN        Zinc finger protein 92 homolog (Zfp-92)
+ZFX        Xp21.3          P17010     ZFX_HUMAN   314980 Zinc finger X-chromosomal protein
+ZIC3       Xq26.2          O60481     ZIC3_HUMAN  300265 Zinc finger protein ZIC 3 (Zinc finger protein 203) (Zinc finger protein of the cerebellum 3) [ZNF203]
+ZMAT1      Xq21            Q5H9K5     ZMAT1_HUMAN 301007 Zinc finger matrin-type protein 1 [KIAA1789]
+ZMYM3      Xq13.1          Q14202     ZMYM3_HUMAN 300061 Zinc finger MYM-type protein 3 (Zinc finger protein 261) [DXS6673E] [KIAA0385] [ZNF261]
+ZNF157     Xp11.2          P51786     ZN157_HUMAN 300024 Zinc finger protein 157 (Zinc finger protein HZF22)
+ZNF182     Xp11.23-p22.11  P17025     ZN182_HUMAN 314993 Zinc finger protein 182 (Zinc finger protein 21) (Zinc finger protein KOX14) [KOX14] [ZNF21]
+ZNF185     Xq28            O15231     ZN185_HUMAN 300381 Zinc finger protein 185 (LIM domain protein ZNF185) (P1-A)
+ZNF275     Xq28            Q9NSD4     ZN275_HUMAN        Zinc finger protein 275
+ZNF280C    Xq25            Q8ND82     Z280C_HUMAN        Zinc finger protein 280C (Suppressor of hairy wing homolog 3) (Zinc finger protein 633) [SUHW3] [ZNF633]
+ZNF41      Xp11.23         P51814     ZNF41_HUMAN 314995 Zinc finger protein 41
+ZNF449     Xq26.3          Q6P9G9     ZN449_HUMAN 300627 Zinc finger protein 449 (Zinc finger and SCAN domain-containing protein 19) [ZSCAN19]
+ZNF630     Xp11.1-p11.3    Q2M218     ZN630_HUMAN 300819 Zinc finger protein 630
+ZNF674     Xp11            Q2M3X9     ZN674_HUMAN 300573 Zinc finger protein 674
+ZNF711     Xq21.1          Q9Y462     ZN711_HUMAN 314990 Zinc finger protein 711 (Zinc finger protein 6) [CMPX1] [ZNF6]
+ZNF75D     Xq26            P51815     ZN75D_HUMAN 314997 Zinc finger protein 75D (Zinc finger protein 75) (Zinc finger protein 82) [ZNF75] [ZNF82]
+ZNF81      Xp11-p22.1      P51508     ZNF81_HUMAN 314998 Zinc finger protein 81 (HFZ20)
+ZRSR2      Xp22.1          Q15696     U2AFM_HUMAN 300028 U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 2 (CCCH type zinc finger, RNA-binding motif and serine/arginine rich protein 2) (Renal carcinoma antigen NY-REN-20) (U2(RNU2) small nuclear RNA auxiliary factor 1-like 2) (U2AF35-related protein) (URP) [U2AF1-RS2] [U2AF1L2] [U2AF1RS2] [URP]
+ZXDA       Xp11.21         P98168     ZXDA_HUMAN  300235 Zinc finger X-linked protein ZXDA
+ZXDB       Xp11.1          P98169     ZXDB_HUMAN  300236 Zinc finger X-linked protein ZXDB
+-          Xp11.22         Q8N8P6     YX004_HUMAN        Putative uncharacterized protein FLJ39060
+-          Xq13.1          Q56UQ5     TPT1L_HUMAN        TPT1-like protein
+-          Xq23            Q9BTK2     YX002_HUMAN        Putative uncharacterized protein LOC642776
+
+-----------------------------------------------------------------------
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+-----------------------------------------------------------------------

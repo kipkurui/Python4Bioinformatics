@@ -111,20 +111,23 @@ These lectures are using Jupyter notebooks which mix Python code with documentat
 
 This course is broken up into a number of notebooks (lectures).
 ### Session 1
-* [00](Intro-to-Python/00.ipynb) This introduction with additional information below on how to get started in running python
-* [01](Intro-to-Python/01.ipynb) Basic data types and operations (numbers, strings) 
+* [00](Notebooks/00.ipynb) This introduction with additional information below on how to get started in running python
+* [01](Notebooks/01.ipynb) Basic data types and operations (numbers, strings) 
+* [02](Notebooks/02.ipynb) String manipulation 
 
 ### Session 2
-* [02](Intro-to-Python/02.ipynb) String manipulation 
-* [03](Intro-to-Python/03.ipynb) Data structures: Lists and Tuples
-* [04](Intro-to-Python/04.ipynb) Data structures (continued): dictionaries
+* [03](Notebooks/03.ipynb) Data structures: Lists and Tuples
+* [04](Notebooks/04.ipynb) Data structures (continued): dictionaries
 
 ### Session 3
-* [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
-* [06](Intro-to-Python/06.ipynb) Functions
-* [07](Intro-to-Python/07.ipynb) Scripting with python
-* [08](Intro-to-Python/08.ipynb) Data Analysis and plotting with Pandas
-* [09](Intro-to-Python/09.ipynb) Reproducible Bioinformatics Research
+* [05](Notebooks/05.ipynb) Control statements: if, for, while, try statements
+* [06](Notebooks/06.ipynb) Functions
+* [07](Notebooks/07.ipynb) Scripting with python
+
+### Session 4
+* [08](Notebooks/08.ipynb) Data Analysis and plotting with Pandas
+* [09](Notebooks/09.ipynb) Reproducible Bioinformatics Research
+* [10](Notebooks/10.ipynb) Reproducible Bioinformatics Research
 
 This is a tutorial style introduction to Python. For a quick reminder/summary of Python syntax, the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/.
 
